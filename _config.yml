@@ -154,8 +154,10 @@ ticketsOffers:
   buyButtonLink: ""
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validFrom: "2017-08-25T10:00"
+  validThrough: "2017-09-30T23:59"
+  soldOut: true
+  soldOutText: "Plazo terminado"
  -
   name: "Last Chance"
   price: "450"
