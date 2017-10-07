@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Premios de Datos Abiertos de Madrid 2017"
-email: "devfest@gdg.org.ua"
+email: "visualizar@medialab-prado.es"
 description: "En colaboración con Medialab-Prado y el Laboratorio de Datos DataLab, el Ayuntamiento de Madrid lanza la segunda convocatoria de los concursos de Periodismo de Datos y Datatón Ciudad de Madrid con el objetivo de fomentar el uso de la información del sector público del Portal de Datos Abiertos"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
@@ -21,10 +21,10 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "Medialab-Prado"
+organizerAlternateName: "DataLab"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "visualizar@medialab-prado.es"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
@@ -89,20 +89,20 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "Lugar"
+eventLocationName: "Medialab-Prado"
+eventLocationLink: "http://medialab-prado.es"
+eventStreetAddress: "Plaza de las Letras. Calle Alameda, 15 "
+eventAddressLocality: "Madrid"
+eventAddressLocalityRegion: "Madrid"
+eventPostalCode: "28014"
+eventAddressCountry: "Spain"
+eventStartTime: "2017-10-20T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2017-10-22T20:00"
+eventPlaceCoordinates: "40.41063,-3.69366"
+mapCenterCoordinates: "40.41063,-3.69366"
+mapMobileCenterCoordinates: "40.41063,-3.69366"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -213,8 +213,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "40.41063, -3.69366"
+logisticsMapMobileCenterCoordinates: "40.41063, -3.69366"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
