@@ -44,11 +44,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-<<<<<<< HEAD
- - {permalink: "/schedule/", text: "Agenda"}
-=======
  - {permalink: "/schedule/", text: "Programa"}
->>>>>>> 70c9e16dd222a80ca8e1fbaa063657f6b13f1a93
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logística"}
@@ -58,19 +54,11 @@ bottomNavigationLinks:
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
-<<<<<<< HEAD
 # Home Block
 homeImage: "medialab_exterior_architizer.jpg"
-homeTitle: "Premios de Datos Abiertos de Madrid <typeout> 2017"
-eventDate: "September - November, 2014"
-=======
-# Hero Block
-heroImage: "hero.jpg"
-heroTitle: "DataMad <typeout> 2017"
-eventDate: "Octubre - November, 2017"
->>>>>>> 70c9e16dd222a80ca8e1fbaa063657f6b13f1a93
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+homeTitle: "Premios de Datos Abiertos de Madrid 2017"
+eventDate: "Octubre - Diciembre, 2017"
+#typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -154,10 +142,8 @@ ticketsOffers:
   buyButtonLink: ""
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-08-25T10:00"
-  validThrough: "2017-09-30T23:59"
-  soldOut: true
-  soldOutText: "Plazo terminado"
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
   price: "450"
