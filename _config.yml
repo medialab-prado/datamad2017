@@ -44,7 +44,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
+<<<<<<< HEAD
+ - {permalink: "/schedule/", text: "Agenda"}
+=======
  - {permalink: "/schedule/", text: "Programa"}
+>>>>>>> 35bc9b15177b50fbea6d4a62fe9832a8a82cada0
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logística"}
@@ -55,9 +59,15 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
+<<<<<<< HEAD
 heroImage: "hero.jpg"
 heroTitle: "DataMad <typeout> 2017"
 eventDate: "Octubre - November, 2017"
+=======
+homeImage: "medialab_exterior_architizer.jpg"
+heroTitle: "GDG DevFest <typeout> 2014"
+eventDate: "September - November, 2014"
+>>>>>>> 99a0f6355d3350aa5eb5e8570a0672989bf8efce
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
