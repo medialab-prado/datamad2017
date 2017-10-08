@@ -11,29 +11,6 @@
     - {name: "twitter", link: "https://twitter.com/adolflow"}
     - {name: "github", link: "https://github.com/flowsta"}
 - 
-  id: 4
-  name: "Vicky"
-  surname: "Bolaños"
-  company: ""
-  title: "Periodista"
-  bio: "Vicky Bolaños es periodista licenciada por la Universitat Autònoma de Barcelona. Ha trabajado en diversos medios: enredando.com, TV Calvià, Europa Press y TVE. Actualmente trabaja en rtve.es.<br>Paralelamente ha participado en proyectos sociales y culturales: un programa de radio del Servicio de Voluntariado Europeo (EVS), un magazine cultural online y diversas revistas. <br><br>Desde diciembre de 2011 colabora en el equipo de Qué hacen los diputados, un proyecto de difusión de la información parlamentaria a través de una página web y de las redes sociales (@que_hacen).<br><br>En la actualidad estudia el Máster en Comunicación, Cultura y Ciudadanía Digitales (CCCD) de la Universidad Rey Juan Carlos en colaboración con Medialab-Prado."
-  thumbnailUrl: VickyBolanos.jpg
-  rockstar: true
-- 
-  id: 5
-  name: "Victoria"
-  surname: "Anderica"
-  company: "Ayuntamiento de Madrid"
-  title: "Directora del Proyecto de Transparencia"
-  bio: "Dirije el proyecto de Transparencia del Ayuntamiento de Madrid, que se impulsa desde el Área de Gobierno de Participación Ciudadana, Transparencia y Gobierno Abierto."
-  thumbnailUrl: VictoriaAnderica.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/vickyande"}
-- 
   id: 6
   name: "Representante"
   surname: "del Ayuntamiento de Madrid"
