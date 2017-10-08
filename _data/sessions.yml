@@ -6,7 +6,7 @@
   description: "El mejor momento para hablar con ponentes y asistentes"
 -
   id: 503
-  title: "Lunch Break"
+  title: "Descanso para comer"
   place: "Dining room"
   service: true
 -
@@ -81,6 +81,16 @@
   id: 008
   title: "Trabajo en equipo"
   description: "Tiempo para desarrollar los proyectos"
+  subtype: keynote
+  speakers: []
+  language: es
+  complexity: "Expert"
+  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 009
+  title: "Fallo de los premios y ceremonia de entrega de premios"
+  description: "Los proyectos ganadores serán seleccionados por el mismo jurado que el del Premio de Periodismo de Datos"
   subtype: keynote
   speakers: []
   language: es

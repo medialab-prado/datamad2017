@@ -45,6 +45,11 @@
         sessionIds: [007]
     }
     - {
+        startTime: "14:30",
+        endTime: "16:00",
+        sessionIds: [503]
+    }
+    - {
         startTime: "16:00",
         endTime: "20:30",
         sessionIds: [008]
@@ -70,4 +75,15 @@
         startTime: "10:00",
         endTime: "14:30",
         sessionIds: [008]
+    }
+- 
+  date: "2017-12-15"
+  dateReadable: "Viernes 15 de diciembre"
+  tracks: 
+    - {title: "LAB1", color: "#90be4e"}
+  timeslots: 
+    - {
+        startTime: "10:00",
+        endTime: "14:30",
+        sessionIds: [009]
     }
