@@ -1,6 +1,15 @@
 Distribucion de las imagenes background por orden
 
-medialab_auditorio3_flickr.jpg -> hero (pagina inicio)
-medialab_plantabaja2_flickr.jpg -> statistics
-medialab_gente_currando_flickr.jpg -> rockstar speakers																																		
+medialab_auditorio3_flickr.jpg -> homeImage(pagina inicio) -antes heroImage
+medialab_plantabaja2_flickr.jpg -> statisticsBlockImage
+medialab_auditorio2_flickr.jpg -> rockstarSpeakersImage
+medialab_exterior_architizer.jpg -> venueBigImage
+medialab_exterior2_architizer.jpg -> venueSmallImage1
+medialab_plantabaja2_flickr.jpg -> venueSmallImage2
+medialab_ropa_flickr.jpg -> venueSmallImage3
+medialab_ventana2_flickr.jpg -> tweetsFeedImage
+medialab_gentecurrando4_flickr.jpg -> judgesImage
+
+
+ 																																		
 																																																																																																																												
