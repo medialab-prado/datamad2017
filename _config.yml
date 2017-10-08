@@ -54,13 +54,7 @@ rightNavigationButtons:
 
 # Home Block
 homeImage: "medialab_auditorio3_flickr.jpg"
-homeTitle: "Premios de Datos Abiertos de Madrid 2017"
-eventDate: "Octubre - Diciembre, 2017"
-#typeoutFallback: "Season"
-homeTitle: "Premios de Datos Abiertos de Madrid <typeout> 2017"
-eventDate: "September - November, 2014"
 # Hero Block
-heroImage: "medialab_auditorio3_flickr.jpg"
 heroTitle: "DataMad <typeout> 2017"
 eventDate: "Octubre - Diciembre, 2017"
 typeoutTextValues: '"", "Madrid", "Datos abiertos", "Periodismo de datos", "Datatón"'
@@ -116,7 +110,7 @@ venueSmallImage1: "medialab_exterior2_architizer.jpg"
 venueSmallImage2: "medialab_plantabaja2_flickr.jpg"
 venueSmallImage3: "medialab_ropa_flickr.jpg"
 venueTitle: "Medialab-Prado"
-venueFeatures: ["Medialab-Prado es un laboratorio ciudadano de producción, investigación y difusión de proyectos culturales  perteneciente al Área de Gobierno de Cultura y Deportes del Ayuntamiento de Madrid"]
+venueFeatures: ["Medialab-Prado es un laboratorio ciudadano de producción, investigación y difusión de proyectos culturales"]
 
 # Tweets Feed Block
 tweetsFeedImage: "medialab_ventana2_flickr.jpg"
@@ -231,7 +225,7 @@ hackathonRows:
  - {title: "Mobilomics", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
 # Hackathon Judges Block
-judgesImage: "judges.jpg"
+judgesImage: "medialab_gentecurrando4_flickr.jpg"
 judgesTitle: "Jurado"
 
 # Hackathon Prizes Block
