@@ -46,14 +46,6 @@ navigationLinks:
  - {permalink: "/proyectos/", text: "Proyectos"}
  - {permalink: "/ponentes/", text: "Ponentes"}
  - {permalink: "/blog/", text: "Blog"}
-<<<<<<< HEAD
- - {permalink: "/schedule/", text: "Programa"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logística"}
- - {permalink: "/hackathon/", text: "DataMad"}
-=======
->>>>>>> a51ffaf064fa19ff57b12b1f8dc4259cb69419a7
  - {permalink: "/equipo/", text: "Equipo"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -61,18 +53,14 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Home Block
-<<<<<<< HEAD
-homeImage: "medialab_gente_currando_flickr.jpg"
-=======
-homeImage: "medialab_exterior_architizer.jpg"
+homeImage: "medialab_auditorio3_flickr.jpg"
 homeTitle: "Premios de Datos Abiertos de Madrid 2017"
 eventDate: "Octubre - Diciembre, 2017"
 #typeoutFallback: "Season"
 homeTitle: "Premios de Datos Abiertos de Madrid <typeout> 2017"
 eventDate: "September - November, 2014"
 # Hero Block
-heroImage: "hero.jpg"
->>>>>>> a51ffaf064fa19ff57b12b1f8dc4259cb69419a7
+heroImage: "medialab_auditorio3_flickr.jpg"
 heroTitle: "DataMad <typeout> 2017"
 eventDate: "Octubre - Diciembre, 2017"
 typeoutTextValues: '"", "Madrid", "Datos abiertos", "Periodismo de datos", "Datatón"'
@@ -84,12 +72,12 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca del DataMad"
 aboutBlock:
- - {title: "Ponencias", image: "conference.jpg", text: "Representantes de organismos públicos nos hablarán de sus datos y servicios abiertos" }
- - {title: "Datatón", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- - {title: "Premio Periodismo de Datos", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Ponencias", image: "medialab_auditorio_flickr.jpg", text: "Representantes de organismos públicos nos hablarán de sus datos y servicios abiertos" }
+ - {title: "Datatón", image: "medialab_gente_currando_flickr.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Premio Periodismo de Datos", image: "medialab_lab1_flickr.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "medialab_plantabaja2_flickr.jpg"
 statisticBlock:
  - {count: "60", specialCharacter: "+", info: "asistentes", detail: "de diferentes perfiles"}
  - {count: "48", specialCharacter: "+", info: "horas", detail: "de trabajo con datos abiertos"}
@@ -100,7 +88,7 @@ statisticBlock:
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "medialab_auditorio_flickr.jpg"
+rockstarSpeakersImage: "medialab_auditorio2_flickr.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Expertos en datos abiertos"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
@@ -123,15 +111,15 @@ mapMobileCenterCoordinates: "40.41063,-3.69366"
 
 # Venue Block
 venueBlockTitle: "Instalaciones"
-venueBigImage: "medialab_gente_currando2_flickr.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBigImage: "medialab_exterior_architizer.jpg"
+venueSmallImage1: "medialab_exterior2_architizer.jpg"
+venueSmallImage2: "medialab_plantabaja2_flickr.jpg"
+venueSmallImage3: "medialab_ropa_flickr.jpg"
+venueTitle: "Medialab-Prado"
+venueFeatures: ["Medialab-Prado es un laboratorio ciudadano de producción, investigación y difusión de proyectos culturales  perteneciente al Área de Gobierno de Cultura y Deportes del Ayuntamiento de Madrid"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "medialab_ventana2_flickr.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "datamad17"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
@@ -142,7 +130,7 @@ partnersTitle: "Colaboran"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
+subscribeImage: "medialab_ventana_flickr.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
@@ -158,12 +146,6 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: ""
   buyButtonText: "Buy Now"
-<<<<<<< HEAD
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
-=======
->>>>>>> a51ffaf064fa19ff57b12b1f8dc4259cb69419a7
   ticketContentList: ["Datos Abiertos", "Software Libre"]
   validFrom: "2017-08-25T10:00"
   validThrough: "2017-09-30T23:59"

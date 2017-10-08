@@ -1,0 +1,6 @@
+Distribucion de las imagenes background por orden
+
+medialab_auditorio3_flickr.jpg -> hero (pagina inicio)
+medialab_plantabaja2_flickr.jpg -> statistics
+medialab_gente_currando_flickr.jpg -> rockstar speakers																																		
+																																																																																																																												
