@@ -3,40 +3,36 @@
   name: "Adolfo"
   surname: "Antón Bravo"
   company: "Datalab de Medialab-Prado"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  title: "Periodista de datos"
+  bio: " Adolfo es doctor en Ciencias de la Información por la Universidad Complutense de Madrid donde ha realizado su tesis sobre Tecnologías de la Web Semántica; Presidente de Open Knowledge España y editor de Infotics.es (@infotics), coordina desde 2014 las actividades del grupo de trabajo de Periodismo de Datos de Medialab-Prado y las Jornadas de Periodismo de Datos.<br><br>Trabaja como diseñador, periodista, formador y es un apasionado del Software Libre y el conocimiento abierto."
+  thumbnailUrl: AdolfoAnton.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "twitter", link: "https://twitter.com/adolflow"}
+    - {name: "github", link: "https://github.com/flowsta"}
 - 
   id: 4
   name: "Vicky"
   surname: "Bolaños"
-  company: "desconocido"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  company: ""
+  title: "Periodista"
+  bio: "Vicky Bolaños es periodista licenciada por la Universitat Autònoma de Barcelona. Ha trabajado en diversos medios: enredando.com, TV Calvià, Europa Press y TVE. Actualmente trabaja en rtve.es.<br>Paralelamente ha participado en proyectos sociales y culturales: un programa de radio del Servicio de Voluntariado Europeo (EVS), un magazine cultural online y diversas revistas. <br><br>Desde diciembre de 2011 colabora en el equipo de Qué hacen los diputados, un proyecto de difusión de la información parlamentaria a través de una página web y de las redes sociales (@que_hacen).<br><br>En la actualidad estudia el Máster en Comunicación, Cultura y Ciudadanía Digitales (CCCD) de la Universidad Rey Juan Carlos en colaboración con Medialab-Prado."
+  thumbnailUrl: VickyBolanos.jpg
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 5
   name: "Victoria"
-  surname: "América"
-  company: "desconocido"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  surname: "Anderica"
+  company: "Ayuntamiento de Madrid"
+  title: "Directora del Proyecto de Transparencia"
+  bio: "Dirije el proyecto de Transparencia del Ayuntamiento de Madrid, que se impulsa desde el Área de Gobierno de Participación Ciudadana, Transparencia y Gobierno Abierto."
+  thumbnailUrl: VictoriaAnderica.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "https://twitter.com/vickyande"}
 - 
   id: 6
   name: "Representante"
@@ -48,9 +44,6 @@
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
   name: "Representante"
@@ -62,23 +55,20 @@
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
 - 
   id: 8
   name: "José Luis"
   surname: "Esteban Aparicio"
-  company: "Por confirmar"
-  title: "Título por confirmar"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  company: ""
+  title: "Haskell evangelist"
+  bio: "I've been working on software development for several years. I've been working in algorithms and backend software with many technologies. I love technologies and learning new things."
+  thumbnailUrl: JoseLuisEsteban.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "github", link: "https://github.com/jleahred"}
+    - {name: "site", link: "http://jleahred.github.io/"}
 - 
   id: 9
   name: "Representante"
@@ -91,5 +81,4 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+"}
