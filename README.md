@@ -3,13 +3,20 @@
 
 ### Dependencias a resolver para desarrollo con Ubuntu 16:
 
-sudo apt install libxml2-dev
+	sudo apt install libxml2-dev
 
-sudo apt install gcc make zlib1g-dev sqlite3
+	sudo apt install gcc make zlib1g-dev sqlite3
 
-sudo gem install nokogiri
+	sudo gem install nokogiri
 
 
+Instala las gems de ruby que hay en el gemfile:
+
+	bundle install
+
+lanza el servidor de jekyll desde el directorio local:
+
+	bundle exec jekyll serve
 
 ### About
 
