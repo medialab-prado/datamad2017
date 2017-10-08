@@ -17,10 +17,8 @@
   company: "Ayuntamiento de Madrid"
   title: "Título por confirmar"
   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: AyuntamientoMadrid.png
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
 - 
   id: 7
   name: "Representante"
@@ -28,34 +26,30 @@
   company: "EMT"
   title: "Título por confirmar"
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: EMT.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
 - 
   id: 8
   name: "José Luis"
   surname: "Esteban Aparicio"
-  company: ""
+  company: "Haskell Madrid"
   title: "Haskell evangelist"
   bio: "I've been working on software development for several years. I've been working in algorithms and backend software with many technologies. I love technologies and learning new things."
-  thumbnailUrl: JoseLuisEsteban.jpg
+  thumbnailUrl: HaskellMadrid.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Haskell", title: "Haskell Madrid", url: ""}
   social: 
     - {name: "github", link: "https://github.com/jleahred"}
     - {name: "site", link: "http://jleahred.github.io/"}
 - 
   id: 9
   name: "Representante"
-  surname: "ODI/OEG/UPM"
-  company: "Por confirmar"
-  title: "Título por confirmar"
+  surname: ""
+  company: "ODI/OEG/UPM"
+  title: ""
   bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: UPM.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+"}
+    - {name: "twitter", link: "https://twitter.com/"}
