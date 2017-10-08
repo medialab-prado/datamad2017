@@ -46,11 +46,6 @@ navigationLinks:
  - {permalink: "/proyectos/", text: "Proyectos"}
  - {permalink: "/ponentes/", text: "Ponentes"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programa"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logística"}
- - {permalink: "/hackathon/", text: "DataMad"}
  - {permalink: "/equipo/", text: "Equipo"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -151,9 +146,6 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: ""
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
   ticketContentList: ["Datos Abiertos", "Software Libre"]
   validFrom: "2017-08-25T10:00"
   validThrough: "2017-09-30T23:59"
