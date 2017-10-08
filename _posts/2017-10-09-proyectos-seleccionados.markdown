@@ -8,15 +8,25 @@ isStaticPost: false
 
 #### Refugiados: los animales abandonados en España
 
+[Flora Fosset](mailto:flora.fosset@gmail.com)
+http://fosset.co
+
 Este proyecto nace de la voluntad de reducir la cantidad de ingresos de animales en refugios así como su estancia allí, sensibilizando acerca del tema del abandono y fomentado la adopción de animales abandonados. Inicialmente, el proyecto estará centrado en el caso del Ayuntamiento de Madrid, pero el objetivo futuro es tejer alianzas con otros centros municipales y refugios para trabajar juntos hacia el mismo objetivo.
 
 
 #### Mayorcetes
 
-Un app donde una persona mayor que no se atreve por no saber buscar, o por motivo de movilidad, no acude a un centro para mayores para comer, tomar su cañita, bailar y conocer amig@s
+[Pedro Ecenarro Quetglas](mailto:chiri532000@yahoo.es)
+
+Un app donde una persona mayor que no se atreve por no saber buscar, o por motivo de movilidad, no acude a un centro para mayores para comer, tomar su cañita, bailar y conocer amig@s.
+un app para ellos donde tengan un mapa a donde pueden acudir o igualmente crear en el map un metting point en Madrid, punto de partida donde conocer y partir de ahí hacia los distintos puntos de club social o terracitas.
+Un app divertido donde también pueda ver y chatear con quién va al punto de encuentro.
 
 
 #### La historia de Madrid a través de sus calles
+
+[Patricia Horrillo Guerra](mailto:patricia.horrillo@gmail.com)
+http://patriciahorrillo.com/
 
 Las calles y plazas son los sitios por los que transitamos, donde está nuestra casa, nuestro trabajo,el lugar al que vamos a comer o nuestro centro de salud. Es decir, los sitios en los que se desarrolla nuestra vida. Y sus nombres no son inocuos. Hay calles con nombres de personas, de lugares, de hechos históricos, de oficios, de animales.
 Cuando las instituciones ponen nombre a las calles o plazas de nuestras ciudades hacen mucho más que una acción administrativa de identificación: rinden un homenaje a algo o a alguien. Normalmente, no hacemos demasiado caso a esos nombres y no nos detenemos a observar la importancia que tienen y que definen el carácter de la propia ciudad.
@@ -29,6 +39,9 @@ De manera consensuada, deberíamos poder establecer las diferentes categorías y
 
 #### Pure Madrid
 
+[Javier Delgado Aylagas](mailto:delga.soria@gmail.com)
+https://www.linkedin.com/in/javierdelgadoaylagas/
+
 Una app que, apoyada en un servidor, permita a los usuarios conocer en cualquier momento el estado de la contaminación de Madrid y de las restricciones de tráfico asociadas.
 
 El enfoque que le hemos dado a esta aplicación está centrado en la información que creemos que más le puede interesar al usuario: la restricción de tráfico que pueda aplicarse cada día, sin tener que estar preocupado por no conocer el estado actual.
@@ -38,7 +51,10 @@ La motivación que nos ha llevado a presentar este proyecto fue el caos que se o
 
 #### Tripscore
 
-Tripscore es una aplicación web que permite obtener recomendaciones de rutas en transporte público comparando las preferencias del usuario con datos históricos sobre la calidad del transporte. Esta aplicación se encuentra disponible en http://tripscore.eu/ y fue desarrollada durante el mes de Julio de 2017 en el evento Open Summer of Code en Bruselas (Bélgica) en el contexto del proyecto europeo OASIS.
+[David Chaves Fraga](mailto:dchaves@fi.upm.es)
+http://www.oeg-upm.net/index.php/en/phdstudents/385-dchaves/index.html
+
+[Tripscore](http://tripscore.eu/) es una aplicación web que permite obtener recomendaciones de rutas en transporte público comparando las preferencias del usuario con datos históricos sobre la calidad del transporte. Esta aplicación se encuentra disponible en [http://tripscore.eu/](http://tripscore.eu/) y fue desarrollada durante el mes de Julio de 2017 en el evento Open Summer of Code en Bruselas (Bélgica) en el contexto del proyecto europeo OASIS.
 
 Actualmente la aplicación contiene los datos de los trenes que circulan por todo Bélgica. Como participantes de OASIS, el Grupo de Ingeniería Ontológica (OEG) de la Universidad Politécnica de Madrid junto con el el Consorcio de Transportes de Madrid (CRTM) han ideado el plan de introducir los datos abiertos de transporte de la ciudad de Madrid para poder ofrecer este servicio a los ciudadanos.
 
@@ -49,10 +65,16 @@ Public transport, open linked data, quality of experience, EMT, CRTM.
 
 #### Madrid On You
 
+[Jesús Pérez Melero](jesusperezmelero@gmail.com)
+https://www.linkedin.com/in/jesusperezmelero/
+
 Madrid on You es una aplicación (web) que utiliza como base varios conjuntos de datos abiertos del ayuntamiento de Madrid para ofrecer al usuario distintos planes y rutas para realizar en la ciudad de Madrid. Los datasets que se utilizan se encuadran dentro de las categorías de automovilismo, ciclismo, ocio y turismo.
 
 
 #### Aire de hoy, salud para mañana
+
+[Enrique Herreros](mailto:eherrerosj@gmail.com)
+https://www.linkedin.com/in/eherreros/
 
 El aire de Madrid ha estado en boca de todos los madrileños en la actualidad tanto por la creciente conciencia por la ecología como por las medidas adoptadas para mejorar su calidad durante los últimos años.
 
@@ -65,4 +87,19 @@ __Concienciación:__ Mediante analítica visual del estado actual del aire en ti
 __Predicción:__ Mediante técnicas avanzadas de Inteligencia Artificial, la plataforma sera capaz de pronosticar los niveles de calidad del aire para las siguientes semanas o incluso meses.
 
 __Monitorización:__ La plataforma permitirá analizar los periodos en los que Madrid estaba sometida al protocolo de medidas adoptadas durante episodios de alta contaminación. Así, el usuario podrá comprobar si dichas medidas fueron suficientes para paliar los niveles de contaminación y mantenerlos estables.
+
+#### DoctorData: datos abiertos colaborativos usando OpenStreetMap
+
+[Esteban González Guardia](mailto:egonzalez@ciclope.info)
+https://improvemydata.github.io/DoctorData/
+
+Uno de los principales problemas a los que se enfrenta un portal de datos abiertos es la cobertura y calidad de los datos que se encuentran en él. Éstos son generados por las propias administraciones públicas con gran esfuerzo y buscando entre la información que han ido almacenado a lo largo de los años en distintos formatos.
+
+Ante estos hechos, nos surge una pregunta: ¿pueden los ciudadanos ayudar a las administraciones en la tarea de recolección de datos?
+
+[OpenStreetMap](http://openstreetmap.org) (OSM) es un mapa colaborativo construido por ciudadanos de todo el mundo y cuyos datos son de uso libre y bajo licencia abierta.
+
+DoctorData pretende mejorar la cantidad y calidad de los datos complementando los conjuntos de datos presentes en el portal con la información disponible disponible en la plataforma OSM. De esta forma se involucrará a la ciudadanía de forma *indirecta* en esta tarea.
+
+Además, como recompensa a la labor de la gente, se pretende integrar algunos datasets del portal de datos abiertos en OSM.
 
