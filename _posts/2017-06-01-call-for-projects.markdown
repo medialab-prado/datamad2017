@@ -21,9 +21,9 @@ Los ganadores de ambos concursos se darán a conocer el 15 de diciembre de 2017.
 
 Los proyectos ganadores, seleccionados por el mismo jurado que en el concurso de periodismo de datos, se darán a conocer el 15 de diciembre de 2017. Se darán los siguientes premios:
 
-    Primer premio: 2.500 euros.
-    Segundo premio: 1.000 euros.
-    Tercer premio: 500 euros.
+* Primer premio: 2.500 euros.
+* Segundo premio: 1.000 euros.
+* Tercer premio: 500 euros.
 
 #### Fases
 
@@ -47,9 +47,9 @@ Posteriormente, se podrá trabajar o bien en línea o bien en Medialab-prado has
 
 Los proyectos ganadores, seleccionados por el mismo jurado que el del Premio de Periodismo de Datos, se darán a conocer el 15 de diciembre de 2017. Optarán a conseguir:
 
-    Primer premio: 2.500 euros.
-    Segundo premio: 1.000 euros.
-    Tercer premio: 500 euros.
+* Primer premio: 2.500 euros.
+* Segundo premio: 1.000 euros.
+* Tercer premio: 500 euros.
 
 #### Bases
 
@@ -57,11 +57,11 @@ Se pueden presentar ideas y proyectos originales o evolutivos que estén basados
 
 Un requisito indispensable de estos trabajos es que posean licencias libres (software, documentación, obras, etc.) y que se publiquen en una plataforma libre que permita colaboración.
 
-####Participantes
+#### Participantes
 
 Se reconocerán los trabajos en dos modalidades: una para profesionales y otra para estudiantes de cualquier disciplina, a título individual o colectivo ambas dos (de ser así, se debe elegir una persona representante). Lxs estudiantes también pueden enviar trabajos presentados en una asignatura.
 
-####Requisitos de los trabajos presentados
+#### Requisitos de los trabajos presentados
 
 * Se pueden presentar ideas o proyectos originales o evoluciones significativas de proyectos anteriores, debidamente justificadas.
 * En caso de que los proyectos que se presenten incorporen soluciones ya existentes o datos procedentes de otras fuentes, el participante debe garantizar que dispone de todos los derechos para su utilización y dicha utilización se realizará conforme a la normativa que, en su caso, sea de aplicación.

@@ -41,11 +41,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/proyectos/", text: "Proyectos"}
+ - {permalink: "/", text: "Inicio"}
  - {permalink: "/programa/", text: "Programa"}
+ - {permalink: "/proyectos/", text: "Proyectos"}
+ - {permalink: "/ponentes/", text: "Ponentes"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/equipo/", text: "Equipo"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -177,27 +177,26 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=DataLab", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://es-es.facebook.com/MedialabPradoMadrid", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://medialab-prado.es", text: "medialab-prado.es"}
+   - {link: "http://http://datos.madrid.es", text: "Portal de datos abiertos del Ayuntamiento de Madrid"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:visualizar@medialab-prado.es", text: "visualizar@medialab-prado.es"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas entradas"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
