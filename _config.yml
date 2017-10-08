@@ -49,6 +49,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/hackathon/", text: "DataMad"}
+<<<<<<< HEAD
+=======
+ - {permalink: "/equipo/", text: "Equipo"}
+>>>>>>> 7eec6db91b43264233d60ebf84bc9749d0740acc
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -59,6 +63,17 @@ homeImage: "medialab_exterior_architizer.jpg"
 homeTitle: "Premios de Datos Abiertos de Madrid 2017"
 eventDate: "Octubre - Diciembre, 2017"
 #typeoutFallback: "Season"
+<<<<<<< HEAD
+=======
+homeTitle: "Premios de Datos Abiertos de Madrid <typeout> 2017"
+eventDate: "September - November, 2014"
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "DataMad <typeout> 2017"
+eventDate: "Octubre - Noviembre, 2017"
+typeoutTextValues: '"", "Madrid", "Datos abiertos", "Periodismo de datos", "Datatón"'
+typeoutFallback: "Datos abiertos"
+>>>>>>> 7eec6db91b43264233d60ebf84bc9749d0740acc
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -144,6 +159,14 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
+<<<<<<< HEAD
+=======
+  ticketContentList: ["Datos Abiertos", "Software Libre"]
+  validFrom: "2017-08-25T10:00"
+  validThrough: "2017-09-30T23:59"
+  soldOut: true
+  soldOutText: "Plazo terminado"
+>>>>>>> 7eec6db91b43264233d60ebf84bc9749d0740acc
  -
   name: "Last Chance"
   price: "450"
