@@ -8,15 +8,14 @@ isStaticPost: false
 
 #### Refugiados: los animales abandonados en España
 
-[Flora Fosset](mailto:flora.fosset@gmail.com)
-http://fosset.co
+* [Flora Fosset](mailto:flora.fosset@gmail.com)
 
 Este proyecto nace de la voluntad de reducir la cantidad de ingresos de animales en refugios así como su estancia allí, sensibilizando acerca del tema del abandono y fomentado la adopción de animales abandonados. Inicialmente, el proyecto estará centrado en el caso del Ayuntamiento de Madrid, pero el objetivo futuro es tejer alianzas con otros centros municipales y refugios para trabajar juntos hacia el mismo objetivo.
 
 
 #### Mayorcetes
 
-[Pedro Ecenarro Quetglas](mailto:chiri532000@yahoo.es)
+* [Pedro Ecenarro Quetglas](mailto:chiri532000@yahoo.es)
 
 Un app donde una persona mayor que no se atreve por no saber buscar, o por motivo de movilidad, no acude a un centro para mayores para comer, tomar su cañita, bailar y conocer amig@s.
 un app para ellos donde tengan un mapa a donde pueden acudir o igualmente crear en el map un metting point en Madrid, punto de partida donde conocer y partir de ahí hacia los distintos puntos de club social o terracitas.
@@ -25,8 +24,7 @@ Un app divertido donde también pueda ver y chatear con quién va al punto de en
 
 #### La historia de Madrid a través de sus calles
 
-[Patricia Horrillo Guerra](mailto:patricia.horrillo@gmail.com)
-http://patriciahorrillo.com/
+* [Patricia Horrillo Guerra](mailto:patricia.horrillo@gmail.com)
 
 Las calles y plazas son los sitios por los que transitamos, donde está nuestra casa, nuestro trabajo,el lugar al que vamos a comer o nuestro centro de salud. Es decir, los sitios en los que se desarrolla nuestra vida. Y sus nombres no son inocuos. Hay calles con nombres de personas, de lugares, de hechos históricos, de oficios, de animales.
 Cuando las instituciones ponen nombre a las calles o plazas de nuestras ciudades hacen mucho más que una acción administrativa de identificación: rinden un homenaje a algo o a alguien. Normalmente, no hacemos demasiado caso a esos nombres y no nos detenemos a observar la importancia que tienen y que definen el carácter de la propia ciudad.
@@ -39,8 +37,7 @@ De manera consensuada, deberíamos poder establecer las diferentes categorías y
 
 #### Pure Madrid
 
-[Javier Delgado Aylagas](mailto:delga.soria@gmail.com)
-https://www.linkedin.com/in/javierdelgadoaylagas/
+* [Javier Delgado Aylagas](mailto:delga.soria@gmail.com)
 
 Una app que, apoyada en un servidor, permita a los usuarios conocer en cualquier momento el estado de la contaminación de Madrid y de las restricciones de tráfico asociadas.
 
@@ -51,8 +48,7 @@ La motivación que nos ha llevado a presentar este proyecto fue el caos que se o
 
 #### Tripscore
 
-[David Chaves Fraga](mailto:dchaves@fi.upm.es)
-http://www.oeg-upm.net/index.php/en/phdstudents/385-dchaves/index.html
+* [David Chaves Fraga](mailto:dchaves@fi.upm.es)
 
 [Tripscore](http://tripscore.eu/) es una aplicación web que permite obtener recomendaciones de rutas en transporte público comparando las preferencias del usuario con datos históricos sobre la calidad del transporte. Esta aplicación se encuentra disponible en [http://tripscore.eu/](http://tripscore.eu/) y fue desarrollada durante el mes de Julio de 2017 en el evento Open Summer of Code en Bruselas (Bélgica) en el contexto del proyecto europeo OASIS.
 
@@ -65,16 +61,14 @@ Public transport, open linked data, quality of experience, EMT, CRTM.
 
 #### Madrid On You
 
-[Jesús Pérez Melero](jesusperezmelero@gmail.com)
-https://www.linkedin.com/in/jesusperezmelero/
+* [Jesús Pérez Melero](jesusperezmelero@gmail.com)
 
 Madrid on You es una aplicación (web) que utiliza como base varios conjuntos de datos abiertos del ayuntamiento de Madrid para ofrecer al usuario distintos planes y rutas para realizar en la ciudad de Madrid. Los datasets que se utilizan se encuadran dentro de las categorías de automovilismo, ciclismo, ocio y turismo.
 
 
 #### Aire de hoy, salud para mañana
 
-[Enrique Herreros](mailto:eherrerosj@gmail.com)
-https://www.linkedin.com/in/eherreros/
+* [Enrique Herreros](mailto:eherrerosj@gmail.com)
 
 El aire de Madrid ha estado en boca de todos los madrileños en la actualidad tanto por la creciente conciencia por la ecología como por las medidas adoptadas para mejorar su calidad durante los últimos años.
 
@@ -90,8 +84,7 @@ __Monitorización:__ La plataforma permitirá analizar los periodos en los que M
 
 #### DoctorData: datos abiertos colaborativos usando OpenStreetMap
 
-[Esteban González Guardia](mailto:egonzalez@ciclope.info)
-https://improvemydata.github.io/DoctorData/
+* [Esteban González Guardia](mailto:egonzalez@ciclope.info)
 
 Uno de los principales problemas a los que se enfrenta un portal de datos abiertos es la cobertura y calidad de los datos que se encuentran en él. Éstos son generados por las propias administraciones públicas con gran esfuerzo y buscando entre la información que han ido almacenado a lo largo de los años en distintos formatos.
 
@@ -103,3 +96,62 @@ DoctorData pretende mejorar la cantidad y calidad de los datos complementando lo
 
 Además, como recompensa a la labor de la gente, se pretende integrar algunos datasets del portal de datos abiertos en OSM.
 
+#### La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto
+
+* [Juan Antonio García Lleó](mailto:juan.a.lleo@gmail.com)
+
+El proyecto *La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto* es una iniciativa del Grupo de usuarios de Haskell de Madrid (Haskell Mad). Dentro de sus objetivos está el de profundizar en las tecnologías blockchain y en sus aplicaciones prácticas en los distintos ámbitos sociales y en este caso, dentro de los canales de comunicación ente el Ayuntamiento de Madrid y sus conciudadanos.
+
+Para ello propone hacer uso de uno de la programación funcional, uno de los paradigmas de programación que están cambiando el panorama actual del desarrollo de software. El objetivo es crear un prototipo de aplicación que pueda integrarse como una capa añadida al sistema informático de gestión Linea Madrid, en el ámbito que se determine y sin que afecte al normal funcionamiento del mismo.
+
+Este prototipo añadirá las ventajas que ofrece el uso de los sistemas de bases de datos distribuidas, tecnología conocida como blockchain, entre las que cabe destacar la imposibilidad de modificar los datos una vez incluidos y procesados en la cadena de información, con las ventajas consiguientes en cuanto a transparencia y en su caso, preservación de la intimidad del consultante.
+
+#### MADMobility
+
+* [Benjamin Arroquia Cuadros](mailto:arroquia13@gmail.com)
+
+Madrid es una gran ciudad en la que se concentra el núcleo de población más grande de España, de este hecho deriva que existan diferentes problemas que han sido motivo de debate y haya salido en las noticias con gran asiduidad: tráfico y contaminación.
+
+Estos problemas, y otras ciudades del mundo, se han convertido en preocupación en los ciudadanos y por extensión a los políticos y dirigentes. Pero, ¿se conoce el problema en profundidad? ¿se han localizado bien los factores que influyen en este campo? ¿se han identificado las zonas de Madrid más propensas a estos problemas?
+
+Este proyecto tiene como objetivo estudiar la movilidad urbana de Madrid, y trata de dar una visión diferente a la que pueda tener mediante un conocimiento normal de la ciudad puesto que trata de integrar diferentes tipos de datos diferentes técnicas de análisis. Con el uso de esta aplicación web el análisis experto basado en la visualización de mapas y gráficos, cualquier técnico municipal o personas dedicadas al estudio y conocimiento de Madrid podrá obtener una visión única y crítica.
+
+#### M30, gestión inteligente del tráfico
+
+* [Mikel Uranga Barro](mailto:mikeluranga@gmail.com)
+
+Desde hace cierto tiempo la gestión del tráfico en las ciudades se ha convertido en un tema de suma importancia y, a veces, bastante polémico. La necesidad de ofrecer al ciudadano soluciones en esta materia ha venido acompañado de un mayor énfasis en la medición y obtención de datos de tráficoEl concepto de smart city que promueve la sostenibilidad urbana , el diseño de ciudades que sean capaces de mejorar la calidad de vida de su habitantes y de responder a las necesidades de los ciudadanos y las empresas, está en boga.
+
+El presente trabajo toma esas ideas y se enfoca en una ciudad concreta, Madrid, y en una de las más importantes molestias para sus ciudadanos, el tráfico.
+
+Para tratar de dar una solución primero hay que comprender el problema y, gracias a la plataforma de open data del Ayuntamiento de Madrid, disponemos de una ingente cantidad de datos para acotar correctamente la situación.
+
+Para abordar la tarea el estudio se circunscribe a la M30, foco de algunos de los mayores problemas de tráfico de la ciudad.
+
+En las siguientes secciones del trabajo se mostrará cómo obtener y tratar las distintas fuentes de información que existen sobre el tráfico en la ciudad de Madrid.
+
+Se analizarán los datos de forma descriptiva para conocer el estado actual y pasado y, finalmente, se tratará de diseñar modelos predictivos para encontrar patrones y cierta armonía en el aparente caos del tráfico de la capital.
+
+#### Turisfy
+
+* [Marco Gramaglia](mailto:mgramagl@it.uc3m.es)
+* [Pablo Serrano](mailto:pablo@it.uc3m.es)
+
+La espectacular subida de la presencia de turistas en la ciudad de Madrid, hace que este sea una de las fuentes de ingresos más importante para muchas empresas en la ciudad. Sin embargo, los turistas que visitan la ciudad a veces tienen una visión muy reducida de lo que la ciudad puede ofrecer y, peor aún, visitan los lugares más concurridos al mismo tiempo, causando por lo tanto una peor calidad de la visita.
+
+Además, en ocasiones la popularidad de un lugar o atracción turística puede eclipsar otras en su proximidad, quizás no tan populares pero igualmente interesantes, y muy accesibles. El objetivo último de este proyecto, podría decirse, es ayudar al desarrollo de un turismo "de barrio", que también puede permitir a los propios residentes conocer, valorar y cuidar mejor su
+entorno.
+
+En este proyecto se propone cruzar varios conjuntos de datos ofrecido por la ciudad de Madrid relativos al turismo (monumentos, actividades programadas, locales de diversión), con otras fuentes con APIs abiertas, como Google Maps y TripAdvisor, para crear mapas que pueden ser utilizados por los usuarios para planificar eficientemente su visita a la ciudad, dada una previsión de tiempo.
+
+Dicha planificación tendrá en cuenta además valores del entorno (contaminación acústica y del aire), así como los medios de transporte a emplear (datos de BiciMAD, de la EMT, predicción meteorológica). Se incluirán medidas de concienciación, además, sobre la huella ecológica de dicha planificación de haber sido realizada en coche o moto.
+
+El objetivo es proporcionar a los turistas informaciones sobre, p.ej. los mejores barrios donde alojarse teniendo en cuenta la disponibilidad de transporte público, las horas menos concurridas (p.ej., utilizando los datos en tiempo real) o la disponibilidad de más puntos de interés, así como recomendaciones en cuanto a coste de las diferentes actividades y medios de transporte.
+
+#### Mobilomics
+
+Visualización de patrones de movilidad. Proyecto seleccionado del [taller Visualizar17](https://twitter.com/hashtag/Visualizar17?src=hash)
+
+[Un proyecto de visualización de datos](https://medialab-prado.github.io/mobilomics/) que estudia la relación entre la movilidad y la contaminación de un día cotidiano en Madrid.
+
+Realizado en el taller de Visualizar'17: Migraciones en el centro [Medialab-Prado](http://medialab-prado.es/)
