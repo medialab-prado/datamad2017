@@ -8,14 +8,13 @@ isStaticPost: false
 
 #### Refugiados: los animales abandonados en España
 
-En febrero de este año entró en vigor la nueva ley (4/2016) de Protección Animal de la Comunidad de Madrid. La ley incluye la iniciativa Sacrificio Cero que prohíbe la eutanasia de animales en centros de acogida. Pese a la necesidad de aprobar esta iniciativa para mejorar el bienestar animal, es importante señalar que podría tener consecuencias negativas: hacinamiento en los centros de acogida, menos tiempo de atención y menor calidad de vida, entre otros. En el caso del Ayuntamiento de Madrid, el Centro de Protección Animal ya ha superado el 100% de ocupación en 2016 y siguen
-ingresando animales de manera constante.
+En febrero de este año entró en vigor la nueva ley (4/2016) de Protección Animal de la Comunidad de Madrid. La ley incluye la iniciativa Sacrificio Cero que prohíbe la eutanasia de animales en centros de acogida. Pese a la necesidad de aprobar esta iniciativa para mejorar el bienestar animal, es importante señalar que podría tener consecuencias negativas: hacinamiento en los centros de acogida, menos tiempo de atención y menor calidad de vida, entre otros. En el caso del Ayuntamiento de Madrid, el Centro de Protección Animal ya ha superado el 100% de ocupación en 2016 y siguen ingresando animales de manera constante.
 
 Como complemento de esta ley y para mejorar el bienestar animal, deberían iniciarse más medidas paralelas para combatir el abandono y fomentar la adopción. Este proyecto tiene por objetivo responder a la necesidad de sensibilización, enfrentándose a la problemática del abandono a través de una herramienta colaborativa de transparencia de datos.
 
 Este proyecto nace de la voluntad de reducir la cantidad de ingresos de animales en refugios así como su estancia allí, sensibilizando acerca del tema del abandono y fomentado la adopción de animales abandonados. Inicialmente, el proyecto estará centrado en el caso del Ayuntamiento de Madrid, pero el objetivo futuro es tejer alianzas con otros centros municipales y refugios para trabajar juntos hacia el mismo objetivo.
 
-El proyecto esta dividido en dos pilares:
+__El proyecto esta dividido en dos pilares:__
 
 __Sensibilizar sobre el abandono: los datos en tiempo real__
 
@@ -27,42 +26,79 @@ __Fomentar la adopción: una nueva plataforma web__
 
 La plataforma de adopción actual del CPA es muy formal, con perfiles poco detallados y técnicamente desfasada: no se puede buscar ni filtrar, las fotografías no se muestran en tamaño grande y muchas aparecen deformadas. La intención es modernizar esta plataforma, creando una web atractiva y cercana al usuario donde se encuentren los perfiles detallados de todos los animales que están en el centro.
 
-Además, se trata de generar tráfico a la web ofreciendo contenido de interés sobre la adopción y sobre la tenencia y educación de mascotas: consejos, cuestionarios, etc. La intención no es hablar solamente a los futuros adoptantes sino también a los dueños de animales para evitar posibles
-abandonos.
+Además, se trata de generar tráfico a la web ofreciendo contenido de interés sobre la adopción y sobre la tenencia y educación de mascotas: consejos, cuestionarios, etc. La intención no es hablar solamente a los futuros adoptantes sino también a los dueños de animales para evitar posibles abandonos.
 
 En futuras iteraciones del proyecto, queremos que los datos de todos los centros municipales y protectoras de la Comunidad de Madrid sean parte de la plataforma. El intercambio de datos entre los refugios permitirá tener una herramienta de datos mucho más completa y precisa. Gracias a la colaboración de todos los centros, conseguiremos ser el portal de referencia de adopción de animales en la región, dando más visibilidad para los animales y un rango de elección más amplio para los adoptantes.
 
+__Promotora__
+
 * [Flora Fosset](mailto:flora.fosset@gmail.com)
+
+__Perfil colaboradorxs__
+
+* Desarrolladores (front & back)
+* Miembros del Centro de Protección Animal
+* Miembros de protectoras y asociaciones en defensa del maltrato animal
+* Copywriter
+
+__Documentos del proyecto__
+
+Conjuntos de datos empleados del portal de datos abiertos:
+
+* Madrid Salud: Estadísticas centro de protección animal
+* Censo de animales domésticos por distrito
+* Áreas caninas
+* Policía Municipal: Datos estadísticos actuaciones Policía Municipal
 
 #### Mayorcetes
 
 Un app donde una persona mayor que no se atreve por no saber buscar, o por motivo de movilidad, no acude a un centro para mayores para comer, tomar su cañita, bailar y conocer amig@s.
-un app para ellos donde tengan un mapa a donde pueden acudir o igualmente crear en el map un metting point en Madrid, punto de partida donde conocer y partir de ahí hacia los distintos puntos de club social o terracitas.
+
+Un app para ellos donde tengan un mapa a donde pueden acudir o igualmente crear en el map un metting point en Madrid, punto de partida donde conocer y partir de ahí hacia los distintos puntos de club social o terracitas.
+
 Un app divertido donde también pueda ver y chatear con quién va al punto de encuentro.
 
+
+__Promotor__
 * [Pedro Ecenarro Quetglas](mailto:chiri532000@yahoo.es)
 
 #### La historia de Madrid a través de sus calles
 
-Las calles y plazas son los sitios por los que transitamos, donde está nuestra casa, nuestro trabajo,el lugar al que vamos a comer o nuestro centro de salud. Es decir, los sitios en los que se desarrolla nuestra vida. Y sus nombres no son inocuos. Hay calles con nombres de personas, de lugares, de hechos históricos, de oficios, de animales.
+Las calles y plazas son los sitios por los que transitamos, donde está nuestra casa, nuestro trabajo,el lugar al que vamos a comer o nuestro centro de salud. Es decir, los sitios en los que se desarrolla nuestra vida. Y sus nombres no son inocuos.Hay calles con nombres de personas, de lugares, de hechos históricos, de oficios, de animales.
+
 Cuando las instituciones ponen nombre a las calles o plazas de nuestras ciudades hacen mucho más que una acción administrativa de identificación: rinden un homenaje a algo o a alguien. Normalmente, no hacemos demasiado caso a esos nombres y no nos detenemos a observar la importancia que tienen y que definen el carácter de la propia ciudad.
+
 Si observamos un listado con los nombres de las calles y plazas de los 21 distritos de Madrid, nos llamará la atención la diferencia de número entre las dedicadas a hombres y a mujeres. También es importante saber el motivo por el que esas personas fueron merecedoras de una placa con su nombre, si pertenecían a la realeza, a la nobleza, al ejército, a la iglesia o si fueron reconocidas por sus méritos. Además del número de calles otorgadas a hombres y a mujeres, es importante saber dónde se sitúan éstas, en qué distritos y en qué barrios, ya que su relevancia histórica varía. Tampoco es lo mismo ser el nombre de una calle, que de una plaza, o de una avenida, o de las tres a la vez. O si es una vía peatonal o si sólo se pasa por ella en coche.
+
 No solemos conocer la propia historia de la calle, cuándo se le dio su nombre y por qué se eligió ese nombre, si se ha cambiado a lo largo de la Historia, si tiene o no relación con el distrito al que pertenece, si supone un reconocimiento...
 
-El proyecto parte de un archivo .csv con las calles actuales de los 21 distritos de Madrid que puede descargarse del portal de datos abiertos del ayuntamiento.
+El proyecto parte de un archivo .csv con las calles actuales de los 21 distritos de Madrid que puede descargarse del [portal de datos abiertos del ayuntamiento](http://datos.madrid.es/sites/v/index.jsp?vgnextoid=b3c41f3cf6a6c410VgnVCM2000000c205a0aRCRD&vgnextchannel=20d612b9ace9f310VgnVCM100000171f5a0aRCRD).
+
 De manera consensuada, deberíamos poder establecer las diferentes categorías y subcategorías que existen en esas calles: personas (hombres y mujeres), animales, vegetales, lugares, hechos, obras...
+
+__Promotora__
 
 * [Patricia Horrillo Guerra](mailto:patricia.horrillo@gmail.com)
 
+__Perfil colaboradorxs__
+
+* Personas interesadas en la Historia de Madrid y de sus calles.
+* Personas con conocimientos técnicos sobre la visualización de datos en mapas _preferiblemente OpenStreetMap_.
+* Personas con conocimientos de hojas de cálculo para el trabajo con el listado de las calles de la ciudad de Madrid.
+
 #### Pure Madrid
 
-Una app que, apoyada en un servidor, permita a los usuarios conocer en cualquier momento el estado de la contaminación de Madrid y de las restricciones de tráfico asociadas.
+Este proyecto consiste en una app que, apoyada en un servidor, permita a los usuarios conocer en cualquier momento el estado de la contaminación de Madrid y de las restricciones de tráfico asociadas.
 
 El enfoque que le hemos dado a esta aplicación está centrado en la información que creemos que más le puede interesar al usuario: la restricción de tráfico que pueda aplicarse cada día, sin tener que estar preocupado por no conocer el estado actual.
 
 La motivación que nos ha llevado a presentar este proyecto fue el caos que se organizó el año pasado al resultar que muchos ciudadanos no tenían disponible la información hasta el momento en el que encendían la radio o veían los letreros en las carreteras. Por esta razón el objetivo de esta aplicación será ayudar a los ciudadanos en la medida de lo posible a conocer los escenarios activados en cada momento.
 
 * [Javier Delgado Aylagas](mailto:delga.soria@gmail.com)
+
+__Perfil colaboradorxs__
+
+* Conocimiento la plataforma Android y de Google App Engine para Java, ademas de las librerías más populares utilizadas para el desarrollo en ambas plataformas.
 
 #### Tripscore
 
@@ -76,12 +112,53 @@ Public transport, open linked data, quality of experience, EMT, CRTM.
 
 * [David Chaves Fraga](mailto:dchaves@fi.upm.es)
 
+Perfil colaboradorxs
+
+* Programmers, web developers, Open Data and Public Transport enthusiasts.
 
 #### Madrid On You
 
 Madrid on You es una aplicación (web) que utiliza como base varios conjuntos de datos abiertos del ayuntamiento de Madrid para ofrecer al usuario distintos planes y rutas para realizar en la ciudad de Madrid. Los datasets que se utilizan se encuadran dentro de las categorías de automovilismo, ciclismo, ocio y turismo.
 
+__Automovilismo__
+
+Aparcamientos públicos municipales, zonas del SER, plazas de estacionamiento para personas con movilidad reducida, puntos de recarga de vehículos eléctricos y localización de parquímetros.
+
+__Ciclismo__
+
+Bases de BiciMad y áreas de descanso.
+
+__Ocio__
+
+Agenda de actividades y eventos.
+
+__Turismo__
+
+Embajadas y consulados, oficinas de turismo, bibliotecas y bibliobuses, edificios de carácter monumental, fundaciones, museos, templos e iglesias católicas, templos e iglesias no católicas.
+
+Utilizando todos esos datasets como base se pretenden implementar las siguientes funcionalidades:
+
+1. Rutas por edificios monumentales de Madrid.
+Los usuarios podrán crear rutas aleatorias o personalizadas por los distintos edificios de carácter monumental y turístico que hay en Madrid. Se podrán personalizar las rutas en función del año de construcción, el estilo arquitectónico, etc. Además, la ruta podrá establecerse sobre un distrito de Madrid, varios, o todo Madrid.
+
+2. Además de lo anterior, se podrán añadir a las rutas lugares conocidos de la capital para desayunar, comer, cenar Creando así rutas mucho más completas, para lo cuál será necesario disponer de un dataset que agrupe un conjunto considerable de este tipo de establecimientos.
+De esta forma, podrán crearse rutas completas para un día entero o parte del día. De nuevo, las rutas podrán establecerse sobre una parte de Madrid o por toda la ciudad.
+
+3. Como complemento a las dos funcionalidades anteriores, la aplicación podrá sugerir aparcamientos cercanos a los lugares pertenecientes a la ruta.
+
+Por tanto, los usuarios podrán saber si hay aparcamientos públicos cerca de los lugares que piensan visitar junto con la localización de sus parquímetros, así como puntos de recarga de vehículos eléctricos o plazas para movilidad reducida. Además, para fomentar el uso de BiciMad, se informará también de las bases existentes que haya cerca de los edificios a los que se va a ir, si es que las hay.
+
+Si bien existen aplicaciones y portales que implementan alguna de las anteriores funcionalidades por separado, no existe aún ningún sistema que lo haga todo a la vez, brindando al usuario una opción sencilla y rápida para planificar su viaje turístico o estancia en Madrid.
+
+__Promotor__
+
 * [Jesús Pérez Melero](jesusperezmelero@gmail.com)
+
+__Perfil colaboradorxs__
+
+* Front end, tecnologías como Bootstrap, JQuery, AJAX
+* Usabilidad y UX
+* API Google Maps
 
 #### Aire de hoy, salud para mañana
 
@@ -97,7 +174,13 @@ __Predicción:__ Mediante técnicas avanzadas de Inteligencia Artificial, la pla
 
 __Monitorización:__ La plataforma permitirá analizar los periodos en los que Madrid estaba sometida al protocolo de medidas adoptadas durante episodios de alta contaminación. Así, el usuario podrá comprobar si dichas medidas fueron suficientes para paliar los niveles de contaminación y mantenerlos estables.
 
+__Promotor__
+
 * [Enrique Herreros](mailto:eherrerosj@gmail.com)
+
+__Perfil colaboradorxs__
+
+* Data scientists, frontend developers, backend developers y web designers
 
 #### DoctorData: datos abiertos colaborativos usando OpenStreetMap
 
@@ -111,10 +194,18 @@ DoctorData pretende mejorar la cantidad y calidad de los datos complementando lo
 
 Además, como recompensa a la labor de la gente, se pretende integrar algunos datasets del portal de datos abiertos en OSM.
 
+__Promotor__
+
 * [Esteban González Guardia](mailto:egonzalez@ciclope.info)
 
-#### La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto
+__Perfil colaboradorxs__
 
+* Científico de datos
+* Programador
+* Persona con experiencia en OSM
+* Programador web (opcional)
+
+#### La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto
 
 El proyecto *La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto* es una iniciativa del Grupo de usuarios de Haskell de Madrid (Haskell Mad). Dentro de sus objetivos está el de profundizar en las tecnologías blockchain y en sus aplicaciones prácticas en los distintos ámbitos sociales y en este caso, dentro de los canales de comunicación ente el Ayuntamiento de Madrid y sus conciudadanos.
 
@@ -122,7 +213,13 @@ Para ello propone hacer uso de uno de la programación funcional, uno de los par
 
 Este prototipo añadirá las ventajas que ofrece el uso de los sistemas de bases de datos distribuidas, tecnología conocida como blockchain, entre las que cabe destacar la imposibilidad de modificar los datos una vez incluidos y procesados en la cadena de información, con las ventajas consiguientes en cuanto a transparencia y en su caso, preservación de la intimidad del consultante.
 
+__Promotor__
+
 * [Juan Antonio García Lleó](mailto:juan.a.lleo@gmail.com)
+
+__Perfil colaboradorxs__
+
+Este proyecto requiere perfiles principalmente de desarrolladores y personas con conocimientos en los siguientes campos: desarrolladores en lenguajes funcionales (Haskell), tecnologías blockchain, criptografía, ciencia de datos, desarrollo de aplicaciones web (back y front end), bases de datos, visualización, etc.
 
 #### MADMobility
 
@@ -132,7 +229,18 @@ Estos problemas, y otras ciudades del mundo, se han convertido en preocupación 
 
 Este proyecto tiene como objetivo estudiar la movilidad urbana de Madrid, y trata de dar una visión diferente a la que pueda tener mediante un conocimiento normal de la ciudad puesto que trata de integrar diferentes tipos de datos diferentes técnicas de análisis. Con el uso de esta aplicación web el análisis experto basado en la visualización de mapas y gráficos, cualquier técnico municipal o personas dedicadas al estudio y conocimiento de Madrid podrá obtener una visión única y crítica.
 
+__Promotores__
+
+* José Pablo Pascual
+
+* Alvaro Cerdá Carbonell
+
 * [Benjamin Arroquia Cuadros](mailto:arroquia13@gmail.com)
+
+__Perfil colaboradorxs__
+
+Somos un equipo de especialistas en el procesado y análisis de la información geográfica, así como en la gestión de la información.
+Tenemos conocimientos en diferentes tecnologías tanto para el tratamiento de datos como para el desarrollo y diseño web, formando un equipo idóneo para la creación de plataformas de visualización y consulta de datos.
 
 #### M30, gestión inteligente del tráfico
 
@@ -148,6 +256,8 @@ En las siguientes secciones del trabajo se mostrará cómo obtener y tratar las 
 
 Se analizarán los datos de forma descriptiva para conocer el estado actual y pasado y, finalmente, se tratará de diseñar modelos predictivos para encontrar patrones y cierta armonía en el aparente caos del tráfico de la capital.
 
+__Promotor__
+
 * [Mikel Uranga Barro](mailto:mikeluranga@gmail.com)
 
 #### Turisfy
@@ -162,6 +272,8 @@ En este proyecto se propone cruzar varios conjuntos de datos ofrecido por la ciu
 Dicha planificación tendrá en cuenta además valores del entorno (contaminación acústica y del aire), así como los medios de transporte a emplear (datos de BiciMAD, de la EMT, predicción meteorológica). Se incluirán medidas de concienciación, además, sobre la huella ecológica de dicha planificación de haber sido realizada en coche o moto.
 
 El objetivo es proporcionar a los turistas informaciones sobre, p.ej. los mejores barrios donde alojarse teniendo en cuenta la disponibilidad de transporte público, las horas menos concurridas (p.ej., utilizando los datos en tiempo real) o la disponibilidad de más puntos de interés, así como recomendaciones en cuanto a coste de las diferentes actividades y medios de transporte.
+
+__Promotores__
 
 * [Marco Gramaglia](mailto:mgramagl@it.uc3m.es)
 * [Pablo Serrano](mailto:pablo@it.uc3m.es)
