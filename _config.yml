@@ -113,21 +113,9 @@ venueSmallImage3: "medialab_ropa_flickr.jpg"
 venueTitle: "Medialab-Prado"
 venueFeatures: ["Medialab-Prado es un laboratorio ciudadano de producción, investigación y difusión de proyectos culturales"]
 
-# Tweets Feed Block
-tweetsFeedImage: "medialab_ventana2_flickr.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "datamad17"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
 # Partners Block
 organizersTitle: "Organizan"
 partnersTitle: "Colaboran"
-
-# Subscribe Block
-subscribeImage: "medialab_ventana_flickr.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Inscripciones"
@@ -182,7 +170,7 @@ footerBlocks:
 # Blog
 blogTitle: "Últimas entradas"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "datamad17"
 
 # Speakers List Block
 showSessions: true

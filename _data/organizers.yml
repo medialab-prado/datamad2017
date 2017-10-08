@@ -5,5 +5,5 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "Área de Gobierno de Participación Ciudadana, Transparencia y Gobierno Abierto del Ayuntamiento de Madrid", description: "", link: "http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Contacto/Directorio-municipal/Areas-de-gobierno/Area-de-Gobierno-de-Participacion-Ciudadana-Transparencia-y-Gobierno-Abierto?vgnextfmt=default&vgnextoid=2e0911135f5fd410VgnVCM2000000c205a0aRCRD&vgnextchannel=5dcf6e6e17ed6310VgnVCM1000000b205a0aRCRD", imageUrl: "logo_ayuntamiento_madrid"}
+    - {name: "Área de Gobierno de Participación Ciudadana, Transparencia y Gobierno Abierto del Ayuntamiento de Madrid", description: "", link: "http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Contacto/Directorio-municipal/Areas-de-gobierno/Area-de-Gobierno-de-Participacion-Ciudadana-Transparencia-y-Gobierno-Abierto?vgnextfmt=default&vgnextoid=2e0911135f5fd410VgnVCM2000000c205a0aRCRD&vgnextchannel=5dcf6e6e17ed6310VgnVCM1000000b205a0aRCRD", imageUrl: "logo_ayuntamiento_madrid.png"}
     - {name: "Medialab-Prado", description: "Cultura Digital", link: "http://medialab-prado.es", imageUrl: "medialabprado_logo.svg"}
