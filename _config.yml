@@ -172,7 +172,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "http://medialab-prado.es", text: "medialab-prado.es"}
-   - {link: "http://http://datos.madrid.es", text: "Portal de datos abiertos del Ayuntamiento de Madrid"}
+   - {link: "http://datos.madrid.es/portal/site/egob/", text: "Portal de datos abiertos del Ayuntamiento de Madrid"}
  -
   title: "Contacts"
   links:
