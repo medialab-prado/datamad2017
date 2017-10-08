@@ -49,16 +49,18 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/hackathon/", text: "DataMad"}
+ - {permalink: "/equipo/", text: "Equipo"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Home Block
-homeImage: "medialab_exterior_architizer.jpg"
-homeTitle: "Premios de Datos Abiertos de Madrid 2017"
+homeImage: "medialab_gente_currando_flickr.jpg"
+heroTitle: "DataMad <typeout> 2017"
 eventDate: "Octubre - Diciembre, 2017"
-#typeoutFallback: "Season"
+typeoutTextValues: '"", "Madrid", "Datos abiertos", "Periodismo de datos", "Datatón"'
+typeoutFallback: "Datos abiertos"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -144,6 +146,11 @@ ticketsOffers:
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
+  ticketContentList: ["Datos Abiertos", "Software Libre"]
+  validFrom: "2017-08-25T10:00"
+  validThrough: "2017-09-30T23:59"
+  soldOut: true
+  soldOutText: "Plazo terminado"
  -
   name: "Last Chance"
   price: "450"

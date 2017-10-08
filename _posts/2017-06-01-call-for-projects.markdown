@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Datatón Ciudad de Madrid 2017"
+title:  "Convocatoria de proyectos para el Datatón Ciudad de Madrid 2017"
 date:   2017-06-01 09:00:00
 isStaticPost: false
 ---
