@@ -86,7 +86,7 @@ rockstarSpeakersImage: "medialab_auditorio2_flickr.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Expertos en datos abiertos"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
-rockstarSpeakersButtonLink: "/ponentes"
+rockstarSpeakersButtonLink: "/ponentes/"
 
 # Location Block
 locationBlockTitle: "Lugar"
