@@ -1,4 +1,4 @@
-- 
+-
   id: 3
   name: "Adolfo"
   surname: "Antón Bravo"
@@ -8,10 +8,10 @@
   bio: " Adolfo es doctor en Ciencias de la Información por la Universidad Complutense de Madrid donde ha realizado su tesis sobre Tecnologías de la Web Semántica; Presidente de Open Knowledge España y editor de Infotics.es (@infotics), coordina desde 2014 las actividades del grupo de trabajo de Periodismo de Datos de Medialab-Prado y las Jornadas de Periodismo de Datos.<br><br>Trabaja como diseñador, periodista, formador y es un apasionado del Software Libre y el conocimiento abierto."
   thumbnailUrl: AdolfoAnton.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/adolflow"}
     - {name: "github", link: "https://github.com/flowsta"}
-- 
+-
   id: 4
   name: "Vicky"
   surname: "Bolaños"
@@ -21,7 +21,9 @@
   bio: "Vicky Bolaños es periodista licenciada por la Universitat Autònoma de Barcelona. Ha trabajado en diversos medios: enredando.com, TV Calvià, Europa Press y TVE. Actualmente trabaja en rtve.es.<br>Paralelamente ha participado en proyectos sociales y culturales: un programa de radio del Servicio de Voluntariado Europeo (EVS), un magazine cultural online y diversas revistas. <br><br>Desde diciembre de 2011 colabora en el equipo de Qué hacen los diputados, un proyecto de difusión de la información parlamentaria a través de una página web y de las redes sociales (@que_hacen).<br><br>En la actualidad estudia el Máster en Comunicación, Cultura y Ciudadanía Digitales (CCCD) de la Universidad Rey Juan Carlos en colaboración con Medialab-Prado."
   thumbnailUrl: VickyBolanos.jpg
   rockstar: true
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/vickybol"}
+-
   id: 5
   name: "Victoria"
   surname: "Anderica"
@@ -31,8 +33,5 @@
   bio: "Dirije el proyecto de Transparencia del Ayuntamiento de Madrid, que se impulsa desde el Área de Gobierno de Participación Ciudadana, Transparencia y Gobierno Abierto."
   thumbnailUrl: VictoriaAnderica.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/vickyande"}

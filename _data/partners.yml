@@ -1,5 +1,4 @@
-- 
+-
   group: "Con el apoyo de"
-  elements: 
+  elements:
     - {name: "Portal de Transparencia", description: "Portal de Transparencia", link: "http://transparencia.madrid.es/", imageUrl: "portal_transparencia_logo_f.png", width: "120px"}
-
