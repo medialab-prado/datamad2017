@@ -1,9 +1,5 @@
 - 
-  group: "General sponsor"
-  elements: 
-    - {name: "DataLab", description: "DataLab", link: "http://mediala-prado.es", imageUrl: "datalab_logo.svg"}
-- 
-  group: "With support of"
+  group: "Con el apoyo de"
   elements: 
     - {name: "Portal de Transparencia", description: "Portal de Transparencia", link: "http://transparencia.madrid.es/", imageUrl: "portal_transparencia_logo_f.png", width: "120px"}
 
