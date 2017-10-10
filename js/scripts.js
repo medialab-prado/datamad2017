@@ -284,7 +284,7 @@
 
         L.marker([40.41082,-3.69366]).addTo(map)
             .bindPopup('Medialab-Prado')
-                .openPopup();
+            .openPopup();
 
     //Google plus
     function initGooglePlus() {
