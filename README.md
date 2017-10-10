@@ -16,36 +16,73 @@ and run next command from root folder:
 To start Jekyll run:
 ```bash
     jekyll serve -w
-```
+
 Site will be available at http://127.0.0.1:4000/datamad17/ or http://localhost:4000/datamad17/ (on Windows)
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
-### Dependencias a resolver para desarrollo con Ubuntu 16:
+### Resolving dependences for Ubuntu 16:
 
+```bash
 	sudo apt install libxml2-dev
-
+```
+```bash
 	sudo apt install gcc make zlib1g-dev sqlite3
-
+```
+```bash
 	sudo gem install nokogiri
-
-
+```
 Instala las gems de ruby que hay en el gemfile:
 
+```bash
 	bundle install
+```
 
 lanza el servidor de jekyll desde el directorio local:
 
+```bash
 	bundle exec jekyll serve
+```
+
+### Sass(Compass) support
+**Note:** You need to install [Node.js](http://nodejs.org/download/)
+
+To watch changes of `.sass` files and compile it to the `.css` on a fly change property `safe: true` to `safe: false` in `_config.yml`.
+**Note: It works only on local machine, because GitHub runs Jekyll in `--save` [mode](https://help.github.com/articles/using-jekyll-with-pages/#configuration-overrides)**
+
+Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
+
+
+### Resource optimizations (optional)
+
+You can optimize images and minify css and javascript automatically (for now only on Windows).
+But for Mac OS users available amazing tool - [imageoptim](https://imageoptim.com/). Thanks [@raphaelsavina](https://github.com/raphaelsavina) for link.
+Optimize all images by running this script from `/automation/images/` folder:
+```bash
+    all_image_optimization.bat -d -jtran -pout -pquant -optip -gsicle -svgo
+```
+
+To minify CSS and JS run `minify_js.bat` (for Windows) and `minify_js.sh` (for Linux and MacOS) from `/automation/minifying/` folder:
+```bash
+    minify_js.bat
+```
+
+Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
+
+### Documentation
+Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
+
+### Used libraries
+* [Bootstrap](https://github.com/twbs/bootstrap)
+* [Animate.css](https://github.com/daneden/animate.css)
+* [Waves](https://github.com/publicis-indonesia/Waves)
+* [jquery.appear](https://github.com/bas2k/jquery.appear)
+* [jQuery countTo Plugin](https://github.com/mhuggins/jquery-countTo)
+* [Typed.js](https://github.com/mattboldt/typed.js)
+* [Sticky-kit](https://github.com/leafo/sticky-kit)
+
+
 
 ### About
 
-* Design and web development: [Oleh Zasadnyy](https://github.com/ozasadnyy)
-* Idea: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
-
-See [list of contributors](https://github.com/gdg-x/zepplin/graphs/contributors)
-
-Maintainers: [@tasomaniac](https://github.com/tasomaniac) and [@ozasadnyy](https://github.com/ozasadnyy).
-
-### License
-Project is published under the [MIT license](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
+Based en [https://github.com/gdg-x/zeppelin](Project zeppelin)
