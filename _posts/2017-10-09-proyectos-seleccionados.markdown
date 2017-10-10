@@ -6,50 +6,6 @@ isStaticPost: false
 ---
 
 
-#### Refugiados: los animales abandonados en España
-
-En febrero de este año entró en vigor la nueva ley (4/2016) de Protección Animal de la Comunidad de Madrid. La ley incluye la iniciativa Sacrificio Cero que prohíbe la eutanasia de animales en centros de acogida. Pese a la necesidad de aprobar esta iniciativa para mejorar el bienestar animal, es importante señalar que podría tener consecuencias negativas: hacinamiento en los centros de acogida, menos tiempo de atención y menor calidad de vida, entre otros. En el caso del Ayuntamiento de Madrid, el Centro de Protección Animal ya ha superado el 100% de ocupación en 2016 y siguen ingresando animales de manera constante.
-
-Como complemento de esta ley y para mejorar el bienestar animal, deberían iniciarse más medidas paralelas para combatir el abandono y fomentar la adopción. Este proyecto tiene por objetivo responder a la necesidad de sensibilización, enfrentándose a la problemática del abandono a través de una herramienta colaborativa de transparencia de datos.
-
-Este proyecto nace de la voluntad de reducir la cantidad de ingresos de animales en refugios así como su estancia allí, sensibilizando acerca del tema del abandono y fomentado la adopción de animales abandonados. Inicialmente, el proyecto estará centrado en el caso del Ayuntamiento de Madrid, pero el objetivo futuro es tejer alianzas con otros centros municipales y refugios para trabajar juntos hacia el mismo objetivo.
-
-__El proyecto esta dividido en dos pilares:__
-
-__Sensibilizar sobre el abandono: los datos en tiempo real__
-
-Se trata de elaborar una herramienta de transparencia de datos del CPA (Centro de Protección de Animales) que se actualice en tiempo real. Hoy en día, los datos están dispersos en varias fuentes y no están actualizados. Mediante este proyecto, conseguiremos tener un portal de referencia que se podrá usar por particulares para entender la situación, por periodistas para encontrar datos precisos y por organismos para enfocar campañas de sensibilización.
-
-A través de esta herramienta, el usuario podrá encontrar información sobre la evolución de ingresos y salidas, el porcentaje de ocupación del centro, la edad media de los animales, la raza más presente, las enfermedades más recurrentes, entre otros datos. La herramienta tendrá una sección en la que se explicará la nueva Ley de Protección Animal: quién la propuso, lo que incluye, las diferencias legales en diferentes regiones del país, etc.
-
-__Fomentar la adopción: una nueva plataforma web__
-
-La plataforma de adopción actual del CPA es muy formal, con perfiles poco detallados y técnicamente desfasada: no se puede buscar ni filtrar, las fotografías no se muestran en tamaño grande y muchas aparecen deformadas. La intención es modernizar esta plataforma, creando una web atractiva y cercana al usuario donde se encuentren los perfiles detallados de todos los animales que están en el centro.
-
-Además, se trata de generar tráfico a la web ofreciendo contenido de interés sobre la adopción y sobre la tenencia y educación de mascotas: consejos, cuestionarios, etc. La intención no es hablar solamente a los futuros adoptantes sino también a los dueños de animales para evitar posibles abandonos.
-
-En futuras iteraciones del proyecto, queremos que los datos de todos los centros municipales y protectoras de la Comunidad de Madrid sean parte de la plataforma. El intercambio de datos entre los refugios permitirá tener una herramienta de datos mucho más completa y precisa. Gracias a la colaboración de todos los centros, conseguiremos ser el portal de referencia de adopción de animales en la región, dando más visibilidad para los animales y un rango de elección más amplio para los adoptantes.
-
-__Promotora__
-
-* [Flora Fosset](mailto:flora.fosset@gmail.com)
-
-__Perfil colaboradorxs__
-
-* Desarrolladores (front & back)
-* Miembros del Centro de Protección Animal
-* Miembros de protectoras y asociaciones en defensa del maltrato animal
-* Copywriter
-
-__Documentos del proyecto__
-
-Conjuntos de datos empleados del portal de datos abiertos:
-
-* Madrid Salud: Estadísticas centro de protección animal
-* Censo de animales domésticos por distrito
-* Áreas caninas
-* Policía Municipal: Datos estadísticos actuaciones Policía Municipal
-
 #### Mayorcetes
 
 Un app donde una persona mayor que no se atreve por no saber buscar, o por motivo de movilidad, no acude a un centro para mayores para comer, tomar su cañita, bailar y conocer amig@s.
@@ -277,11 +233,3 @@ __Promotores__
 
 * [Marco Gramaglia](mailto:mgramagl@it.uc3m.es)
 * [Pablo Serrano](mailto:pablo@it.uc3m.es)
-
-#### Mobilomics
-
-Visualización de patrones de movilidad. Proyecto seleccionado del [taller Visualizar17](https://twitter.com/hashtag/Visualizar17?src=hash)
-
-[Un proyecto de visualización de datos](https://medialab-prado.github.io/mobilomics/) que estudia la relación entre la movilidad y la contaminación de un día cotidiano en Madrid.
-
-Realizado en el taller de Visualizar'17: Migraciones en el centro [Medialab-Prado](http://medialab-prado.es/)
