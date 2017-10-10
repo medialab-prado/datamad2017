@@ -283,8 +283,8 @@
         }).addTo(map);
 
         L.marker([40.41082,-3.69366]).addTo(map)
-            .bindPopup('Medialab-Prado')
-            .openPopup();
+            .bindPopup('Medialab-Prado<br>Plaza de las Letras. Calle Alameda, 15, Madrid')
+            //.openPopup();
 
     //Google plus
     function initGooglePlus() {
