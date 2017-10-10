@@ -266,6 +266,26 @@
         }
     });
 
+    //Openstreetmap with leaflet
+
+    var map = L.map('canvas-map-osm', {
+        center: [40.41161,-3.69406],
+        zoomControl: false,
+        scrollWheelZoom: false,
+        zoom: 18,
+        minZoom: 18,
+        maxZoom: 18,
+        dragging: false 
+    });  
+
+    L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        L.marker([40.41082,-3.69366]).addTo(map)
+            .bindPopup('Medialb-Prado')
+                .openPopup();
+
     //Google plus
     function initGooglePlus() {
         var po = document.createElement('script');
@@ -283,7 +303,7 @@
 
     //Google maps
     if (typeof googleMaps !== 'undefined') {
-        var map, autocomplete, directionsDisplay, geocoder, polyline, origin;
+        var trap, autocomplete, directionsDisplay, geocoder, polyline, origin;
         var markers = [];
         var directionsService = new google.maps.DirectionsService();
         var MY_MAPTYPE_ID = 'custom_style';

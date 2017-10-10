@@ -89,6 +89,8 @@ rockstarSpeakersButtonText: "Ver todos los ponentes"
 rockstarSpeakersButtonLink: "/ponentes/"
 
 # Location Block
+locationBlockImage: "mapa-medialab-prado.png"
+
 locationBlockTitle: "Lugar"
 eventLocationName: "Medialab-Prado"
 eventLocationLink: "http://medialab-prado.es"
@@ -102,7 +104,7 @@ eventDoorTime: "09:00"
 eventEndTime: "2017-10-22T20:00"
 eventPlaceCoordinates: "40.41063,-3.69366"
 mapCenterCoordinates: "40.41063,-3.69366"
-mapMobileCenterCoordinates: "40.41063,-3.69366"
+mapMobileCenterCoordinates: "40.4108497,-3.6938703"
 
 # Venue Block
 venueBlockTitle: "Instalaciones"

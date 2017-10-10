@@ -4,6 +4,12 @@
     h3 {
         margin-bottom: 0;
     }
+    .content-wrapper{
+        z-index: 20;
+    }
+    .col-lg-3 {
+        z-index: 20
+    }
 }
 .location-description {
     min-width: 400px;
@@ -27,7 +33,12 @@
         display: inline-block;
     }
 }
-.canvas-map {
+
+#mapid {
+    
+    }
+.canvas-map-osm {
+    height: 180px;
     position: absolute;
     top: 0;
     right: 0;
@@ -35,4 +46,5 @@
     left: 0;
     width: 100%;
     height: 700px;
+    z-index: 10;
 }
