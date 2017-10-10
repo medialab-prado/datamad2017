@@ -48,9 +48,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/equipo/", text: "Equipo"}
 bottomNavigationLinks:
- - {link: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017", text: "Participa como colaborador"}
+ - {link: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017/#outline-container-sec-8", text: "Participa como colaborador"}
 rightNavigationButtons:
- - {link: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017", text: "Participa como colaborador"}
+ - {link: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017/#outline-container-sec-8", text: "Participa como colaborador"}
 
 # Home Block
 homeImage: "medialab_auditorio3_flickr.jpg"
@@ -60,7 +60,7 @@ eventDate: "20-22 Octubre 2017"
 typeoutTextValues: '"", "Madrid", "", "Periodismo de datos", "Datatón"'
 typeoutFallback: "Datatón Ciudad de Madrid"
 heroButtons:
- - {link: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017", text: "Participa como colaborador"}
+ - {link: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017/#outline-container-sec-8", text: "Participa como colaborador"}
 
 # About Block
 aboutTitle: "Acerca del DataMad"
