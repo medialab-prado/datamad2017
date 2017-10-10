@@ -283,7 +283,7 @@
         }).addTo(map);
 
         L.marker([40.41082,-3.69366]).addTo(map)
-            .bindPopup('Medialb-Prado')
+            .bindPopup('Medialab-Prado')
                 .openPopup();
 
     //Google plus
