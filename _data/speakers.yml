@@ -26,7 +26,7 @@
   company: "Mobility Labs - EMT"
   title: "Responsable de aplicaciones de negocio"
   bio: "."
-  thumbnailUrl: mobilitylabs_logo.png
+  thumbnailUrl: AndresRecio.jpg
   social:
       - {name: "github", link: "https://github.com/madridopenlabmobility"}
   rockstar: true
@@ -37,7 +37,7 @@
   company: "Haskell Madrid"
   title: "Haskell evangelist"
   bio: "I've been working on software development for several years. I've been working in algorithms and backend software with many technologies. I love technologies and learning new things."
-  thumbnailUrl: HaskellMadrid.jpg
+  thumbnailUrl: JoseLuisEsteban.jpg
   rockstar: true
   ribbon:
     - {abbr: "Haskell", title: "Haskell Madrid", url: ""}
