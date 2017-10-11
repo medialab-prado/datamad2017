@@ -271,14 +271,14 @@
     var mapOptions ={
         zoomControl: false,
         scrollWheelZoom: false,
-        zoom: 18,
-        minZoom: 18,
+        zoom: 17,
+        minZoom: 17,
         maxZoom: 18,
         dragging: false 
     }
 
     if ($(window).width() < 768) {
-                mapOptions.center = [40.41172,-3.69406];
+                mapOptions.center = [40.41282,-3.69406];
             }else{
                 mapOptions.center = [40.41063,-3.69366];
             };
