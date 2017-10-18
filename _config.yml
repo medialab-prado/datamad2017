@@ -31,9 +31,9 @@ organizerLink: "http://medialab-prado/visualizar"
 # Head
 metaKeywords: "event, datos abiertos, datatón, madrid, periodismo de datos, visualización, medialab-prado, datalab"
 twitterAccount: "@datalabx"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png?20171016"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png?20171016"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png?20171016"
 
 # Documents
 c4pUrl: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017"
