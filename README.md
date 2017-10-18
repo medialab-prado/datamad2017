@@ -1,5 +1,7 @@
-## Web para el DataMad 17
+## DataMad 17
 
+Portal con la información para el DataMad17
+---
 ## Local development
 
 Check if you have [all requirements for local environment](http://jekyllrb.com/docs/installation/).
@@ -85,4 +87,4 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 
 ### About
 
-Based en [https://github.com/gdg-x/zeppelin](Project zeppelin)
+Based en [Project zeppelin](https://github.com/gdg-x/zeppelin)
