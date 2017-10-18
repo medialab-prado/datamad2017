@@ -17,7 +17,7 @@
   speakers: [3,4,5]
   language: es
   complexity: "Beginner"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
 -
   id: 002
   title: "Presentación de proyectos, 5 minutos cada uno"
@@ -25,9 +25,9 @@
   subtype: presentation
   speakers: []
   language: es
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
 -
   id: 003
   title: "Presentación de colaboradores y formación de equipos"
@@ -35,7 +35,7 @@
   subtype: presentation
   speakers: []
   language: es
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
@@ -46,7 +46,7 @@
   language: es
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
 -
   id: 005
   title: "Datos abiertos de la EMT"
@@ -56,7 +56,7 @@
   language: es
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
 -
   id: 006
   title: "Haskell"
@@ -66,7 +66,7 @@
   language: es
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
 -
   id: 007
   title: "datos abiertos vinculados por alguien de ODI/OEG/UPM"
@@ -76,7 +76,7 @@
   language: es
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
 -
   id: 008
   title: "Trabajo en equipo"
@@ -86,7 +86,7 @@
   language: es
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
 -
   id: 009
   title: "Fallo de los premios y ceremonia de entrega de premios"
@@ -96,5 +96,4 @@
   language: es
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
+  video: "//www.youtube.com/embed/M34idSdOn4Q"
