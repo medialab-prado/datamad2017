@@ -12,11 +12,11 @@
     - {name: "github", link: "https://github.com/flowsta"}
 -
   id: 6
-  name: "Representante"
-  surname: ""
-  company: "Ayuntamiento de Madrid"
+  name: "Honorio Enrique"
+  surname: "Crespo Díaz-Alejo"
+  company: "Portal de datos abiertos del Ayuntamiento de Madrid"
   title: "Título por confirmar"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  bio: "Es ingeniero en Informática, pertenece al cuerpo Superior de Sistemas y Tecnologias de la Información del Estado y es miembro de la asociación ASTIC. Lleva desde el 2013 relacionado con el mundo Open Data, y está detrás del Portal de Datos Abiertos del Ayuntamiento de Madrid desde su origen. Ha participado en la norma 'UNE 178301 Ciudades Inteligentes sobre Datos Abiertos', en el grupo de trabajo Ojo al Data 100 que buscaba una relación de conjuntos de datos que deben publicar todas las administraciones y recientemente en la Guía de Datos Abiertos de la Federación Española de Municipios y Provincias, la cual ha sido presentada en 2017 y que ya establece 20 conjuntos de datos en detalle que debe publicar las entidades locales, aparte de estrategias y recomendaciones para los portales."
   thumbnailUrl: AyuntamientoMadrid.png
   rockstar: true
 -
@@ -25,7 +25,7 @@
   surname: "Recio"
   company: "Mobility Labs - EMT"
   title: "Responsable de aplicaciones de negocio"
-  bio: "."
+  bio: ""
   thumbnailUrl: AndresRecio.jpg
   social:
       - {name: "github", link: "https://github.com/madridopenlabmobility"}
@@ -46,12 +46,12 @@
     - {name: "site", link: "http://jleahred.github.io/"}
 -
   id: 9
-  name: "Representante"
-  surname: ""
-  company: "ODI/OEG/UPM"
+  name: "Fernando"
+  surname: "Serena"
+  company: "Ontology Engineering Group UPM"
   title: ""
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: UPM.jpg
+  bio: "Fernando Serena es estudiante de doctorado, Ingeniero en Informática y máster en Inteligencia Artificial por la UPM. Forma parte del Ontology Engineering Group (OEG) desde 2014. Trabajó como líder técnico en el proyecto Smart Developer Hub y participó en ALM iStack, ambos proyectos resultado de la colaboración entre la UPM y el Banco Santander. Actualmente, está involucrado en el proyecto Vicinity (H2020), donde participa en el diseño de la arquitectura y desarrollo de ontologías y servicios de plataforma.<br>Sus principales intereses son Linked Data, Internet of Things (IoT) e integración de datos y aplicaciones. En 2016 entró a formar parte del W3C Web of Things Interest Group, y en 2014 fue editor del LDP Test Cases dentro del W3C Linked Data Platform (LDP) WG. <br>Anteriormente, fue parte del equipo de coordinación del proyecto de ciencia ciudadana GLORIA (FP7), cuyo objetivo era aplicar técnicas de inteligencia colectiva en experimentos de Astronomía. Dentro de GLORIA, también contribuyó a la robotización del Observatorio Montegancedo en la UPM (Madrid), mediante la construcción de un controlador de cúpula y el despliegue de servicios web para acceso remoto.<br>Además, dedicó 6 años trabajando como Arquitecto Software y Project Manager en una PYME, diseñando, construyendo y poniendo en marcha detectores de metales industriales y básculas de pesaje en continuo."
+  thumbnailUrl: FernandoSerena.jpeg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/"}
+    - {name: "twitter", link: "https://twitter.com/kudhmud"}
