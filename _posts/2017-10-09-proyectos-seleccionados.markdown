@@ -5,19 +5,6 @@ date:   2017-10-08 00:00:00
 isStaticPost: false
 ---
 
-
-#### Mayorcetes
-
-Un app donde una persona mayor que no se atreve por no saber buscar, o por motivo de movilidad, no acude a un centro para mayores para comer, tomar su cañita, bailar y conocer amig@s.
-
-Un app para ellos donde tengan un mapa a donde pueden acudir o igualmente crear en el map un metting point en Madrid, punto de partida donde conocer y partir de ahí hacia los distintos puntos de club social o terracitas.
-
-Un app divertido donde también pueda ver y chatear con quién va al punto de encuentro.
-
-
-__Promotor__
-* [Pedro Ecenarro Quetglas](mailto:chiri532000@yahoo.es)
-
 #### La historia de Madrid a través de sus calles
 
 Las calles y plazas son los sitios por los que transitamos, donde está nuestra casa, nuestro trabajo,el lugar al que vamos a comer o nuestro centro de salud. Es decir, los sitios en los que se desarrolla nuestra vida. Y sus nombres no son inocuos.Hay calles con nombres de personas, de lugares, de hechos históricos, de oficios, de animales.
@@ -50,6 +37,8 @@ El enfoque que le hemos dado a esta aplicación está centrado en la informació
 
 La motivación que nos ha llevado a presentar este proyecto fue el caos que se organizó el año pasado al resultar que muchos ciudadanos no tenían disponible la información hasta el momento en el que encendían la radio o veían los letreros en las carreteras. Por esta razón el objetivo de esta aplicación será ayudar a los ciudadanos en la medida de lo posible a conocer los escenarios activados en cada momento.
 
+__Promotor__
+
 * [Javier Delgado Aylagas](mailto:delga.soria@gmail.com)
 
 __Perfil colaboradorxs__
@@ -65,6 +54,8 @@ Actualmente la aplicación contiene los datos de los trenes que circulan por tod
 Para ello se tendrán que recolectar y transformar los datos de la Empresa Municipal de Transport de Madrid (EMT) almacenados en el portal de datos abiertos del ayuntamiento de Madrid y los datos del portal de datos abierto del CRTM para que estos puedan ser consultados a través de Tripscore.
 
 Public transport, open linked data, quality of experience, EMT, CRTM.
+
+__Promotor__
 
 * [David Chaves Fraga](mailto:dchaves@fi.upm.es)
 
@@ -116,28 +107,6 @@ __Perfil colaboradorxs__
 * Usabilidad y UX
 * API Google Maps
 
-#### Aire de hoy, salud para mañana
-
-El aire de Madrid ha estado en boca de todos los madrileños en la actualidad tanto por la creciente conciencia por la ecología como por las medidas adoptadas para mejorar su calidad durante los últimos años.
-
-Resulta trascendental para la salud de los madrileños tomar medidas a medio y largo plazo.
-
-Nuestro objetivo es crear una plataforma web que, mediante la explotación de datos de acceso público, arroje luz a este tema entorno a 3 principales ejes:
-
-__Concienciación:__ Mediante analítica visual del estado actual del aire en tiempo real en cada punto de la Comunidad y mediante explicaciones gráficas de las consecuencias para la salud de cada elemento químico al rebasar los límites de seguridad recomendados.
-
-__Predicción:__ Mediante técnicas avanzadas de Inteligencia Artificial, la plataforma sera capaz de pronosticar los niveles de calidad del aire para las siguientes semanas o incluso meses.
-
-__Monitorización:__ La plataforma permitirá analizar los periodos en los que Madrid estaba sometida al protocolo de medidas adoptadas durante episodios de alta contaminación. Así, el usuario podrá comprobar si dichas medidas fueron suficientes para paliar los niveles de contaminación y mantenerlos estables.
-
-__Promotor__
-
-* [Enrique Herreros](mailto:eherrerosj@gmail.com)
-
-__Perfil colaboradorxs__
-
-* Data scientists, frontend developers, backend developers y web designers
-
 #### DoctorData: datos abiertos colaborativos usando OpenStreetMap
 
 Uno de los principales problemas a los que se enfrenta un portal de datos abiertos es la cobertura y calidad de los datos que se encuentran en él. Éstos son generados por las propias administraciones públicas con gran esfuerzo y buscando entre la información que han ido almacenado a lo largo de los años en distintos formatos.
@@ -177,26 +146,6 @@ __Perfil colaboradorxs__
 
 Este proyecto requiere perfiles principalmente de desarrolladores y personas con conocimientos en los siguientes campos: desarrolladores en lenguajes funcionales (Haskell), tecnologías blockchain, criptografía, ciencia de datos, desarrollo de aplicaciones web (back y front end), bases de datos, visualización, etc.
 
-#### MADMobility
-
-Madrid es una gran ciudad en la que se concentra el núcleo de población más grande de España, de este hecho deriva que existan diferentes problemas que han sido motivo de debate y haya salido en las noticias con gran asiduidad: tráfico y contaminación.
-
-Estos problemas, y otras ciudades del mundo, se han convertido en preocupación en los ciudadanos y por extensión a los políticos y dirigentes. Pero, ¿se conoce el problema en profundidad? ¿se han localizado bien los factores que influyen en este campo? ¿se han identificado las zonas de Madrid más propensas a estos problemas?
-
-Este proyecto tiene como objetivo estudiar la movilidad urbana de Madrid, y trata de dar una visión diferente a la que pueda tener mediante un conocimiento normal de la ciudad puesto que trata de integrar diferentes tipos de datos diferentes técnicas de análisis. Con el uso de esta aplicación web el análisis experto basado en la visualización de mapas y gráficos, cualquier técnico municipal o personas dedicadas al estudio y conocimiento de Madrid podrá obtener una visión única y crítica.
-
-__Promotores__
-
-* José Pablo Pascual
-
-* Alvaro Cerdá Carbonell
-
-* [Benjamin Arroquia Cuadros](mailto:arroquia13@gmail.com)
-
-__Perfil colaboradorxs__
-
-Somos un equipo de especialistas en el procesado y análisis de la información geográfica, así como en la gestión de la información.
-Tenemos conocimientos en diferentes tecnologías tanto para el tratamiento de datos como para el desarrollo y diseño web, formando un equipo idóneo para la creación de plataformas de visualización y consulta de datos.
 
 #### M30, gestión inteligente del tráfico
 
