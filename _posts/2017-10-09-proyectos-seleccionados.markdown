@@ -19,15 +19,10 @@ El proyecto parte de un archivo .csv con las calles actuales de los 21 distritos
 
 De manera consensuada, deberíamos poder establecer las diferentes categorías y subcategorías que existen en esas calles: personas (hombres y mujeres), animales, vegetales, lugares, hechos, obras...
 
-__Promotora__
+__Promotora:__ Patricia Horrillo Guerra
 
-* [Patricia Horrillo Guerra](mailto:patricia.horrillo@gmail.com)
+__GIT:__ [https://github.com/medialab-prado/callesdemadrid](https://github.com/medialab-prado/callesdemadrid)
 
-__Perfil colaboradorxs__
-
-* Personas interesadas en la Historia de Madrid y de sus calles.
-* Personas con conocimientos técnicos sobre la visualización de datos en mapas _preferiblemente OpenStreetMap_.
-* Personas con conocimientos de hojas de cálculo para el trabajo con el listado de las calles de la ciudad de Madrid.
 
 #### Pure Madrid
 
@@ -37,13 +32,10 @@ El enfoque que le hemos dado a esta aplicación está centrado en la informació
 
 La motivación que nos ha llevado a presentar este proyecto fue el caos que se organizó el año pasado al resultar que muchos ciudadanos no tenían disponible la información hasta el momento en el que encendían la radio o veían los letreros en las carreteras. Por esta razón el objetivo de esta aplicación será ayudar a los ciudadanos en la medida de lo posible a conocer los escenarios activados en cada momento.
 
-__Promotor__
+__Promotor:__ Javier Delgado Aylagas
 
-* [Javier Delgado Aylagas](mailto:delga.soria@gmail.com)
+__GIT:__ [https://github.com/medialab-prado/puremadrid](https://github.com/medialab-prado/puremadrid)
 
-__Perfil colaboradorxs__
-
-* Conocimiento la plataforma Android y de Google App Engine para Java, ademas de las librerías más populares utilizadas para el desarrollo en ambas plataformas.
 
 #### Tripscore
 
@@ -55,13 +47,10 @@ Para ello se tendrán que recolectar y transformar los datos de la Empresa Munic
 
 Public transport, open linked data, quality of experience, EMT, CRTM.
 
-__Promotor__
+__Promotor:__ David Chaves Fraga
 
-* [David Chaves Fraga](mailto:dchaves@fi.upm.es)
+__GIT:__ [https://github.com/medialab-prado/tripscore](https://github.com/medialab-prado/tripscore)
 
-Perfil colaboradorxs
-
-* Programmers, web developers, Open Data and Public Transport enthusiasts.
 
 #### Madrid On You
 
@@ -97,15 +86,10 @@ Por tanto, los usuarios podrán saber si hay aparcamientos públicos cerca de lo
 
 Si bien existen aplicaciones y portales que implementan alguna de las anteriores funcionalidades por separado, no existe aún ningún sistema que lo haga todo a la vez, brindando al usuario una opción sencilla y rápida para planificar su viaje turístico o estancia en Madrid.
 
-__Promotor__
+__Promotor:__ Jesús Pérez Melero
 
-* [Jesús Pérez Melero](jesusperezmelero@gmail.com)
+__GIT:__ [https://github.com/medialab-prado/madridonyou](https://github.com/medialab-prado/madridonyou)
 
-__Perfil colaboradorxs__
-
-* Front end, tecnologías como Bootstrap, JQuery, AJAX
-* Usabilidad y UX
-* API Google Maps
 
 #### DoctorData: datos abiertos colaborativos usando OpenStreetMap
 
@@ -119,16 +103,10 @@ DoctorData pretende mejorar la cantidad y calidad de los datos complementando lo
 
 Además, como recompensa a la labor de la gente, se pretende integrar algunos datasets del portal de datos abiertos en OSM.
 
-__Promotor__
+__Promotor:__ Esteban González Guardia
 
-* [Esteban González Guardia](mailto:egonzalez@ciclope.info)
+__GIT:__ [https://github.com/medialab-prado/doctordata](https://github.com/medialab-prado/doctordata)
 
-__Perfil colaboradorxs__
-
-* Científico de datos
-* Programador
-* Persona con experiencia en OSM
-* Programador web (opcional)
 
 #### La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto
 
@@ -138,13 +116,9 @@ Para ello propone hacer uso de uno de la programación funcional, uno de los par
 
 Este prototipo añadirá las ventajas que ofrece el uso de los sistemas de bases de datos distribuidas, tecnología conocida como blockchain, entre las que cabe destacar la imposibilidad de modificar los datos una vez incluidos y procesados en la cadena de información, con las ventajas consiguientes en cuanto a transparencia y en su caso, preservación de la intimidad del consultante.
 
-__Promotor__
+__Promotor:__ Juan Antonio García Lleó
 
-* [Juan Antonio García Lleó](mailto:juan.a.lleo@gmail.com)
-
-__Perfil colaboradorxs__
-
-Este proyecto requiere perfiles principalmente de desarrolladores y personas con conocimientos en los siguientes campos: desarrolladores en lenguajes funcionales (Haskell), tecnologías blockchain, criptografía, ciencia de datos, desarrollo de aplicaciones web (back y front end), bases de datos, visualización, etc.
+__GIT:__ [https://github.com/medialab-prado/blockchainapp](https://github.com/medialab-prado/blockchainapp)
 
 
 #### M30, gestión inteligente del tráfico
@@ -161,24 +135,6 @@ En las siguientes secciones del trabajo se mostrará cómo obtener y tratar las 
 
 Se analizarán los datos de forma descriptiva para conocer el estado actual y pasado y, finalmente, se tratará de diseñar modelos predictivos para encontrar patrones y cierta armonía en el aparente caos del tráfico de la capital.
 
-__Promotor__
+__Promotor:__ Mikel Uranga Barro
 
-* [Mikel Uranga Barro](mailto:mikeluranga@gmail.com)
-
-#### Turisfy
-
-La espectacular subida de la presencia de turistas en la ciudad de Madrid, hace que este sea una de las fuentes de ingresos más importante para muchas empresas en la ciudad. Sin embargo, los turistas que visitan la ciudad a veces tienen una visión muy reducida de lo que la ciudad puede ofrecer y, peor aún, visitan los lugares más concurridos al mismo tiempo, causando por lo tanto una peor calidad de la visita.
-
-Además, en ocasiones la popularidad de un lugar o atracción turística puede eclipsar otras en su proximidad, quizás no tan populares pero igualmente interesantes, y muy accesibles. El objetivo último de este proyecto, podría decirse, es ayudar al desarrollo de un turismo "de barrio", que también puede permitir a los propios residentes conocer, valorar y cuidar mejor su
-entorno.
-
-En este proyecto se propone cruzar varios conjuntos de datos ofrecido por la ciudad de Madrid relativos al turismo (monumentos, actividades programadas, locales de diversión), con otras fuentes con APIs abiertas, como Google Maps y TripAdvisor, para crear mapas que pueden ser utilizados por los usuarios para planificar eficientemente su visita a la ciudad, dada una previsión de tiempo.
-
-Dicha planificación tendrá en cuenta además valores del entorno (contaminación acústica y del aire), así como los medios de transporte a emplear (datos de BiciMAD, de la EMT, predicción meteorológica). Se incluirán medidas de concienciación, además, sobre la huella ecológica de dicha planificación de haber sido realizada en coche o moto.
-
-El objetivo es proporcionar a los turistas informaciones sobre, p.ej. los mejores barrios donde alojarse teniendo en cuenta la disponibilidad de transporte público, las horas menos concurridas (p.ej., utilizando los datos en tiempo real) o la disponibilidad de más puntos de interés, así como recomendaciones en cuanto a coste de las diferentes actividades y medios de transporte.
-
-__Promotores__
-
-* [Marco Gramaglia](mailto:mgramagl@it.uc3m.es)
-* [Pablo Serrano](mailto:pablo@it.uc3m.es)
+__GIT:__ [https://github.com/medialab-prado/m30trafico](https://github.com/medialab-prado/m30trafico)
