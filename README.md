@@ -1,6 +1,6 @@
 ## Datatón Ciudad de Madrid 2017
 
-![cartel de Datamad 2017](../img/seo/cartel_concurso_datajourn2017.jpg)
+![cartel de Datamad 2017](./img/seo/cartel_concurso_datajourn2017.jpg)
 
 
 __DataMad 2017__ es un taller tecnológico del laboratorio de datos de Mediala-Prado para el desarrollo de proyectos con los datos abiertos del Ayuntamiento de Madrid como herramienta.
