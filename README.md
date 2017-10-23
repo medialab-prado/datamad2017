@@ -1,4 +1,4 @@
-## Datatón Ciudad de Madrid 2017
+# Datatón Ciudad de Madrid 2017
 
 ![cartel de Datamad 2017](./img/seo/cartel_concurso_datajourn2017.jpg)
 
@@ -7,10 +7,10 @@ __DataMad 2017__ es un taller tecnológico del laboratorio de datos de Medialab-
 
 ---
 
-## Proyectos seleccionados
+# Proyectos seleccionados
 ---
 
-#### La historia de Madrid a través de sus calles
+## La historia de Madrid a través de sus calles
 
 Las calles y plazas son los sitios por los que transitamos, donde está nuestra casa, nuestro trabajo,el lugar al que vamos a comer o nuestro centro de salud. Es decir, los sitios en los que se desarrolla nuestra vida. Y sus nombres no son inocuos.Hay calles con nombres de personas, de lugares, de hechos históricos, de oficios, de animales.
 
@@ -28,8 +28,9 @@ __Promotora:__ Patricia Horrillo Guerra
 
 __GIT:__ [https://github.com/medialab-prado/callesdemadrid](https://github.com/medialab-prado/callesdemadrid)
 
+---
 
-#### Pure Madrid
+## Pure Madrid
 
 Este proyecto consiste en una app que, apoyada en un servidor, permita a los usuarios conocer en cualquier momento el estado de la contaminación de Madrid y de las restricciones de tráfico asociadas.
 
@@ -41,8 +42,9 @@ __Promotor:__ Javier Delgado Aylagas
 
 __GIT:__ [https://github.com/medialab-prado/puremadrid](https://github.com/medialab-prado/puremadrid)
 
+---
 
-#### Tripscore
+## Tripscore
 
 [Tripscore](http://tripscore.eu/) es una aplicación web que permite obtener recomendaciones de rutas en transporte público comparando las preferencias del usuario con datos históricos sobre la calidad del transporte. Esta aplicación se encuentra disponible en [http://tripscore.eu/](http://tripscore.eu/) y fue desarrollada durante el mes de Julio de 2017 en el evento Open Summer of Code en Bruselas (Bélgica) en el contexto del proyecto europeo OASIS.
 
@@ -56,8 +58,9 @@ __Promotor:__ David Chaves Fraga
 
 __GIT:__ [https://github.com/medialab-prado/tripscore](https://github.com/medialab-prado/tripscore)
 
+---
 
-#### Madrid On You
+## Madrid On You
 
 Madrid on You es una aplicación (web) que utiliza como base varios conjuntos de datos abiertos del ayuntamiento de Madrid para ofrecer al usuario distintos planes y rutas para realizar en la ciudad de Madrid. Los datasets que se utilizan se encuadran dentro de las categorías de automovilismo, ciclismo, ocio y turismo.
 
@@ -95,8 +98,9 @@ __Promotor:__ Jesús Pérez Melero
 
 __GIT:__ [https://github.com/medialab-prado/madridonyou](https://github.com/medialab-prado/madridonyou)
 
+---
 
-#### DoctorData: datos abiertos colaborativos usando OpenStreetMap
+## DoctorData: datos abiertos colaborativos usando OpenStreetMap
 
 Uno de los principales problemas a los que se enfrenta un portal de datos abiertos es la cobertura y calidad de los datos que se encuentran en él. Éstos son generados por las propias administraciones públicas con gran esfuerzo y buscando entre la información que han ido almacenado a lo largo de los años en distintos formatos.
 
@@ -112,8 +116,9 @@ __Promotor:__ Esteban González Guardia
 
 __GIT:__ [https://github.com/medialab-prado/doctordata](https://github.com/medialab-prado/doctordata)
 
+---
 
-#### La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto
+## La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto
 
 El proyecto *La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto* es una iniciativa del Grupo de usuarios de Haskell de Madrid (Haskell Mad). Dentro de sus objetivos está el de profundizar en las tecnologías blockchain y en sus aplicaciones prácticas en los distintos ámbitos sociales y en este caso, dentro de los canales de comunicación ente el Ayuntamiento de Madrid y sus conciudadanos.
 
@@ -125,8 +130,9 @@ __Promotor:__ Juan Antonio García Lleó
 
 __GIT:__ [https://github.com/medialab-prado/blockchainapp](https://github.com/medialab-prado/blockchainapp)
 
+---
 
-#### M30, gestión inteligente del tráfico
+## M30, gestión inteligente del tráfico
 
 Desde hace cierto tiempo la gestión del tráfico en las ciudades se ha convertido en un tema de suma importancia y, a veces, bastante polémico. La necesidad de ofrecer al ciudadano soluciones en esta materia ha venido acompañado de un mayor énfasis en la medición y obtención de datos de tráficoEl concepto de smart city que promueve la sostenibilidad urbana , el diseño de ciudades que sean capaces de mejorar la calidad de vida de su habitantes y de responder a las necesidades de los ciudadanos y las empresas, está en boga.
 
@@ -143,6 +149,8 @@ Se analizarán los datos de forma descriptiva para conocer el estado actual y pa
 __Promotor:__ Mikel Uranga Barro
 
 __GIT:__ [https://github.com/medialab-prado/m30trafico](https://github.com/medialab-prado/m30trafico)
+
+---
 
 ### About
 
