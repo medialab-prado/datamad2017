@@ -5,6 +5,7 @@ date:   2017-06-01 09:00:00
 isStaticPost: false
 ---
 
+![cartel de Datamad 2017](../img/seo/cartel_concurso_datajourn2017.jpg)
 
 El Datatón Ciudad de Madrid invita a presentar ideas y proyectos originales o evolutivos que también estén basados en los datos abiertos del Ayuntamiento de Madrid. Un requisito indispensable de estos trabajos es que posean licencias libres (software, documentación, obras, etc.) y que se publiquen en una plataforma libre que permita colaboración.
 
