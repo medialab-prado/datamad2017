@@ -6,7 +6,7 @@
             <h3>{{ site.judgesTitle }}</h3>
             <div class="row">
                 {% assign animationDelay = 0 %} {% for judge in site.data.judges %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
+                {% assign colWidth = 8 | divided_by: forloop.length %}
                 <div class="judge col-md-{{ colWidth }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                     <div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
                     <p class="name">{{ judge.name }} {{ judge.surname }}</p>

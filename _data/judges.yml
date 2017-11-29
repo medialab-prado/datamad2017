@@ -1,50 +1,322 @@
-- 
+-
   id: 0
-  name: ""
-  surname: ""
-  company: "Área de Gobierno de Participación Ciudadana, Transparencia y Gobierno Abierto"
-  title: "Representante"
-  thumbnailUrl: logo_ayuntamiento_madrid.png
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 1
-  name: ""
-  surname: ""
-  company: "Medialab-Prado "
-  title: "Representante"
-  thumbnailUrl: medialabprado_logo.svg
+  name: "Alicia"
+  surname: "Gómez Nieto"
+  company: "Universidad Politécnica de Madrid"
+  title: "Profesora asociada"
+  bio: ""
+  thumbnailUrl: nofoto.svg
   social:
-    - {name: "twitter", link: "https://twitter.com/medialabprado"}
-    - {name: "github", link: "https://github.com/medialab-prado"}
-    - {name: "site", link: "http://medialab-prado.es"}
-- 
+    - {name: "twitter", link: "https://twitter.com/urbanoemergente"}
+-
+  id: 1
+  name: "Ana"
+  surname: "Revuelta Alonso"
+  company: "Transparencia Internacional España"
+  title: "Directora del Proyecto Integridad"
+  bio: "Ana Revuelta Alonso es directora del Proyecto Integridad de Transparencia Internacional España, cuyo propósito es contribuir a conducir las prácticas empresariales hacia mayores niveles de integridad y transparencia y favorecer la rendición de cuentas de las instituciones públicas. Vinculada desde 2008 a la organización Transparencia Internacional, donde fue coordinadora de programas para la región Américas, y posteriormente consultora del programa de convenciones internacionales anticorrupción. <br>En 2013 se unió a TI España para coordinar un proyecto de investigación e incidencia sobre regulación del lobby. &#10;Anteriormente trabajó en Francia y Alemania en desarrollo institucional, anticorrupción, responsabilidad social corporativa, fortalecimiento de la sociedad civil, desde UNESCO, AECID o el Colegio de Altos Estudios Europeos “Miguel Servet” en un proyecto de cooperación para la mejora del sistema de resolución de controversias del MERCOSUR.<br>Licenciada en Economía (UAM), Máster por el Instituto de Estudios Políticos de París, Máster en Gobierno y Administración Pública (IUIOG-UIMP) con una tesina sobre políticas reguladoras de la transparencia empresarial en la UE."
+  thumbnailUrl: AnaRevuelta.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/ana_rev"}
+-
   id: 2
-  name: ""
-  surname: ""
-  company: "Organizaciones de la sociedad civil "
-  title: "Representante"
-  thumbnailUrl: OstapAndrusiv.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
+  name: "Antonio"
+  surname: "Delgado"
+  company: "WeblogsSL"
+  title: "Periodista. Datos y visualización. Responsable de innovación editorial"
+  bio: "Periodista especializado en tecnología, medios y sociedad. Analista de tendencias."
+  thumbnailUrl: AntonioDelgado.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/adelgado"}
+    - {name: "site", link: "http://antonio-delgado.com"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/antoniodelgadobarrera"}
+-
   id: 3
-  name: ""
-  surname: ""
-  company: "Universidades"
-  title: "Representante"
-  thumbnailUrl: OlehZasadnyy.jpg
-- 
+  name: "Antonio"
+  surname: "Font"
+  company: "CAJAMAR"
+  title: "Business Intelligence Director"
+  bio:
+  thumbnailUrl: AntonioFont.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/AFontPerez"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/antoniodelgadobarrera"}
+-
   id: 4
-  name: ""
-  surname: ""
-  company: "Empresas editoras "
-  title: "Representante"
-  thumbnailUrl: OlehZasadnyy.jpg
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+  name: "Carlos"
+  surname: "Ortega"
+  company: "QuantoBit"
+  title: ""
+  bio: "Me considero un apasionado del R y de la estadística en general aunque académicamente mi formación es otra (Lcdo. en CC. Físicas). Y en particular, tengo especial interés en la visualización de datos, en la representación sencilla de conceptos estadísticos. Participo de forma bastante activa en la lista R-Help. En cuanto al plano laboral, colaboro de forma esporádica con la empresa QualityExcellence y de forma constante en el Banco Santander (a través de de la empresa QuantoBit). Compagino como puedo todo esto impartiendo un par de asignaturas del Máster online de CEPADE (UPM). "
+  thumbnailUrl: CarlosOrtega.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/carlosortegafernandez"}
+-
+  id: 5
+  name: "Casey"
+  surname: "Abernethy"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: nofoto.svg
+-
+  id: 6
+  name: "Chus"
+  surname: "García"
+  company: "CTIC Centro Tecnológico"
+  title: "Experto en estándares W3C y gobierno abierto"
+  bio: "Chus García suma más de diez años de experiencia en análisis y desarrollo de proyectos informáticos. A su responsabilidad en la Unidad de Accesibilidad del Área de Tecnología de Fundación CTIC, añade la de coordinador de la Oficina Española de W3C. En 1997 se se incorporó a Fondo Formación, donde ejerció como responsable del Área de Desarrollo Web. En el año 2003, pasó a formar parte del equipo de la FICYT (Fundación para Investigación Científica Aplicada y la Tecnología), como responsable del Área de Tecnología Web. Como destacable, ha sido el desarrollador de la versión 1 del TAW (Test de Accesibilidad Web), siendo coordinador de dicho proyecto hasta el año 2007."
+  thumbnailUrl: ChusGarcia.jpg
+-
+  id: 7
+  name: "Daniele"
+  surname: "Grasso"
+  company: "El Confidencial"
+  title: "Periodista de datos"
+  bio: "Daniele Grasso aterrizó en Madrid en 2009, después de una licenciatura en Filología Española en Milán. Dió sus primeros pasos como periodista en el mundo freelance, escribiendo para diferentes diarios mientras cursaba un Máster en Periodismo en la Universidad Complutense de Madrid. Después de una etapa en un pequeño periódico digital, trabajó como corresponsal para una agencia y un periódico transalpinos. En Septiembre de 2012 empezó a cursar el Máster en Periodismo de Investigación, Datos y Visualización de la Universidad Rey Juan Carlos y la Escuela de Periodismo de Unidad Editorial. Actualmente mezcla números y palabras en el periódico El Confidencial."
+  thumbnailUrl: DanieleGrasso.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/danielegrasso"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/daniele-grasso-9a76585"}
+    - {name: "site", link: "https://cortadoamaro.com/"}
+-
+  id: 8
+  name: "David"
+  surname: "Bueno Vallejo"
+  company: "Ayuntamiento de Malaga"
+  title: "Gerente del Centro Municipal de Informática (CEMI)"
+  bio: "David Bueno Vallejo, informático interesado en la divulgación, Doctor y profesor de Universidad, trabajando actualmente en el Ayuntamiento de Málaga como Gerente del Centro Municipal de Informática."
+  thumbnailUrl: DavidBueno.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/davidbuenov"}
+    - {name: "linkedin", link: "es.linkedin.com/in/davidbueno/"}
+    - {name: "site", link: "http://davidbuenov.blogspot.com.es/"}
+-
+  id: 9
+  name: "Ernesto"
+  surname: "Villar"
+  company: ""
+  title: "Periodista"
+  bio: "Ernesto Villar Cirujano (Madrid, 1972) es doctor en Periodismo por la Universidad Complutense, máster en Historia Contemporánea por la Universidad Autónoma de Madrid y profesor en el Centro Universitario Villanueva. Es, además, periodista en ejercicio, y ha sido uno de los fundadores de La Razón, donde fue redactor jefe de Nacional, Local, Internet, Opinión y Reportajes."
+  thumbnailUrl: nofoto.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/ernvillar"}
+-
+  id: 10
+  name: "Esther"
+  surname: "Minguela"
+  company: "Localidata"
+  title: "CEO"
+  bio: "Ingeniero en Informática y CEO de Localidata, una empresa especializada en datos abiertos. Coordinadora de la Norma 'UNE 178301 Ciudades Inteligentes. Datos Abiertos' y de la transposición internacional Y.ODI en ITU, que establece una guía para la apertura de datos. También miembro del grupo de trabajo Ojo al Data 100 que buscaba una relación de conjuntos de datos que deben publicar todas las administraciones y miembro del grupo de trabajo de la Federación Española de Municipios y Provincias en la Guía de Datos Abiertos. En Localidata han realizado proyectos de apertura de datos para Administraciones Públicas de todos los niveles, participando en proyectos europeos de innovación y en otros proyectos somos reutilizadores de datos."
+  thumbnailUrl: EstherMinguela.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/eminguelac"}
+-
+  id: 11
+  name: "Fernando"
+  surname: "Blat"
+  company: "Populate"
+  title: "Fundador y CEO"
+  bio: "Fernando Blat es programador web desde diez años, cuando entró en The Cocktail para un puesto de Ruby on Rails. Desde entonces lleva programando aplicaciones web en empresas propias y ajenas. Ahora acaba de arrancar un estudio llamado Populate para desarrollar herramientas de participación y transparencia.<br>Participa activamente en el grupo de usuarios de Ruby, y en concursos y hackathones relaciones con datos abiertos, como el Abredatos o el Jacathon. También es profesor de programación y ponente eventual allá donde le dejan soltar su rollo"
+  thumbnailUrl: FernandoBlat.jpg
+  social:
+    - {name: "site", link: "http://fernando.blat.es/"}
+    - {name: "twitter", link: "https://twitter.com/ferblape"}
+    - {name: "github", link: "https://github.com/ferblape"}
+-
+  id: 12
+  name: "Honorio Enrique"
+  surname: "Crespo Díaz-Alejo"
+  company: "Subdirección de Transparencia en el Ayuntamiento de Madrid"
+  title: "Jefe de Servicio de Acceso a la Información"
+  bio: "Es ingeniero en Informática, pertenece al cuerpo Superior de Sistemas y Tecnologias de la Información del Estado y es miembro de la asociación ASTIC. Lleva desde el 2013 relacionado con el mundo Open Data, y está detrás del Portal de Datos Abiertos del Ayuntamiento de Madrid desde su origen. Ha participado en la norma 'UNE 178301 Ciudades Inteligentes sobre Datos Abiertos', en el grupo de trabajo Ojo al Data 100 que buscaba una relación de conjuntos de datos que deben publicar todas las administraciones y recientemente en la Guía de Datos Abiertos de la Federación Española de Municipios y Provincias, la cual ha sido presentada en 2017 y que ya establece 20 conjuntos de datos en detalle que debe publicar las entidades locales, aparte de estrategias y recomendaciones para los portales."
+  thumbnailUrl: HonorioEnriqueCrespo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/h_enriquecrespo"}
+-
+  id: 13
+  name: "Iskra"
+  surname: "Velitchkova Ognyanova"
+  company: "BBVA Data & Analytics"
+  title: "Visual Thinking | Design Information"
+  bio: "Iskra Velitchkova es experta en visualización de datos y diseño de la información. En la actualidad forma parte del equipo de BBVA Data & Analytics, el centro de excelencia en ciencia de datos y analítica de BBVA, donde desarrolla las piezas visuales de divulgación en el terreno de Machine Learning y AI."
+  thumbnailUrl: IskraVelitchkova.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/pointline"}
+-
+  id: 14
+  name: "José Norberto"
+  surname: "Mazón"
+  company: "Universidad de Alicante"
+  title: "Investigador y docente"
+  bio: "Jose-Norberto Mazón is coordinator of the Computing degree at the University of Alicante. He is also member of the WaKe research group at the University of Alicante. His research work focuses on open data management, data integration and business intelligence within 'big data' scenarios. He has published his research in international journals, such as Decision Support Systems, Information Sciences, Data & Knowledge Engineering or ACM Transaction on the Web. Finally, he is involved in the open data project in the University of Alicante, including its open data portal"
+  thumbnailUrl: JoseNorberto.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/jnmazon"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/jnmazon"}
+-
+  id: 15
+  name: "José"
+  surname: "Nuño"
+  company: "Ayuntamiento de Madrid"
+  title: "Asesor de delegado"
+  bio: "Hasta esta fecha y desde julio de 2015 ha sido Asesor del Delegado del Área de Transparencia, Gobierno Abierto y Participación Ciudadana del Ayuntamiento de Madrid. Su trayectoria profesional se inicia en la FEMP en 1985, dónde ocupó distintas responsabilidades en la Asesoría Jurídica, en el Departamento de Comisiones de Trabajo, hasta alcanzar la Dirección de dicho Departamento. En 1997 se incorpora a la Consultora Arthur Andersen como Gerente dentro del Área del Sector Público hasta el año 2000 en que vuelve a la FEMP como Director de Programas. En 2003 es nombrado Gerente de la Empresa Municipal de Promoción de Madrid hasta julio de 2004 en que es nombrado Director General de Calidad y Atención al Ciudadano del Ayuntamiento de Madrid. Como Gerente, entre otras actividades, fue responsable de la puesta en marcha de la web www.esmadrid.com. Durante su responsabilidad como Director General, desde julio de 2004 hasta julio de 2015, ha participado en proyectos relativos a la calidad y la mejora en la prestación de servicios públicos y la modernización. Proyectos tales como Cartas de Servicios, Atención al Ciudadano –Línea Madrid, Observatorio de la Ciudad, Plan de Protección de Datos personales, Plan de Administración Electrónica, Portal de Transparencia, web del ayuntamiento de Madrid www.madrid.es  , Portal de Datos Abiertos, Plan de Gobierno Abierto, son algunos ejemplos de los proyectos en los que ha participado en la última parte de su trayectoria profesional. Durante este tiempo como Director General ha sido miembro de la Comisión de Modernización, Participación Ciudadana y Calidad de la FEMP."
+  thumbnailUrl: JoseNuno.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/f7541f1d9848470"}
+-
+  id: 16
+  name: "Julio"
+  surname: "Cerdá Díaz"
+  company: "Ayuntamiento de Arganda del Rey"
+  title: "Jefe de Innovación y Modernización y Director del Archivo de la Ciudad"
+  bio: "Jefe de Innovación y Modernización y Director del Archivo de la Ciudad en el Ayuntamiento de Arganda del Rey (Madrid), Profesor asociado del área de Biblioteconomía y Documentación de la Universidad Carlos III de Madrid. Miembro de la Comisión Técnica de Sociedad de la Información y Nuevas Tecnologías de la FEMP. En el Ayuntamiento de Arganda del Rey coordina los sistemas de gestión documental y los procesos de modernización e implantación de la administración electrónica. Son numerosas sus publicaciones, especialmente las relacionadas con la función cultural de los archivos y los procesos de transformación digital en las organizaciones."
+  thumbnailUrl: JulioCerda.jpg
+-
+  id: 17
+  name: "Karma"
+  surname: "Peiró"
+  company: "NacióDigital"
+  title: "Directora"
+  bio: "Especialitzada en internet i les Tecnologies de la Informació i la Comunicació (TIC), és la directora de Nació Digital. És membre del grup espanyol de l'Open Knowledge Foundation"
+  thumbnailUrl: KarmaPeiro.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/kpeiro"}
+    - {name: "site", link: "https://karmapeiro.wordpress.com/"}
+-
+  id: 18
+  name: "M Carmen"
+  surname: "García-Calvillo"
+  company: "Ayuntamiento de L’Hospitalet"
+  title: "Coordinadora del Gabinete de Alcaldía"
+  bio: "Licenciada en Ciencies Políticas y Diplomada en Gestión y Administración Pública por la Universidad de Barcelona. Coordinadora del Gabinete de Alcaldía del Ayuntamiento de L’Hospitalet desde el año 2014, departamento encargado de impulsar la puesta en marcha de los datos abiertos en el municipio. Miembro del grupo de trabajo de datos abiertos de la Red de entidades locales por la trasparencia y participación ciudadana de la FEMP desdel que hemos tenido la oportunidad de colaborar en la eleboración de la Guia de Datos Abiernos editada por la FEMP."
+  thumbnailUrl: MariCarmenGarciaCalvillo.jpg
+-
+  id: 19
+  name: "María Jesús"
+  surname: "Fernández Ruiz"
+  company: "Ayuntamiento de Zaragoza"
+  title: " Directora de la Unidad de Gestión de la Sede Electrónica"
+  bio: "María Jesús Fernández Ruiz es Directora de la Unidad de Gestión de la Sede Electrónica del Ayuntamiento de Zaragoza (España). Responsable de la Oficina de Gestión dela Sede Electrónica del Ayuntamiento de Zaragoza desde 1994. Desde 2010 impulsora y gestora de las plataformas: DatosAbiertos.zaragoza.es y GobiernoAbierto.zaragoza.es, ganadora en 2014 del premio Open Knowledge a la mejor iniciativa pública de datos abiertos con implicación de la ciudadanía. Ha formado parte en diferentes Proyectos de Investigación relacionados con la Participación Ciudadana, Administración Electrónica, Infraestructura de Datos Espaciales, etc. Imparte cursos, conferencias y ha publicado trabajos en: Gestión de Sitios Web; Tecnología Semántica; Arquitectura de la Información; Infraestructura de Datos Espaciales, Gobierno Abierto y Participación."
+  thumbnailUrl: MariaJesusFernandez.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+-
+  id: 20
+  name: "María"
+  surname: "Poveda"
+  company: "Ontology Engineering Group de la UPM"
+  title: "Investigadora"
+  bio: "María Poveda Villalón es doctora en Inteligencia Artificial y máster en Investigación por la Universidad Politécnica de Madrid (UPM). Actualmente es investigadora postdoctoral en el Ontology Engineering Group de la UPM, grupo que alberga el Nodo para la región de Madrid del Open Data Institue. Sus intereses en investigación son principalmente la ingeniería ontológica, la web semántica y datos enlazados. Durante los últimos años ha realizado estancias de investigación en centros extranjeros como University of Liverpool (2011), Free University of Berlin (2012) y en empresas como Mondeca en Paris (2013). Además ha participado en numerosos proyectos de investigación tanto a nivel nacional como internacional."
+  thumbnailUrl: MariaPoveda.jpg
+  social:
+    - {name: "site", link: "http://mariapoveda.github.io/"}
+-
+  id: 21
+  name: "Marcelo"
+  surname: "Soria-Rodríguez"
+  company: "Databeers, Tramontana, Pirt.co, Pointo, Trecone Solutions"
+  title: ""
+  bio: "Marcelo Soria-Rodríguez es co-fundador de Databeers, un movimiento informal de divulgación sobre la cultura de datos en la sociedad, presente en 21 ciudades de 8 países; socio en Tramontana, firma de diseño de producto digital, estrategia y comunicación, donde aporta su experiencia en el uso inteligente de información para la creación de nuevos productos y servicios basados en datos; es co-fundador y director de producto en Pirt.co, una startup dedicada a viajes de empresa; es socio en Pointo, una startup dedicada a la búsqueda de talento empleando mecanismos distribuidos y analítica de datos; es socio y hombre orquesta en Trecone Solutions, convirtiendo datos de uso de apps en dispositivos móviles en valor para empresas y particulaes. En el pasado ha sido Vicepresidente de Data Services y director de Commerce360, Nuevos Productos y Comunicación en BBVA Data & Analytics, un spin-off de  BBVA dedicado a la excelencia en data science y big data, y anteriormente fue investigador en Nokia en Finlandia, gestor y desarrollador de tecnología en dos startups españolas e integrante del departamento de innovación corporativa de BBVA, participando en y liderando proyectos de nuevos servicios y canales. Es inversor, consultor y mentor en otras compañías de base tecnológica. Es Ingeniero Superior de Telecomunicaciones y M.Sc. en Signal Processing. Muestra interés por la buena comida, fotografía, arquitectura, leer sobre el funcionamiento de nuestros cerebros y por el mundo en general."
+  thumbnailUrl: MarceloSoriaRodriguez.png
+  social:
+    - {name: "site", link: "http://aelygon.net/"}
+    - {name: "twitter", link: "https://twitter.com/msoriaro"}
+-
+  id: 22
+  name: "Olaya"
+  surname: "Argüeso"
+  company: "Unidad Editorial-URJC"
+  title: "Coordinadora de Máster en Periodismo de Investigación"
+  bio: "Olaya Argüeso es periodista de datos y entiende el periodismo como una herramienta para promover el cambio. Sus trabajos más recientes se han centrado en temas de género. Aunque se licenció en Filología Clásica y Periodismo, durante la mayor parte de su carrera profesional ha tratado de hacer las noticias económicas más fáciles de comprender para los oyentes de la Cadena SER. Allí ocupó diferentes posiciones, incluyendo la de Jefa de la Sección de Economía. Después de una etapa en el departamento de prensa de una multinacional, volvió a su verdadera vocación. Tras descubrir el periodismo de datos y las posibilidades que le abría para trabajar en historias de interés público, Olaya se embarcó en una nueva carrera profesional como freelance. Viajó a Nueva York para mejorar sus habilidades en el manejo y la visualización de datos en la Universidad de Columbia y ahora coordina el Máster en Periodismo de Investigación, Datos y Visualización de Unidad Editorial-URJC. Además, bucea en bases de datos buscando historias inéditas, y enseña periodismo de datos en España y América Latina."
+  thumbnailUrl: OlayaArgueso.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+-
+  id: 23
+  name: "Roberto"
+  surname: "Magro Pedroviejo"
+  company: "Ayuntamiento de Alcobendas"
+  title: "Jefe de Servicios Interactivos"
+  bio: "Jefe de Servicios Interactivos del Ayuntamiento de Alcobendas, es el responsable de la web corporativa, transparencia y datos abiertos del Ayuntamiento.​ Licenciado en Antropología Social y Cultural por la UAM y Master en Alta Dirección Pública por la Universidad Internacional Menéndez y Pelayo. Ha conseguido que Alcobendas sea uno de los ayuntamientos más transparentes de España y ha participado en numerosas jornadas sobre transparencia y datos abiertos como formador y ponente. Impulsor y co-coordinador de la Guía de Datos Abiertos de la FEMP.​"
+  thumbnailUrl: RobertoMagro.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/robermape"}
+-
+  id: 24
+  name: "Rosa María"
+  surname: "Sainz Peña"
+  company: "Telefónica"
+  title: "Gerente de Gestión del Conocimiento"
+  bio: "Rosa María Sainz Peña, es doctora en Ciencias de la Información por la Universidad Complutense de Madrid y cuenta con más de veinte años de experiencia en temas de comunicación, tendencias tecnológicas  e  impacto social de las nuevas tecnologías. Ha trabajado también en Fundesco (Fundación para el Desarrollo de la Función Social de las Comunicaciones). En la actualidad es Gerente de Gestión del Conocimiento de Fundación Telefónica y es responsable de investigaciones y proyectos  editoriales sobre cultura digital. "
+  thumbnailUrl: nofoto.svg
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+-
+  id: 25
+  name: "Salvador"
+  surname: "Soriano"
+  company: "Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información. Ministerio de Industria, Energía y Turismo"
+  title: "Coordinador de Área"
+  bio: "Salvador es Ingeniero Superior de Telecomunicación por la Universidad Politécnica de Madrid, Máster en Gestión de Sistemas de Información por la Escuela Superior de Comercio de París, especialización en Propiedad Intelectual y firma electrónica por la Universidad Oberta de Cataluña y Programa Ejecutivo de Liderazgo Público por la IE Business School. Actualmente, trabaja en el Ministerio de Industria, Energía y Turismo en la iniciativa Aporta/datos.gob.es para el fomento de la apertura de datos y la reutilización de la información del sector público."
+  thumbnailUrl: nofoto.svg
+  social:
+    - {name: "linkedin", link: "https://es.linkedin.com/in/salvadorsoriano"}
+-
+  id: 26
+  name: "Santiago"
+  surname: "González"
+  company: "Synergic Partners"
+  title: "Director de Innovación"
+  bio: "A Ph.D. in Computer Science, my main experience is in Big Data and Data Analysis (Bussiness Intelligence), topics on which I've been working for 9 years. I have participed in RTD public/private international and national projects, applying Data Analysis to different fields, such as Neuroinformatics, Medical and Bio-informatics, Geo-Marketing, Aeronautics, traffic and time planning, etc. I also have experience in complementary areas such as Image Processing, Natural Language Processing, (2D and 3D) Visual Analytics and Human-Computer interaction (4 years). The agreement between UPM and IBM has allowed me to use Supercomputers, mostly Magerit (CeSViMa), and develop several parallel and distributed systems in different architectures. In the RTD department of Grupo Gesfor and in the Biomedical Technology Centre, I have had the opportunity of getting experience in project application, management and coordination with different international partners. Furthermore, I have experience in Web innovation, which is based on the idea of obtaining an optimal customer experience during a web visit; using web technologies, user centered web design and usability techniques. Additionally, I am a professor with 8 years of experience, teaching people from all ages and backgrounds; from high school to company employees."
+  thumbnailUrl: SantiagoGonzalez.jpg
+  social:
+    - {name: "twitter", link: "https://es.linkedin.com/in/santigt"}
+    - {name: "linkedin", link: "https://twitter.com/santigt"}
+-
+  id: 27
+  name: "Santiago"
+  surname: "Mota"
+  company: "EOI, UNED y Universidad Complutense"
+  title: "Profesor"
+  bio: "Santiago es Licenciado en CC. Físicas. MBA y Máster en Bunisness Intelligence y Big Data por la EOI. Trabaja como consultor freelace en temas de Estrategia, Business Intelligence, Machine Learning y Open Data. Además es profesor en la EOI, UNED y Universidad Complutense. Participa habitualmente en concursos relacionados con datos y es Kaggle Master."
+  thumbnailUrl: SantiagoMota.jpg
+  social:
+    - {name: "linkedin", link: "https://es.linkedin.com/in/santiagomota"}
+    - {name: "github", link: "https://github.com/santiagomota"}
+    - {name: "twitter", link: "https://twitter.com/mota_santiago"}
+-
+  id: 28
+  name: "Sonia"
+  surname: "Castro"
+  company: ""
+  title: ""
+  bio: "Sonia Castro ha trabajado en los últimos cinco años como coordinadora en el marco de la iniciativa Aporta, proyecto nacional que tiene como objetivo de promocionar la cultura de la apertura de información en España. Entre las diversas tareas desarrolladas destacan las labores de asesoramiento a administraciones y organismos públicos en la apertura de datos, la elaboración de materiales formativos, la definición y gestión del catálogo nacional de información pública reutilizable (datos.gob.es), la colaboración en la redacción de normas de ámbito nacional dirigidas a establecer las pautas técnicas de interoperabilidad y los requisitos para la reutilización de los datos abiertos, y la participación en proyecto paneuropeos tales como el Open Data Monitor. Anteriormente colaboró, tanto en el sector público como en el sector privado, en la orientación e implementación de estrategias para potenciar la aplicación de las Tecnologías de la Información y la Comunicación en el sistema educativo y formativo, y en de diseño de espacios de generación de conocimientos digitales compartidos. Posee master oficial de Sociedad de la información y el conocimiento, con especialización en Economía del conocimiento y empresa red."
+  thumbnailUrl: SoniaCastro.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/soniastweet"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/soniacastrogm"}
+-
+  id: 29
+  name: "Ulises"
+  surname: "Gascón González"
+  company: ""
+  title: "Desarrollador Full Stack JavaScript"
+  bio: "Desarrollador Full Stack JavaScript especializado en Internet of Things con hardware libre como Arduino y Raspberry Pi. Colaborador activo en la comunidad de desarrollo de software libre. Experto en el desarrollo de prototipos y productos con HTML5, JS (Node.js, Backbone...). Ex-IBMer. En su años en IBM realizó diversas mejoras, aplicaciones y plugins para IBM Connections además de liderar equipos de innovación y formar a ejecutivos y empleados."
+  thumbnailUrl: UlisesGascon.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/kom_256"}
+    - {name: "linkedin", link: "https://es.linkedin.com/in/ulisesgascon"}
+    - {name: "github", link: "https://github.com/UlisesGascon"}
+    - {site: "site", link: "https://medium.com/@ulisesGascon"}
+-
+  id: 30
+  name: "Virgina"
+  surname: "Moreno Bonilla"
+  company: "Ayuntamiento de Leganés"
+  title: ""
+  bio: "Directora General de Nuevas Tecnologías e Innovación, Organización, Atención Ciudadana, Calidad y Archivo  en el Ayuntamiento de Leganés."
+  thumbnailUrl: VirginiaMoreno.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/virginimoreno"}
