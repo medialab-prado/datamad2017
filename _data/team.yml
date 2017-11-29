@@ -1,13 +1,89 @@
 -
-  id: 3
+  id: 1
   name: "Adolfo"
   surname: "Antón Bravo"
   company: "Datalab de Medialab-Prado"
-  title: "Periodista de datos"
+  title: "Coordinación"
   team: true
   bio: " Adolfo es doctor en Ciencias de la Información por la Universidad Complutense de Madrid donde ha realizado su tesis sobre Tecnologías de la Web Semántica; Presidente de Open Knowledge España y editor de Infotics.es (@infotics), coordina desde 2014 las actividades del grupo de trabajo de Periodismo de Datos de Medialab-Prado y las Jornadas de Periodismo de Datos.<br><br>Trabaja como diseñador, periodista, formador y es un apasionado del Software Libre y el conocimiento abierto."
   thumbnailUrl: AdolfoAnton.jpg
-  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/adolflow"}
     - {name: "github", link: "https://github.com/flowsta"}
+-
+  id: 2
+  name: "Enrique"
+  surname: "Crespo Díaz-Alejo"
+  company: "Portal de datos abiertos del Ayuntamiento de Madrid"
+  title: "Coordinación"
+  team: true
+  bio: "Es ingeniero en Informática, pertenece al cuerpo Superior de Sistemas y Tecnologias de la Información del Estado y es miembro de la asociación ASTIC. Lleva desde el 2013 relacionado con el mundo Open Data, y está detrás del Portal de Datos Abiertos del Ayuntamiento de Madrid desde su origen. Ha participado en la norma 'UNE 178301 Ciudades Inteligentes sobre Datos Abiertos', en el grupo de trabajo Ojo al Data 100 que buscaba una relación de conjuntos de datos que deben publicar todas las administraciones y recientemente en la Guía de Datos Abiertos de la Federación Española de Municipios y Provincias, la cual ha sido presentada en 2017 y que ya establece 20 conjuntos de datos en detalle que debe publicar las entidades locales, aparte de estrategias y recomendaciones para los portales."
+  thumbnailUrl: HonorioEnriqueCrespo.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/h_enriquecrespo"}
+-
+  id: 3
+  name: "Vicky"
+  surname: "Bolaños"
+  company: ""
+  title: "Organización"
+  team: true
+  bio: "Vicky Bolaños es periodista licenciada por la Universitat Autònoma de Barcelona. Ha trabajado en diversos medios: enredando.com, TV Calvià, Europa Press y TVE. Actualmente trabaja en rtve.es.<br>Paralelamente ha participado en proyectos sociales y culturales: un programa de radio del Servicio de Voluntariado Europeo (EVS), un magazine cultural online y diversas revistas. <br><br>Desde diciembre de 2011 colabora en el equipo de Qué hacen los diputados, un proyecto de difusión de la información parlamentaria a través de una página web y de las redes sociales (@que_hacen).<br><br>En la actualidad estudia el Máster en Comunicación, Cultura y Ciudadanía Digitales (CCCD) de la Universidad Rey Juan Carlos en colaboración con Medialab-Prado."
+  thumbnailUrl: VickyBolanos.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/vickybol"}
+-
+  id: 4
+  name: "Victoria"
+  surname: "Anderica"
+  company: "Directora del Proyecto de Transparencia del Ayuntamiento de Madrid"
+  title: "Organización"
+  team: true
+  bio: "Dirije el proyecto de Transparencia del Ayuntamiento de Madrid, que se impulsa desde el Área de Gobierno de Participación Ciudadana, Transparencia y Gobierno Abierto."
+  thumbnailUrl: VictoriaAnderica.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/vickyande"}
+-
+  id: 5
+  name: "Mercedes"
+  surname: "Bilbao Muñoz"
+  company: ""
+  title: "Organización"
+  subTeam: true
+  bio: ""
+  thumbnailUrl:
+-
+  id: 7
+  name: "Alejandro"
+  surname: "Zappala Delgado"
+  company: ""
+  title: "Asistencia técnica"
+  subTeam: true
+  bio: "Alejandro Zappala Delgado es ingeniero en Topografía, Cartografía y Geodesia e investigador y divulgador de tecnología geográfica alrededor de la diversidad funcional, cuyos resultados y experiencias comparte en su web www.adappgeo.net."
+  thumbnailUrl:
+  social:
+    - {name: "twitter", link: "https://twitter.com/alayzappala"}
+    - {name: "github", link: "https://github.com/alayzappala"}
+-
+  id: 8
+  name: "María"
+  surname: "Navarro"
+  company: "Datalab"
+  title: "Difusión"
+  subTeam: true
+  bio: "Periodista en la #LaCafetera de @radiocable. De L-V a las 08:30 / Aprendo periodismo de datos "
+  thumbnailUrl:
+  social:
+    - {name: "twitter", link: "https://twitter.com/mariapuntoes"}
+    - {name: "site", link: "http://sihayperosquevalgan.com"}
+-
+  id: 9
+  name: "Sandra"
+  surname: "Sánchez"
+  company: "Datalab"
+  title: "Difusión"
+  subTeam: true
+  bio: ""
+  thumbnailUrl:
+  social:
+    - {name: "twitter", link: "https://twitter.com/_SandraSM_"}
