@@ -44,27 +44,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/vickyande"}
 -
-  id: 5
-  name: "Mercedes"
-  surname: "Bilbao Muñoz"
-  company: ""
-  title: "Organización"
-  subTeam: true
-  bio: ""
-  thumbnailUrl:
--
-  id: 7
-  name: "Alejandro"
-  surname: "Zappala Delgado"
-  company: ""
-  title: "Asistencia técnica"
-  subTeam: true
-  bio: "Alejandro Zappala Delgado es ingeniero en Topografía, Cartografía y Geodesia e investigador y divulgador de tecnología geográfica alrededor de la diversidad funcional, cuyos resultados y experiencias comparte en su web www.adappgeo.net."
-  thumbnailUrl:
-  social:
-    - {name: "twitter", link: "https://twitter.com/alayzappala"}
-    - {name: "github", link: "https://github.com/alayzappala"}
--
   id: 8
   name: "María"
   surname: "Navarro"
@@ -87,3 +66,24 @@
   thumbnailUrl:
   social:
     - {name: "twitter", link: "https://twitter.com/_SandraSM_"}
+-
+  id: 5
+  name: "Mercedes"
+  surname: "Bilbao Muñoz"
+  company: ""
+  title: "Organización"
+  subTeam: true
+  bio: ""
+  thumbnailUrl:
+-
+  id: 7
+  name: "Alejandro"
+  surname: "Zappala Delgado"
+  company: ""
+  title: "Asistencia técnica"
+  subTeam: true
+  bio: "Alejandro Zappala Delgado es ingeniero en Topografía, Cartografía y Geodesia e investigador y divulgador de tecnología geográfica alrededor de la diversidad funcional, cuyos resultados y experiencias comparte en su web www.adappgeo.net."
+  thumbnailUrl:
+  social:
+    - {name: "twitter", link: "https://twitter.com/alayzappala"}
+    - {name: "github", link: "https://github.com/alayzappala"}
