@@ -17,7 +17,7 @@
   speakers: [3]
   language: es
   complexity: "Beginner"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  video:
 -
   id: 002
   title: "Presentación de proyectos, 5 minutos cada uno"
@@ -26,8 +26,8 @@
   speakers: []
   language: es
   complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  presentation:
+  video:
 -
   id: 003
   title: "Presentación de colaboradores y formación de equipos"
@@ -36,7 +36,7 @@
   speakers: []
   language: es
   complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation:
 -
   id: 004
   title: "Datos abiertos del Ayuntamiento de Madrid"
@@ -45,8 +45,8 @@
   speakers: [6]
   language: es
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  presentation:
+  video:
 -
   id: 005
   title: "Datos abiertos de la EMT"
@@ -55,8 +55,8 @@
   speakers: [7]
   language: es
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  presentation:
+  video:
 -
   id: 006
   title: "Haskell"
@@ -65,18 +65,18 @@
   speakers: [8]
   language: es
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  presentation:
+  video:
 -
   id: 007
-  title: "datos abiertos vinculados por alguien de ODI/OEG/UPM"
+  title: "Datos Abiertos Vinculados"
   description: "Nos hablará de los datos abiertos"
   subtype: keynote
   speakers: [9]
   language: es
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  presentation:
+  video:
 -
   id: 008
   title: "Trabajo en equipo"
@@ -85,8 +85,8 @@
   speakers: []
   language: es
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  presentation:
+  video:
 -
   id: 009
   title: "Fallo de los premios y ceremonia de entrega de premios"
@@ -95,5 +95,5 @@
   speakers: []
   language: es
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/M34idSdOn4Q"
+  presentation:
+  video: 
