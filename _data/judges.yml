@@ -36,7 +36,7 @@
   surname: "Font"
   company: "CAJAMAR"
   title: "Business Intelligence Director"
-  bio:
+  bio: "Director de Investigación y Metodología Comercial del Grupo Cooperativo Cajamar responsabilizándose de la analítica y sistemática que dan soporte a las acciones comerciales de la entidad. Actualmente trabajando en la aplicación de las mejores prácticas en la implantación del paradigma big data, disciplinas data science y optimización de la agenda comercial llevada a cabo por el Grupo Cooperativo Cajamar.<br>Ingeniero de Telecomunicación por la Universidad Politécnica de Madrid, Diplomado en Ciencias Empresariales por la Universidad Complutense de Madrid. Programas de Ingeniería Electrica en la École Supérieure d'Électricité de París y Postgrado en Gestión Empresarial y Marketing por la Universidad Autónoma de Madrid. Certificado PMP (Project Management Professional) y desarrollador certificado CCDH (Cloudera Certified Developer for Apache Hadoop). Ha desarrollado su carrera profesional entre otros en el departamento de emarketing de Chrysler España, el Foro de la Gobernanza de Internet de España (IGF Spain), la consultora especializada en analítica y gestión de datos Synergic Partners y el Centro de Competencia de Ciudades de Ferrovial Servicios."
   thumbnailUrl: AntonioFont.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/AFontPerez"}
