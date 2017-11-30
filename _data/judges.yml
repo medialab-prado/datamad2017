@@ -126,7 +126,7 @@
 -
   id: 12
   name: "Honorio Enrique"
-  surname: "Crespo Díaz-Alejo"
+  surname: "Crespo"
   company: "Subdirección de Transparencia en el Ayuntamiento de Madrid"
   title: "Jefe de Servicio de Acceso a la Información"
   bio: "Es ingeniero en Informática, pertenece al cuerpo Superior de Sistemas y Tecnologias de la Información del Estado y es miembro de la asociación ASTIC. Lleva desde el 2013 relacionado con el mundo Open Data, y está detrás del Portal de Datos Abiertos del Ayuntamiento de Madrid desde su origen. Ha participado en la norma 'UNE 178301 Ciudades Inteligentes sobre Datos Abiertos', en el grupo de trabajo Ojo al Data 100 que buscaba una relación de conjuntos de datos que deben publicar todas las administraciones y recientemente en la Guía de Datos Abiertos de la Federación Española de Municipios y Provincias, la cual ha sido presentada en 2017 y que ya establece 20 conjuntos de datos en detalle que debe publicar las entidades locales, aparte de estrategias y recomendaciones para los portales."
@@ -137,7 +137,7 @@
 -
   id: 13
   name: "Iskra"
-  surname: "Velitchkova Ognyanova"
+  surname: "Velitchkova"
   company: "BBVA Data & Analytics"
   title: "Visual Thinking | Design Information"
   bio: "Iskra Velitchkova es experta en visualización de datos y diseño de la información. En la actualidad forma parte del equipo de BBVA Data & Analytics, el centro de excelencia en ciencia de datos y analítica de BBVA, donde desarrolla las piezas visuales de divulgación en el terreno de Machine Learning y AI."
@@ -194,7 +194,7 @@
   thumbnailUrl: MariCarmenGarciaCalvillo.jpg
 -
   id: 19
-  name: "María Jesús"
+  name: "Mº Jesús"
   surname: "Fernández Ruiz"
   company: "Ayuntamiento de Zaragoza"
   title: " Directora de la Unidad de Gestión de la Sede Electrónica"
@@ -236,7 +236,7 @@
 -
   id: 23
   name: "Roberto"
-  surname: "Magro Pedroviejo"
+  surname: "Magro"
   company: "Ayuntamiento de Alcobendas"
   title: "Jefe de Servicios Interactivos"
   bio: "Jefe de Servicios Interactivos del Ayuntamiento de Alcobendas, es el responsable de la web corporativa, transparencia y datos abiertos del Ayuntamiento.​ Licenciado en Antropología Social y Cultural por la UAM y Master en Alta Dirección Pública por la Universidad Internacional Menéndez y Pelayo. Ha conseguido que Alcobendas sea uno de los ayuntamientos más transparentes de España y ha participado en numerosas jornadas sobre transparencia y datos abiertos como formador y ponente. Impulsor y co-coordinador de la Guía de Datos Abiertos de la FEMP.​"
@@ -290,8 +290,8 @@
   id: 28
   name: "Sonia"
   surname: "Castro"
-  company: ""
-  title: ""
+  company: "Aporta"
+  title: "Coordinadora"
   bio: "Sonia Castro ha trabajado en los últimos cinco años como coordinadora en el marco de la iniciativa Aporta, proyecto nacional que tiene como objetivo de promocionar la cultura de la apertura de información en España. Entre las diversas tareas desarrolladas destacan las labores de asesoramiento a administraciones y organismos públicos en la apertura de datos, la elaboración de materiales formativos, la definición y gestión del catálogo nacional de información pública reutilizable (datos.gob.es), la colaboración en la redacción de normas de ámbito nacional dirigidas a establecer las pautas técnicas de interoperabilidad y los requisitos para la reutilización de los datos abiertos, y la participación en proyecto paneuropeos tales como el Open Data Monitor. Anteriormente colaboró, tanto en el sector público como en el sector privado, en la orientación e implementación de estrategias para potenciar la aplicación de las Tecnologías de la Información y la Comunicación en el sistema educativo y formativo, y en de diseño de espacios de generación de conocimientos digitales compartidos. Posee master oficial de Sociedad de la información y el conocimiento, con especialización en Economía del conocimiento y empresa red."
   thumbnailUrl: SoniaCastro.jpg
   social:
