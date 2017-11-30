@@ -1,7 +1,7 @@
-- 
+-
   date: "2017-10-20"
   dateReadable: "Viernes 20 de octubre"
-  tracks: 
+  tracks:
     - {title: "Auditorio", color: "#90be4e"}
   timeslots:
     - {
@@ -54,34 +54,34 @@
         endTime: "20:30",
         sessionIds: [008]
     }
-- 
+-
   date: "2017-10-21"
   dateReadable: "Sabado 21 de octubre"
-  tracks: 
+  tracks:
     - {title: "LAB1", color: "#90be4e"}
-  timeslots: 
+  timeslots:
     - {
     	startTime: "10:00",
     	endTime: "16:00",
     	sessionIds: [008]
     }
-- 
+-
   date: "2017-10-22"
   dateReadable: "Domingo 22 de octubre"
-  tracks: 
+  tracks:
     - {title: "LAB1", color: "#90be4e"}
-  timeslots: 
+  timeslots:
     - {
         startTime: "10:00",
         endTime: "14:30",
         sessionIds: [008]
     }
-- 
-  date: "2017-12-15"
-  dateReadable: "Viernes 15 de diciembre"
-  tracks: 
+-
+  date: "2017-12-16"
+  dateReadable: "Sabado 16 de diciembre"
+  tracks:
     - {title: "LAB1", color: "#90be4e"}
-  timeslots: 
+  timeslots:
     - {
         startTime: "10:00",
         endTime: "14:30",
