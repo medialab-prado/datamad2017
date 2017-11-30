@@ -19,9 +19,9 @@ isStaticPost: false
 - Ana Isabel Cordobés
 - Cuarto Poder, 30/07/2017
 
-#### Donde se cruzan
+#### Donde se cruzan los caminos
 
-- Donde se cruzan (sin difusión pública)
+- Sin difusión pública
 
 #### El mapa de las alergias de Madrid
 
