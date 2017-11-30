@@ -53,8 +53,8 @@ navigationLinks:
 homeImage: "medialab_auditorio3_flickr.jpg"
 # Hero Block
 heroTitle: "DataMad <typeout>2017"
-eventDate: "20-22 Octubre 2017"
-typeoutTextValues: '"", "Madrid", "", "Periodismo de datos", "Datatón"'
+eventDate: "16 Diciembre - Entrega de Premios"
+typeoutTextValues: '"", "", "Periodismo de datos", "Datatón"'
 typeoutFallback: "Datatón Ciudad de Madrid"
 
 # About Block
