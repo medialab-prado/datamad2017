@@ -5,7 +5,7 @@
   company: "Universidad Politécnica de Madrid"
   title: "Profesora asociada"
   bio: ""
-  thumbnailUrl: nofoto.svg
+  thumbnailUrl: AliciaGomez.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/urbanoemergente"}
 -
@@ -55,10 +55,10 @@
   id: 5
   name: "Casey"
   surname: "Abernethy"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: nofoto.svg
+  company: "Asociación Multisectorial de la Información"
+  title: "Técnico Asedie"
+  bio: "Técnico Asedie, Asociación Multisectorial de la Información. <br>Forma parte del grupo de trabajo que elabora el Informe del Sector Infomediario Asedie. <br>Forma parte del grupo de trabajo ‘’Datos Abiertos” de la Federación Española de Municipios y Provincias. <br>Realiza seguimiento de los portales de datos abiertos de la Administracion General de Estado y Comunidades Autónomas.<br>Participa en la monitorización de bases de datos solicitadas al Sector Público y en la busca de de nuevas fuentes de información."
+  thumbnailUrl: CaseyAbernethy.jpg
 -
   id: 6
   name: "Chus"
@@ -98,7 +98,7 @@
   company: ""
   title: "Periodista"
   bio: "Ernesto Villar Cirujano (Madrid, 1972) es doctor en Periodismo por la Universidad Complutense, máster en Historia Contemporánea por la Universidad Autónoma de Madrid y profesor en el Centro Universitario Villanueva. Es, además, periodista en ejercicio, y ha sido uno de los fundadores de La Razón, donde fue redactor jefe de Nacional, Local, Internet, Opinión y Reportajes."
-  thumbnailUrl: nofoto.svg
+  thumbnailUrl: ErnestoVillar.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/ernvillar"}
 -
@@ -250,17 +250,17 @@
   company: "Telefónica"
   title: "Gerente de Gestión del Conocimiento"
   bio: "Rosa María Sainz Peña, es doctora en Ciencias de la Información por la Universidad Complutense de Madrid y cuenta con más de veinte años de experiencia en temas de comunicación, tendencias tecnológicas  e  impacto social de las nuevas tecnologías. Ha trabajado también en Fundesco (Fundación para el Desarrollo de la Función Social de las Comunicaciones). En la actualidad es Gerente de Gestión del Conocimiento de Fundación Telefónica y es responsable de investigaciones y proyectos  editoriales sobre cultura digital. "
-  thumbnailUrl: nofoto.svg
+  thumbnailUrl: RosaMariaSainz.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/"}
 -
   id: 25
   name: "Salvador"
   surname: "Soriano"
-  company: "Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información. Ministerio de Industria, Energía y Turismo"
+  company: "Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información"
   title: "Coordinador de Área"
   bio: "Salvador es Ingeniero Superior de Telecomunicación por la Universidad Politécnica de Madrid, Máster en Gestión de Sistemas de Información por la Escuela Superior de Comercio de París, especialización en Propiedad Intelectual y firma electrónica por la Universidad Oberta de Cataluña y Programa Ejecutivo de Liderazgo Público por la IE Business School. Actualmente, trabaja en el Ministerio de Industria, Energía y Turismo en la iniciativa Aporta/datos.gob.es para el fomento de la apertura de datos y la reutilización de la información del sector público."
-  thumbnailUrl: nofoto.svg
+  thumbnailUrl: SalvadorSoriano.jpg
   social:
     - {name: "linkedin", link: "https://es.linkedin.com/in/salvadorsoriano"}
 -
