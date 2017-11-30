@@ -87,5 +87,5 @@ isStaticPost: false
 - [Flora Fosset](http://fosset.co/)
 
 #### Análisis del conjunto de datos abiertos AVISA del ayuntamiento de Madrid
-- [Avisa](https://cpalomogaro.github.io/avisa)
+- [https://cpalomogaro.github.io/avisa](https://cpalomogaro.github.io/avisa)
 - Cristina Palomo Garo
