@@ -19,9 +19,10 @@ El proyecto parte de un archivo .csv con las calles actuales de los 21 distritos
 
 De manera consensuada, deberíamos poder establecer las diferentes categorías y subcategorías que existen en esas calles: personas (hombres y mujeres), animales, vegetales, lugares, hechos, obras...
 
-__Promotora:__ Patricia Horrillo Guerra
-
-__GIT:__ [https://github.com/medialab-prado/callesdemadrid](https://github.com/medialab-prado/callesdemadrid)
+- __Promotora:__ Patricia Horrillo Guerra
+- __Enlace al proyecto:__ [http://callesdemadrid.cc/](http://callesdemadrid.cc/)
+- __Documentación:__ [https://github.com/medialab-prado/callesdemadrid/blob/master/Informe%20del%20proyecto.pdf](https://github.com/medialab-prado/callesdemadrid/blob/master/Informe%20del%20proyecto.pdf)
+- __Repositorio GIT:__ [https://github.com/medialab-prado/callesdemadrid](https://github.com/medialab-prado/callesdemadrid)
 
 
 #### Pure Madrid
@@ -32,24 +33,26 @@ El enfoque que le hemos dado a esta aplicación está centrado en la informació
 
 La motivación que nos ha llevado a presentar este proyecto fue el caos que se organizó el año pasado al resultar que muchos ciudadanos no tenían disponible la información hasta el momento en el que encendían la radio o veían los letreros en las carreteras. Por esta razón el objetivo de esta aplicación será ayudar a los ciudadanos en la medida de lo posible a conocer los escenarios activados en cada momento.
 
-__Promotor:__ Javier Delgado Aylagas
+- __Promotor:__ Javier Delgado Aylagas
+- __Enlace al proyecto:__ [https://play.google.com/store/apps/details?id=com.albaitdevs.puremadrid](https://play.google.com/store/apps/details?id=com.albaitdevs.puremadrid)
+- __Documentación:__ [https://github.com/medialab-prado/puremadrid/blob/master/README.md](https://github.com/medialab-prado/puremadrid/blob/master/README.md)
+- __Repositorio GIT:__ [https://github.com/medialab-prado/puremadrid](https://github.com/medialab-prado/puremadrid)
 
-__GIT:__ [https://github.com/medialab-prado/puremadrid](https://github.com/medialab-prado/puremadrid)
 
-
-#### Tripscore
+#### Tripscore: recomendando rutas en la ciudad de Madrid
 
 [Tripscore](http://tripscore.eu/) es una aplicación web que permite obtener recomendaciones de rutas en transporte público comparando las preferencias del usuario con datos históricos sobre la calidad del transporte. Esta aplicación se encuentra disponible en [http://tripscore.eu/](http://tripscore.eu/) y fue desarrollada durante el mes de Julio de 2017 en el evento Open Summer of Code en Bruselas (Bélgica) en el contexto del proyecto europeo OASIS.
 
-Actualmente la aplicación contiene los datos de los trenes que circulan por todo Bélgica. Como participantes de OASIS, el Grupo de Ingeniería Ontológica (OEG) de la Universidad Politécnica de Madrid junto con el el Consorcio de Transportes de Madrid (CRTM) han ideado el plan de introducir los datos abiertos de transporte de la ciudad de Madrid para poder ofrecer este servicio a los ciudadanos.
+Actualmente la aplicación contiene los datos de los trenes que circulan por todo Bélgica. Como participantes de OASIS, el Grupo de Ingeniería Ontológica (OEG) de la Universidad Politécnica de Madrid junto con el el Consorcio de Transportes de Madrid (CRTM) han ideado el plan de __introducir los datos abiertos de transporte de la ciudad de Madrid para poder ofrecer este servicio a los ciudadanos__.
 
 Para ello se tendrán que recolectar y transformar los datos de la Empresa Municipal de Transport de Madrid (EMT) almacenados en el portal de datos abiertos del ayuntamiento de Madrid y los datos del portal de datos abierto del CRTM para que estos puedan ser consultados a través de Tripscore.
 
 Public transport, open linked data, quality of experience, EMT, CRTM.
 
-__Promotor:__ David Chaves Fraga
-
-__GIT:__ [https://github.com/medialab-prado/tripscore](https://github.com/medialab-prado/tripscore)
+- __Promotor:__ David Chaves Fraga
+- __Enlace al proyecto__: [http://tripscore.lab.oeg-upm.net/](http://tripscore.lab.oeg-upm.net/)
+- __Documentación:__ [https://github.com/medialab-prado/tripscore/blob/master/README.md](https://github.com/medialab-prado/tripscore/blob/master/README.md)
+- __Repositorio GIT:__ [https://github.com/medialab-prado/tripscore](https://github.com/medialab-prado/tripscore)
 
 
 #### Madrid On You
@@ -86,9 +89,8 @@ Por tanto, los usuarios podrán saber si hay aparcamientos públicos cerca de lo
 
 Si bien existen aplicaciones y portales que implementan alguna de las anteriores funcionalidades por separado, no existe aún ningún sistema que lo haga todo a la vez, brindando al usuario una opción sencilla y rápida para planificar su viaje turístico o estancia en Madrid.
 
-__Promotor:__ Jesús Pérez Melero
-
-__GIT:__ [https://github.com/medialab-prado/madridonyou](https://github.com/medialab-prado/madridonyou)
+- __Promotor:__ Jesús Pérez Melero
+- __Documentación:__ [https://github.com/medialab-prado/madridonyou](https://github.com/medialab-prado/madridonyou)
 
 
 #### DoctorData: datos abiertos colaborativos usando OpenStreetMap
@@ -103,9 +105,10 @@ DoctorData pretende mejorar la cantidad y calidad de los datos complementando lo
 
 Además, como recompensa a la labor de la gente, se pretende integrar algunos datasets del portal de datos abiertos en OSM.
 
-__Promotor:__ Esteban González Guardia
-
-__GIT:__ [https://github.com/medialab-prado/doctordata](https://github.com/medialab-prado/doctordata)
+- __Promotor:__ Esteban González Guardia
+- __Enlace al Proyecto:__ [https://medialab-prado.github.io/doctordata/](https://medialab-prado.github.io/doctordata/)
+- __Documentación:__ [https://github.com/medialab-prado/doctordata/blob/master/README.md](https://github.com/medialab-prado/doctordata/blob/master/README.md)
+- __Repositorio GIT:__ [https://github.com/medialab-prado/doctordata](https://github.com/medialab-prado/doctordata)
 
 
 #### La tecnología Blockchain en la administración pública: Aplicaciones y prueba de concepto
@@ -116,9 +119,9 @@ Para ello propone hacer uso de uno de la programación funcional, uno de los par
 
 Este prototipo añadirá las ventajas que ofrece el uso de los sistemas de bases de datos distribuidas, tecnología conocida como blockchain, entre las que cabe destacar la imposibilidad de modificar los datos una vez incluidos y procesados en la cadena de información, con las ventajas consiguientes en cuanto a transparencia y en su caso, preservación de la intimidad del consultante.
 
-__Promotor:__ Juan Antonio García Lleó
-
-__GIT:__ [https://github.com/medialab-prado/blockchainapp](https://github.com/medialab-prado/blockchainapp)
+- __Promotor:__ Juan Antonio García Lleó
+- __Documentación:__ [https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchainCompleto.pdf](https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchainCompleto.pdf)
+- __Repositorio GIT:__ [https://github.com/medialab-prado/blockchainapp](https://github.com/medialab-prado/blockchainapp)
 
 
 #### M30, gestión inteligente del tráfico
@@ -135,6 +138,7 @@ En las siguientes secciones del trabajo se mostrará cómo obtener y tratar las 
 
 Se analizarán los datos de forma descriptiva para conocer el estado actual y pasado y, finalmente, se tratará de diseñar modelos predictivos para encontrar patrones y cierta armonía en el aparente caos del tráfico de la capital.
 
-__Promotor:__ Mikel Uranga Barro
-
-__GIT:__ [https://github.com/medialab-prado/m30trafico](https://github.com/medialab-prado/m30trafico)
+- __Promotor:__ Mikel Uranga Barro
+- __Enlace al proyecto:__ [https://muranga.shinyapps.io/dataton17_m30int/](https://muranga.shinyapps.io/dataton17_m30int/)
+- __Documentación:__ [https://github.com/medialab-prado/m30trafico/blob/master/M30%20Gestion%20Inteligente%20del%20Trafico.pdf](https://github.com/medialab-prado/m30trafico/blob/master/M30%20Gestion%20Inteligente%20del%20Trafico.pdf)
+- __Repositorio GIT:__ [https://github.com/medialab-prado/m30trafico](https://github.com/medialab-prado/m30trafico)
