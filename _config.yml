@@ -43,10 +43,10 @@ c4pUrl: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/programa/", text: "Programa"}
- - {permalink: "/proyectos/", text: "Proyectos"}
  - {permalink: "/ponentes/", text: "Ponentes"}
+ - {permalink: "/proyectos", text: "Proyectos"}
+ - {permalink: "/articulos/", text: "Artículos"}
  - {permalink: "/jurado/", text: "Jurado"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/equipo/", text: "Equipo"}
 
 # Home Block
