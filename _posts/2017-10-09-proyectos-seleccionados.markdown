@@ -2,7 +2,6 @@
 layout: post
 title:  "Proyectos seleccionados"
 date:   2017-10-08 00:00:00
-permalink: /proyectos/
 image: medialab_ventana2_flickr.jpg
 isStaticPost: false
 ---
