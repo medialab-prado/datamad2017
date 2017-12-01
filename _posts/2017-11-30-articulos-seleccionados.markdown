@@ -10,7 +10,7 @@ isStaticPost: false
 #### La caña de Malasaña
 
 - [https://elpais.com/ccaa/2017/04/28/madrid/1493377754_061223.html](https://elpais.com/ccaa/2017/04/28/madrid/1493377754_061223.html)
-- [David Alameda](https://twitter.com/davidAlameda)
+- [Javier Galán](https://twitter.com/#!/antonmileo), [David Alameda](https://twitter.com/davidAlameda)
 - El País, 30/04/2017
 
 #### Barrio rico, barrio pobre: ¿qué se lee en cada distrito de Madrid?
