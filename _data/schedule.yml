@@ -80,10 +80,10 @@
   date: "2017-12-16"
   dateReadable: "Sabado 16 de diciembre"
   tracks:
-    - {title: "LAB1", color: "#90be4e"}
+    - {title: "Auditorio", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "10:00",
-        endTime: "14:30",
+        startTime: "16:00",
+        endTime: "17:00",
         sessionIds: [009]
     }
