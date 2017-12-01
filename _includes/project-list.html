@@ -1,0 +1,44 @@
+<!-- Begin projects List-->
+<section id="projects">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
+            {% for project in site.data.projects %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
+               <div class="zoe-effect" data-toggle="modal" data-target="#projectDetail-{{ project.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/hackathon/' | append: project.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption>
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name">{{ project.title }} <span>{{ project.surname }}</span></h2>
+                                <div class="clearfix"></div>
+                            </div>
+                            <a href="{{ project.repo }}" target="_blank">
+                                <svg class="icon icon-github" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-github"></use>
+                                </svg>
+                            </a>
+                            <a href="{{ project.docum }}" target="_blank">
+                              <img src="{{ site.baseurl }}/img/sprites/open-book.svg" class="icon icon-site" style="margin-bottom: 5px" fill= "#464646">
+                            </a>
+                            <a href="{{ project.proyecto }}" target="_blank">
+                                <svg class="icon icon-docum" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-site"></use>
+                                </svg>
+                            </a>
+                        </figcaption>
+                        <p class="bio" style="background-color: rgba(0, 0, 0, 0.3);" >
+                            <strong>{{ project.promotor }} </strong>
+                            {% for colaborador in project.colabor %}
+                            <br> {{ colaborador.name }}
+                            {% endfor %}
+                          </p>
+                        </ul>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- End projects List -->
