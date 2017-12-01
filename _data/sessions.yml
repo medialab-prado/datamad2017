@@ -17,7 +17,6 @@
   speakers: [3]
   language: es
   complexity: "Beginner"
-  video:
 -
   id: 002
   title: "Presentación de proyectos, 5 minutos cada uno"
@@ -26,17 +25,14 @@
   speakers: []
   language: es
   complexity: "Intermediate"
-  presentation:
-  video:
 -
   id: 003
   title: "Presentación de colaboradores y formación de equipos"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  description: ""
   subtype: presentation
   speakers: []
   language: es
   complexity: "Intermediate"
-  presentation:
 -
   id: 004
   title: "Datos abiertos del Ayuntamiento de Madrid"
@@ -45,8 +41,6 @@
   speakers: [6]
   language: es
   complexity: "Beginner"
-  presentation:
-  video:
 -
   id: 005
   title: "Datos abiertos de la EMT"
@@ -54,9 +48,7 @@
   subtype: keynote
   speakers: [7]
   language: es
-  complexity: "Expert"
-  presentation:
-  video:
+  complexity: "Intermediate"
 -
   id: 006
   title: "Haskell"
@@ -65,8 +57,6 @@
   speakers: [8]
   language: es
   complexity: "Expert"
-  presentation:
-  video:
 -
   id: 007
   title: "Datos Abiertos Vinculados"
@@ -75,24 +65,14 @@
   speakers: [9]
   language: es
   complexity: "Expert"
-  presentation:
-  video:
 -
   id: 008
   title: "Trabajo en equipo"
+  service: true
   description: "Tiempo para desarrollar los proyectos"
-  subtype: keynote
-  speakers: []
-  complexity: "Expert"
-  presentation:
-  video:
 -
   id: 009
   title: "Fallo de los premios y ceremonia de entrega de premios"
+  place: "Auditorio"
+  service: true
   description: "Los proyectos ganadores serán seleccionados por el mismo jurado que el del Premio de Periodismo de Datos"
-  subtype: keynote
-  speakers: []
-  language: es
-  complexity: "Expert"
-  presentation:
-  video:
