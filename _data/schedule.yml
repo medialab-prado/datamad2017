@@ -78,7 +78,7 @@
     }
 -
   date: "2017-12-16"
-  dateReadable: "Sabado 16 de diciembre"
+  dateReadable: "Sábado 16 de diciembre"
   tracks:
     - {title: "Auditorio", color: "#90be4e"}
   timeslots:

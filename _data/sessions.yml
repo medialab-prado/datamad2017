@@ -50,7 +50,7 @@
 -
   id: 005
   title: "Datos abiertos de la EMT"
-  description: "Nos hablará de los datos abiertos de la EMT"
+  description: ""
   subtype: keynote
   speakers: [7]
   language: es
@@ -70,7 +70,7 @@
 -
   id: 007
   title: "Datos Abiertos Vinculados"
-  description: "Nos hablará de los datos abiertos"
+  description: ""
   subtype: keynote
   speakers: [9]
   language: es
@@ -83,7 +83,6 @@
   description: "Tiempo para desarrollar los proyectos"
   subtype: keynote
   speakers: []
-  language: es
   complexity: "Expert"
   presentation:
   video:
@@ -96,4 +95,4 @@
   language: es
   complexity: "Expert"
   presentation:
-  video: 
+  video:
