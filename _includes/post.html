@@ -6,13 +6,9 @@
                 <article class="row post">
                     {% if include.isStaticPost == false %}
                     <div class="post-header">
-                        <div class="published col-md-6 col-xs-6 pull-left">
-                            <span class="caption">Posted:</span>
-                            <span class="publish-date" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
-                        </div>
                         <div class="share col-md-6 col-xs-6 pull-right">
                             <ul class="social-links">
-                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %} 
+                            {% assign postUrl = page.url | prepend: site.baseurl | prepend: site.url %}
                                 <li>
                                     <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
                                         <svg class="icon icon-google-plus" viewBox="0 0 30 32">
@@ -38,7 +34,7 @@
                         </div>
                     </div>
                     {% endif %}
-                    
+
                     <div class="post-body">{{ content }}</div>
 
                     <div id="page-navigation" class="page-navigation">
@@ -55,6 +51,10 @@
                     </div>
 
                 </article>
+                <div class="published col-md-6 col-xs-6 pull-left">
+                    <span class="caption">Publicado:</span>
+                    <span class="publish-date" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
+                </div>
 
                 {% if include.isStaticPost == false %}
                     <div class="row text-center">
