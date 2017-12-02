@@ -2,7 +2,6 @@
 layout: post
 title:  "Artículos seleccionados"
 date:   2017-11-29 00:00:00
-permalink: /articulos/
 image: medialab_ventana2_flickr.jpg
 isStaticPost: false
 ---

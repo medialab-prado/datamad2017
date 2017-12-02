@@ -1,0 +1,48 @@
+<!-- Begin articles List-->
+<section id="articles">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
+            {% for article in site.data.articles %}
+            <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
+               <div class="zoe-effect" data-toggle="modal" data-target="#articleDetail-{{ article.id }}">
+                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/articles/' | append: article.thumbnailUrl }})">
+                        <div class="overlay solid-overlay"></div>
+                        <figcaption style="height: 60px;">
+                            <div class="col-md-8 col-xs-8 text-left">
+                                <h2 class="name" style="margin-top: 0; font-size: 1em;">
+                                  {{ article.title }}
+                                </h2>
+                                <p class="name">
+                                  {% for autor in article.autores %}
+                                  {{autor.nombre}}
+                                  {% if autor.twitter != null %}
+                                    <a href="{{ autor.twitter }}" target="_blank">
+                                      <svg class="icon icon-twitter" viewBox="0 0 30 32">
+                                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
+                                      </svg>
+                                    </a>
+                                  {% endif %}
+                                {% endfor %}
+                              </p >
+                                <div class="clearfix"></div>
+                            </div>
+                            {% if article.link != null %}
+                            <a href="{{ article.link }}" target="_blank">
+                                <svg class="icon icon-site" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-site"></use>
+                                </svg>
+                            </a>
+                            {% endif %}
+                        </figcaption>
+                        <p class="bio" style="background-color: rgba(0, 0, 0, 0.3); height: auto;" >
+                          {{ article.details }}
+                          </p>
+                    </figure>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<!-- End articles List -->

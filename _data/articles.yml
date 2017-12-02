@@ -1,0 +1,161 @@
+-
+  id: 0
+  title: "La caña de Malasaña"
+  thumbnailUrl: "Malasana.jpg"
+  details: "Un vaso es un vaso, una caña es una caña y el propósito era saber cuánto cuestan en Malasaña. Tras preguntar a más de 300 locales para conocer dónde se sirve la unidad mínima de cerveza en el recipiente típico madrileño, el mapa muestra de qué marca y por cuánto puede beberse una caña en cada barra."
+  autores:
+    - {nombre: "Javier Galán", twitter: "https://twitter.com/#!/antonmileo"}
+    - {nombre: "David Alameda", twitter: "https://twitter.com/davidAlameda"}
+  link: "https://elpais.com/ccaa/2017/04/28/madrid/1493377754_061223.html"
+  medio: "El País"
+  fecha: "30/04/2017"
+-
+  id: 1
+  title: "Barrio rico, barrio pobre: ¿qué se lee en cada distrito de Madrid?"
+  thumbnailUrl: "BarrioRicoBarrioPobre.jpg"
+  details: " Los barrios donde se prestan más libros en las bibliotecas públicas son los de Barajas y Vicálvaro. En los que menos, Carabanchel y Usera.<br>
+    ‘Érase una vez: el cuerpo humano’, ‘La chica del tren’ y ‘El guardián invisible’, títulos preferidos por los usuarios de la red pública madrileña.<br>Los distritos con mayores ingresos, con excepción de El Retiro, y los más desfavorecidos comparten un interés solo relativo por las bibliotecas."
+  autores:
+    - {nombre: "Ana Isabel Cordobés", twitter: ""}
+  link: "https://www.cuartopoder.es/cultura/2017/07/30/barrio-rico-barrio-pobre-que-se-lee-en-cada-barrio-de-madrid/"
+  medio: "Cuarto Poder"
+  fecha: "30/07/2017"
+-
+  id: 2
+  title: "Donde se cruzan los caminos"
+  thumbnailUrl: "audio.svg"
+  details: "Formato audio, sin difusión pública"
+  autores:
+    - {nombre: "", twitter ""}
+  medio: "Formato audio, sin difusión pública"
+  fecha: ""
+-
+  id: 3
+  title: "Mapa de las alergias de Madrid"
+  thumbnailUrl: "MapaAlergias.jpg"
+  details: "Descubre en este plano interactivo de la capital dónde están las especies que te dan alergia"
+  autores:
+    - {nombre: "Paloma Ruiz del Pozo", twitter: "https://twitter.com/PalomaRuizdPozo"}
+  link: "http://www.abc.es/espana/madrid/abci-mapa-alergias-madrid-201610020124_noticia.html"
+  medio: "ABC"
+  fecha: "02/10/2016"
+-
+  id: 4
+  title: "Carmena Duplica el gasto en viajes y protocolo en medio año"
+  thumbnailUrl: "ViajesProtocoloCarmena.jpg"
+  details: "El Ayuntamiento de Madrid gobernado por Manuela Carmena ha duplicado el gasto en viajes y protocolo en solo seis meses.  En el el segundo semestre de 2015 los gastos de esta partida ascendieron a 27.238 euros, mientras que en el primer semestre de 2016 la cifra se ha disparado hasta los 59.719 euros, según datos facilitados por el propio Consistorio a través de su portal de transparencia"
+  autores:
+    - {nombre: "Fernán González", twitter: ""}
+  link: "https://okdiario.com/espana/madrid/2016/10/04/carmena-duplica-gasto-viajes-gastos-protocolo-medio-ano-424983"
+  medio: "Ok diario"
+  fecha: "04/10/2016"
+-
+  id: 5
+  title: "Peligro sobre las dos ruedas"
+  thumbnailUrl: "PeligroDosRuedas.jpg"
+  details: "Nadie pensaría en la bicicleta como el transporte del futuro. Lejos de eso, parece ser un medio de transporte básico, rudimentario, y barato. Sin embargo, en los últimos años se ha fomentado su uso en todas las ciudades europeas, bien sea por motivos ecológicos o por evitar la congestión diaria de tráfico."
+  autores:
+    - {nombre: "José San Miguel Clavería", twitter: ""}
+  medio: "Sin difusión publica"
+  fecha: "10/05/2017"
+-
+  id: 6
+  title: "Los distritos de Madrid con más carencia de áreas caninas"
+  thumbnailUrl: "AreasCaninas.jpg"
+  details: "La distribución no es proporcional al censo de perros, que en 2017 asciende a más de 281.000 ejemplares <br>Los que presentan una mejor situación son Barajas, Retiro y Vicálvaro <br>El mapa de las cacas de perro de Madrid: Tetuán, Usera y Centro, los mayores 'marrones' de la ciudad"
+  autores:
+    - {nombre: "Cecilio Galdón", twitter: "https://twitter.com/ceciliogaldon"}
+  link: "http://www.elmundo.es/madrid/2017/08/09/5984bb4222601dbc5b8b457c.html"
+  medio: "El Mundo"
+  fecha: "09/08/2017"
+-
+  id: 7
+  title: "Ellos son doctores, ellas vírgenes y santas"
+  thumbnailUrl: "DoctoresVirgenesSantas.jpg"
+  details: "Las principales ciudades españolas reflejan en los nombres de sus calles una sociedad eminentemente desigual. De las más de 9.000 calles de Madrid, solo el 21% de las dedicadas a personas tienen nombre de mujer. Las dedicadas a hombres son el triple. El porcentaje de mujeres es similar en Barcelona —19%— y aún peor en Valencia, 10%. La desigualdad no es solo de número."
+  autores:
+    - {nombre: "Kiko Llaneras"}
+    - {nombre: "Jordi Pérez Colomé"}
+  link: "https://politica.elpais.com/politica/2017/01/06/actualidad/1483666778_781495.html"
+  medio: "El País"
+  fecha: "07/01/2017"
+-
+  id: 8
+  title: "El ruido echa a los vecinos del centro de Madrid"
+  thumbnailUrl: "RuidoEchaVecinos.jpg"
+  details: "El 30% de los locales desarrolla servicios de hostelería <br>En los últimos cinco años es la zona que más población pierde <br>¿Qué hago con mi vecino ruidoso?"
+  autores:
+    - {nombre: "Marta Ley", twitter: "http://www.twitter.com/leymarta"}
+  link: "http://www.elmundo.es/madrid/2017/04/26/58ff4c71e2704e48708b4591.html"
+  medio: "El Mundo"
+  fecha: "26/04/2017"
+-
+  id: 9
+  title: "Chamberí y Centro: cuando las terrazas se comen la acera"
+  thumbnailUrl: "TerrazasAcera.jpg"
+  details: "Uno de cada cuatro bares tiene terraza en el municipio <br>El Ayuntamiento de Madrid multa cada día a 25 terrazas"
+  autores:
+    - {nombre: "Marta Ley", twitter: "http://www.twitter.com/leymarta"}
+  link: "http://www.elmundo.es/grafico/madrid/2017/05/13/591441cd468aebca618b46eb.html"
+  medio: "El Mundo"
+  fecha: "13/05/2017"
+-
+  id: 10
+  title: "10.000 vecinos esperan una plaza pública de aparcamiento"
+  thumbnailUrl: "AparcamientoPublico.jpg"
+  details: "El Ayuntamiento alega falta de medios para luchar contra los subarrendamientos <br>Más de 800 vecinos llevan esperando al menos 20 años <br>Sin sitio para el 70% de los coches de la zona SER"
+  autores:
+    - {nombre: "Marta Ley", twitter: "http://www.twitter.com/leymarta"}
+  link: "http://www.elmundo.es/grafico/madrid/2017/09/29/59c249a0268e3ed2058b457f.html"
+  medio: "El Mundo"
+  fecha: "29/09/2017"
+-
+  id: 11
+  title: "Así se vacía un barrio por culpa de la gentrificación"
+  thumbnailUrl: "GentrificacionLavapies.jpg"
+  details: "El barrio de Lavapiés-Embajadores es el que más población pierde en el centro desde 2010 <br>Me echan para montar un Airbnb"
+  autores:
+    - {nombre: "Marta Ley", twitter: "http://www.twitter.com/leymarta"}
+  link: "http://www.elmundo.es/grafico/madrid/2017/08/06/596cdf3ee2704e07148b45eb.html"
+  medio: "El Mundo"
+  fecha: "06/08/2017"
+-
+  id: 12
+  title: "Por qué allí pasa un autobús y aquí no"
+  thumbnailUrl: "AlliAutobusAquiNo.jpg"
+  details: "Descubre los distritos mejor y peor dotados en transporte colectivo a partir de los gráficos de la malla de la EMT"
+  autores:
+    - {nombre: "Luis Cano", twitter: "https://twitter.com/lcsantacruz"}
+  link: "http://www.abc.es/espana/madrid/abci-alli-pasa-autobus-y-aqui-no-madrid-explicada-54-paradas-201611300136_noticia.html"
+  medio: "ABC"
+  fecha: "30/11/16"
+-
+  id: 13
+  title: "El cierre de la Línea 5"
+  thumbnailUrl: "CierreLinea5.jpg"
+  details: "Por tercera vez en un año Metro de Madrid cerrará una línea entera durante dos meses. Esta vez el turno es de la Línea 5: del 3 de julio al 2 de septiembre no circulará ningún tren. <br>La brecha corta la ciudad de suroeste a noreste y deja sin metro a los cinco millones y medio de viajeros que utilizan la línea cada mes."
+  autores:
+    - {nombre: ""}
+  link: "http://elcierredelalinea5.es/"
+  medio: "Taller de Periodismo de Datos 2017"
+  fecha: ""
+-
+  id: 14
+  title: "Dime cuánto cobras y te diré dónde vivir"
+  thumbnailUrl: "AlquilarCentro.jpg"
+  details: "El precio del alquiler en Madrid y Barcelona ha crecido en el último año a un ritmo mucho mayor que los salarios, de forma que encontrar vivienda se ha convertido en un arduo desafío. <br>Gentrificación, pisos turísticos, especulación. ¿Qué hay detrás de la subida de los precios? "
+  autores:
+    - {nombre: "Flora Fosset", twitter: "http://fosset.co/"}
+  link: "http://alquilarenelcentro.lol/"
+  medio: ""
+  fecha: ""
+-
+  id: 15
+  title: "Análisis del conjunto de datos abiertos AVISA"
+  thumbnailUrl: "AnalisisAvisa.jpg"
+  details: ""
+  autores:
+    - {nombre: "Cristina Palomo Garo"}
+  link: "https://cpalomogaro.github.io/avisa"
+  medio: ""
+  fecha: "31/10/17"
