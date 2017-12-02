@@ -25,9 +25,11 @@
   title: "Donde se cruzan los caminos"
   thumbnailUrl: "audio.svg"
   details: "Formato audio, sin difusión pública"
+  ribbon:
+    - {abbr: "formato audio", title: "formato audio", url: ""}
   autores:
     - {nombre: "", twitter ""}
-  medio: "Formato audio, sin difusión pública"
+  medio: "Formato audio"
   fecha: ""
 -
   id: 3
@@ -56,6 +58,8 @@
   details: "Nadie pensaría en la bicicleta como el transporte del futuro. Lejos de eso, parece ser un medio de transporte básico, rudimentario, y barato. Sin embargo, en los últimos años se ha fomentado su uso en todas las ciudades europeas, bien sea por motivos ecológicos o por evitar la congestión diaria de tráfico."
   autores:
     - {nombre: "José San Miguel Clavería", twitter: ""}
+  ribbon:
+    - {abbr: "Sin difusión pública. Estudiante", title: "", url: ""}
   medio: "Sin difusión publica"
   fecha: "10/05/2017"
 -

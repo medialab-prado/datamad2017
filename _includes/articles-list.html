@@ -7,7 +7,17 @@
                <div class="zoe-effect" data-toggle="modal" data-target="#articleDetail-{{ article.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/articles/' | append: article.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
-                        <figcaption style="height: 60px;">
+                        {% if article.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in article.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                        <figcaption style="height: 70px;">
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name" style="margin-top: 0; font-size: 1em;">
                                   {{ article.title }}
