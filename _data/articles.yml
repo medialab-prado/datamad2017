@@ -24,12 +24,12 @@
   id: 2
   title: "Donde se cruzan los caminos"
   thumbnailUrl: "audio.svg"
-  details: "Formato audio, sin difusión pública"
+  details: "Formato audio"
   ribbon:
     - {abbr: "formato audio", title: "formato audio", url: ""}
   autores:
-    - {nombre: "", twitter ""}
-  medio: "Formato audio"
+    - {nombre: "Gonzalo Estefanía"}
+  medio: "Gestiona Radio"
   fecha: ""
 -
   id: 3
@@ -57,14 +57,14 @@
   thumbnailUrl: "PeligroDosRuedas.jpg"
   details: "Nadie pensaría en la bicicleta como el transporte del futuro. Lejos de eso, parece ser un medio de transporte básico, rudimentario, y barato. Sin embargo, en los últimos años se ha fomentado su uso en todas las ciudades europeas, bien sea por motivos ecológicos o por evitar la congestión diaria de tráfico."
   autores:
-    - {nombre: "José San Miguel Clavería", twitter: ""}
+    - {nombre: "José San Miguel Clavería"}
   ribbon:
-    - {abbr: "Sin difusión pública. Estudiante", title: "", url: ""}
+    - {abbr: "Estudiante", title: "Sin difusión pública. Estudiante", url: ""}
   medio: "Sin difusión publica"
   fecha: "10/05/2017"
 -
   id: 6
-  title: "Los distritos de Madrid con más carencia de áreas caninas"
+  title: "Chamartín y Centro son los distritos de Madrid con más carencia de áreas caninas"
   thumbnailUrl: "AreasCaninas.jpg"
   details: "La distribución no es proporcional al censo de perros, que en 2017 asciende a más de 281.000 ejemplares <br>Los que presentan una mejor situación son Barajas, Retiro y Vicálvaro <br>El mapa de las cacas de perro de Madrid: Tetuán, Usera y Centro, los mayores 'marrones' de la ciudad"
   autores:
@@ -139,7 +139,7 @@
   thumbnailUrl: "CierreLinea5.jpg"
   details: "Por tercera vez en un año Metro de Madrid cerrará una línea entera durante dos meses. Esta vez el turno es de la Línea 5: del 3 de julio al 2 de septiembre no circulará ningún tren. <br>La brecha corta la ciudad de suroeste a noreste y deja sin metro a los cinco millones y medio de viajeros que utilizan la línea cada mes."
   autores:
-    - {nombre: ""}
+    - {nombre: "Analia Plaza"}
   link: "http://elcierredelalinea5.es/"
   medio: "Taller de Periodismo de Datos 2017"
   fecha: ""
