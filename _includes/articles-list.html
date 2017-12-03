@@ -29,13 +29,6 @@
                                 </p >
                                 <div class="clearfix"></div>
                             </div>
-                            {% if article.link != null %}
-                            <a href="{{ article.link }}" target="_blank">
-                                <svg class="icon icon-site" viewBox="0 0 30 32">
-                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-site"></use>
-                                </svg>
-                            </a>
-                            {% endif %}
                             {% for autor in article.autores %}
                             {% if autor.twitter != null %}
                               <a href="{{ autor.twitter }}" target="_blank">
@@ -45,6 +38,13 @@
                               </a>
                             {% endif %}
                             {% endfor %}
+                            {% if article.link != null %}
+                            <a href="{{ article.link }}" target="_blank">
+                                <svg class="icon icon-site" viewBox="0 0 30 32">
+                                    <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-site"></use>
+                                </svg>
+                            </a>
+                            {% endif %}
                         </figcaption>
                         <p class="bio" style="background-color: rgba(0, 0, 0, 0.3); height: auto;" >
                           {{ article.details }}
