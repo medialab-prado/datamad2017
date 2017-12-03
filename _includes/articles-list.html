@@ -20,24 +20,26 @@
                         <figcaption style="height: 70px;">
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name">
+                                  <a href="{{ article.link }}" target="_blank" style="color: #333;text-shadow: 1px 1px 3px white;">
                                   {{ article.title | truncatewords: 7 }}
+                                  </a>
                                 </h2>
                                 <p class="name">
                                   {% for autor in article.autores %}
-                                  {{autor.nombre}}
+                                  {% if autor.twitter != null %}
+                                    <a href="{{ autor.twitter }}" target="_blank">
+                                      <svg class="icon icon-twitter" viewBox="0 0 30 30" style="fill: #60ccfd;">
+                                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
+                                      </svg>
+                                      {{autor.nombre}}
+                                    </a>
+                                  {% else %}
+                                    {{autor.nombre}}
+                                  {% endif %}
                                   {% endfor %}
                                 </p >
                                 <div class="clearfix"></div>
                             </div>
-                            {% for autor in article.autores %}
-                            {% if autor.twitter != null %}
-                              <a href="{{ autor.twitter }}" target="_blank">
-                                <svg class="icon icon-twitter" viewBox="0 0 30 32">
-                                  <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
-                                </svg>
-                              </a>
-                            {% endif %}
-                            {% endfor %}
                             {% if article.link != null %}
                             <a href="{{ article.link }}" target="_blank">
                                 <svg class="icon icon-site" viewBox="0 0 30 32">
