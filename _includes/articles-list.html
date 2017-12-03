@@ -19,21 +19,14 @@
                         {% endif %}
                         <figcaption style="height: 70px;">
                             <div class="col-md-8 col-xs-8 text-left">
-                                <h2 class="name" style="margin-top: 0; font-size: 1em;">
-                                  {{ article.title }}
+                                <h2 class="name">
+                                  {{ article.title | truncatewords: 7 }}
                                 </h2>
                                 <p class="name">
                                   {% for autor in article.autores %}
                                   {{autor.nombre}}
-                                  {% if autor.twitter != null %}
-                                    <a href="{{ autor.twitter }}" target="_blank">
-                                      <svg class="icon icon-twitter" viewBox="0 0 30 32">
-                                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
-                                      </svg>
-                                    </a>
-                                  {% endif %}
-                                {% endfor %}
-                              </p >
+                                  {% endfor %}
+                                </p >
                                 <div class="clearfix"></div>
                             </div>
                             {% if article.link != null %}
@@ -43,6 +36,15 @@
                                 </svg>
                             </a>
                             {% endif %}
+                            {% for autor in article.autores %}
+                            {% if autor.twitter != null %}
+                              <a href="{{ autor.twitter }}" target="_blank">
+                                <svg class="icon icon-twitter" viewBox="0 0 30 32">
+                                  <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
+                                </svg>
+                              </a>
+                            {% endif %}
+                            {% endfor %}
                         </figcaption>
                         <p class="bio" style="background-color: rgba(0, 0, 0, 0.3); height: auto;" >
                           {{ article.details }}
