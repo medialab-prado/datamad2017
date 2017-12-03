@@ -8,6 +8,7 @@
     - {nombre: "David Alameda", twitter: "https://twitter.com/davidAlameda"}
   link: "https://elpais.com/ccaa/2017/04/28/madrid/1493377754_061223.html"
   medio: "El País"
+  formato:
   fecha: "30/04/2017"
 -
   id: 1
@@ -23,10 +24,11 @@
 -
   id: 2
   title: "Donde se cruzan los caminos"
-  thumbnailUrl: "audio.svg"
+  thumbnailUrl: ""
   details: "Formato audio"
+  formato: "audio"
   ribbon:
-    - {abbr: "formato audio", title: "formato audio", url: ""}
+    - {abbr: "formato audio", title: "", url: ""}
   autores:
     - {nombre: "Gonzalo Estefanía"}
   medio: "Gestiona Radio"
@@ -43,7 +45,7 @@
   fecha: "02/10/2016"
 -
   id: 4
-  title: "Carmena Duplica el gasto en viajes y protocolo en medio año"
+  title: "Carmena Duplica el gasto en viajes y protocolo en medio año: de 27.000 a 59.000 euros"
   thumbnailUrl: "ViajesProtocoloCarmena.jpg"
   details: "El Ayuntamiento de Madrid gobernado por Manuela Carmena ha duplicado el gasto en viajes y protocolo en solo seis meses.  En el el segundo semestre de 2015 los gastos de esta partida ascendieron a 27.238 euros, mientras que en el primer semestre de 2016 la cifra se ha disparado hasta los 59.719 euros, según datos facilitados por el propio Consistorio a través de su portal de transparencia"
   autores:
@@ -53,14 +55,15 @@
   fecha: "04/10/2016"
 -
   id: 5
-  title: "Peligro sobre las dos ruedas"
+  title: "Peligro sobre las dos ruedas. Estudio sobre los accidentes de bicicleta en la ciudad de Madrid"
   thumbnailUrl: "PeligroDosRuedas.jpg"
   details: "Nadie pensaría en la bicicleta como el transporte del futuro. Lejos de eso, parece ser un medio de transporte básico, rudimentario, y barato. Sin embargo, en los últimos años se ha fomentado su uso en todas las ciudades europeas, bien sea por motivos ecológicos o por evitar la congestión diaria de tráfico."
   autores:
     - {nombre: "José San Miguel Clavería"}
   ribbon:
-    - {abbr: "Estudiante", title: "Sin difusión pública. Estudiante", url: ""}
-  medio: "Sin difusión publica"
+    - {abbr: "Estudiante. Sin difusión en medios", title: "Estudiante. Sin difusión en medios", url: ""}
+  link: "../assets/Peligro_sobre_las_dos_ruedas-1.pdf"
+  medio: "Sin difusión en medios"
   fecha: "10/05/2017"
 -
   id: 6
@@ -125,7 +128,7 @@
   fecha: "06/08/2017"
 -
   id: 12
-  title: "Por qué allí pasa un autobús y aquí no"
+  title: "Por qué allí pasa un autobús y aquí no: la red de Madrid explicada en 54 paradas"
   thumbnailUrl: "AlliAutobusAquiNo.jpg"
   details: "Descubre los distritos mejor y peor dotados en transporte colectivo a partir de los gráficos de la malla de la EMT"
   autores:
@@ -139,9 +142,9 @@
   thumbnailUrl: "CierreLinea5.jpg"
   details: "Por tercera vez en un año Metro de Madrid cerrará una línea entera durante dos meses. Esta vez el turno es de la Línea 5: del 3 de julio al 2 de septiembre no circulará ningún tren. <br>La brecha corta la ciudad de suroeste a noreste y deja sin metro a los cinco millones y medio de viajeros que utilizan la línea cada mes."
   autores:
-    - {nombre: "Analia Plaza"}
+    - {nombre: "Analia Plaza", twitter: "https://twitter.com/lalalalia"}
   link: "http://elcierredelalinea5.es/"
-  medio: "Taller de Periodismo de Datos 2017"
+  medio: ""
   fecha: ""
 -
   id: 14
@@ -149,13 +152,13 @@
   thumbnailUrl: "AlquilarCentro.jpg"
   details: "El precio del alquiler en Madrid y Barcelona ha crecido en el último año a un ritmo mucho mayor que los salarios, de forma que encontrar vivienda se ha convertido en un arduo desafío. <br>Gentrificación, pisos turísticos, especulación. ¿Qué hay detrás de la subida de los precios? "
   autores:
-    - {nombre: "Flora Fosset", twitter: "http://fosset.co/"}
+    - {nombre: "Flora Fosset", twitter: "https://twitter.com/florafosset"}
   link: "http://alquilarenelcentro.lol/"
-  medio: ""
+  medio: "Taller de Periodismo de Datos 2017"
   fecha: ""
 -
   id: 15
-  title: "Análisis del conjunto de datos abiertos AVISA"
+  title: "Análisis del conjunto de datos abiertos AVISA del ayuntamiento de Madrid"
   thumbnailUrl: "AnalisisAvisa.jpg"
   details: ""
   autores:
