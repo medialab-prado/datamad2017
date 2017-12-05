@@ -24,8 +24,8 @@
 -
   id: 2
   title: "Donde se cruzan los caminos"
-  thumbnailUrl: ""
-  details: "Formato audio"
+  thumbnailUrl: "audio.svg"
+  details: "Una historia sobre los turistas que visitan la capital"
   formato: "audio"
   ribbon:
     - {abbr: "formato audio", title: "", url: ""}
@@ -61,7 +61,7 @@
   autores:
     - {nombre: "José San Miguel Clavería"}
   ribbon:
-    - {abbr: "Estudiante. Sin difusión en medios", title: "Estudiante. Sin difusión en medios", url: ""}
+    - {abbr: "Estudiante", title: "Estudiante. Sin difusion en medios", url: ""}
   link: "../assets/Peligro_sobre_las_dos_ruedas-1.pdf"
   medio: "Sin difusión en medios"
   fecha: "10/05/2017"
@@ -123,6 +123,7 @@
   details: "El barrio de Lavapiés-Embajadores es el que más población pierde en el centro desde 2010 <br>Me echan para montar un Airbnb"
   autores:
     - {nombre: "Marta Ley", twitter: "http://www.twitter.com/leymarta"}
+    - {nombre: "Pablo Medina"}
   link: "http://www.elmundo.es/grafico/madrid/2017/08/06/596cdf3ee2704e07148b45eb.html"
   medio: "El Mundo"
   fecha: "06/08/2017"
