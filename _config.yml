@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Premios de Datos Abiertos de Madrid 2017"
 email: "visualizar@medialab-prado.es"
@@ -31,9 +30,9 @@ organizerLink: "http://medialab-prado/visualizar"
 # Head
 metaKeywords: "event, datos abiertos, datatón, madrid, periodismo de datos, visualización, medialab-prado, datalab"
 twitterAccount: "@datalabx"
-socialImageSrcGooglePlus: "/img/seo/dataton_seo.png?20171018"
-socialImageSrcTwitter: "/img/seo/dataton_seo.png?20171018"
-socialImageSrcFacebook: "/img/seo/dataton_seo.png?20171018"
+socialImageSrcGooglePlus: "/img/seo/dataton_seo.png?20171104"
+socialImageSrcTwitter: "/img/seo/dataton_seo.png?20171104"
+socialImageSrcFacebook: "/img/seo/dataton_seo.png?20171104"
 
 # Documents
 c4pUrl: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017"
@@ -50,7 +49,7 @@ navigationLinks:
  - {permalink: "/equipo/", text: "Equipo"}
 
 # Home Block
-homeImage: "medialab_auditorio3_flickr.jpg"
+homeImage: "home.jpg"
 # Hero Block
 heroTitle: "DataMad <typeout>2017"
 eventDate: "16 Diciembre - Entrega de Premios"
@@ -61,12 +60,12 @@ typeoutFallback: "Datatón Ciudad de Madrid"
 aboutTitle: "Acerca del DataMad"
 aboutDescription: "En colaboración con Medialab Prado y el Laboratorio de Datos DataLab, el Ayuntamiento de Madrid lanza la <a href='http://medialab-prado.es/article/datamad'>segunda convocatoria de los concursos de Periodismo de Datos y Datatón Ciudad de Madrid</a> con el objetivo de fomentar el uso de la información del sector público del <a href='http://datos.madrid.es/portal/site/egob/'>Portal de Datos Abiertos</a> y del <a href='http://transparencia.madrid.es/'> Portal de Transparencia</a>."
 aboutBlock:
- - {title: "Ponencias", image: "medialab_auditorio_flickr.jpg", text: "Representantes de organismos públicos nos hablarán de sus datos y servicios abiertos" }
- - {title: "Datatón Ciudad de Madrid 2017", image: "medialab_gente_currando_flickr.jpg", text: "Ideas y proyectos originales o evolutivos basados, al menos en una parte significativa, en los datos del Ayuntamiento de Madrid, bien del <a href='http://datos.madrid.es/portal/site/egob/'>Portal de Datos Abiertos</a> o del <a href='http://transparencia.madrid.es/'> Portal de Transparencia</a> de Madrid." }
- - {title: "Premio Periodismo de Datos", image: "medialab_lab1_flickr.jpg", text: "Celebramos el <a href='http://medialab-prado.es/article/premio-periodismo-de-datos-ciudad-de-madrid-2017'>Premio de Periodismo de Datos</a> para piezas periodísticas que usen datos del <a href='http://datos.madrid.es/portal/site/egob/'>Portal de Datos Abiertos</a> y/o del <a href='http://transparencia.madrid.es/'> Portal de Transparencia</a> de Madrid, hasta el 31 de octubre" }
+ - {title: "Ponencias", image: "acerca-ponencias.jpg", text: "Representantes de organismos públicos nos hablarán de sus datos y servicios abiertos" }
+ - {title: "Datatón Ciudad de Madrid 2017", image: "acerca-dataton.jpg", text: "Ideas y proyectos originales o evolutivos basados, al menos en una parte significativa, en los datos del Ayuntamiento de Madrid, bien del <a href='http://datos.madrid.es/portal/site/egob/'>Portal de Datos Abiertos</a> o del <a href='http://transparencia.madrid.es/'> Portal de Transparencia</a> de Madrid." }
+ - {title: "Premio Periodismo de Datos", image: "acerca-periodismo.jpg", text: "Celebramos el <a href='http://medialab-prado.es/article/premio-periodismo-de-datos-ciudad-de-madrid-2017'>Premio de Periodismo de Datos</a> para piezas periodísticas que usen datos del <a href='http://datos.madrid.es/portal/site/egob/'>Portal de Datos Abiertos</a> y/o del <a href='http://transparencia.madrid.es/'> Portal de Transparencia</a> de Madrid, hasta el 31 de octubre" }
 
 # Statistic Block
-statisticBlockImage: "medialab_plantabaja2_flickr.jpg"
+statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "60", specialCharacter: "+", info: "asistentes", detail: "de diferentes perfiles"}
  - {count: "48", specialCharacter: "+", info: "horas", detail: "de trabajo con datos abiertos"}
@@ -77,7 +76,7 @@ statisticBlock:
 latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "medialab_auditorio2_flickr.jpg"
+rockstarSpeakersImage: "ponentes.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Expertos en datos abiertos"
 rockstarSpeakersButtonText: "Ver todos los ponentes"
@@ -103,10 +102,10 @@ mapMobileCenterCoordinates: "40.4108497,-3.6938703"
 
 # Venue Block
 venueBlockTitle: "Instalaciones"
-venueBigImage: "medialab_exterior_architizer.jpg"
-venueSmallImage1: "medialab_exterior2_architizer.jpg"
-venueSmallImage2: "medialab_plantabaja2_flickr.jpg"
-venueSmallImage3: "medialab_ropa_flickr.jpg"
+venueBigImage: "instalaciones-grande.jpg"
+venueSmallImage1: "instalaciones-1.jpg"
+venueSmallImage2: "instalaciones-2.jpg"
+venueSmallImage3: "instalaciones-3.jpg"
 venueTitle: "Medialab-Prado"
 venueFeatures: ["Medialab-Prado es un laboratorio ciudadano de producción, investigación y difusión de proyectos culturales"]
 
@@ -129,13 +128,12 @@ ticketsOffers:
   validFrom: "2017-08-25T10:00"
   validThrough: "2017-09-30T23:59"
   soldOut: true
-  soldOutText: "Plazo terminado"
+  soldOutText: "Plazo finalizado"
  -
   name: "Convocatoria de colaboradores"
   price: "60"
   priceCurrency: "colaboradores"
   ticketsNumber: "100"
-  ribbon: "atento"
   featured: true
   buyButtonLink: "http://medialab-prado.es/article/premio-dataton-ciudad-de-madrid-2017"
   buyButtonText: "Apúntate ahora"
@@ -182,10 +180,6 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Proyectos seleccionados"
 hackathonRows:
-  
-# Hackathon Judges Block
-judgesImage: "medialab_gentecurrando4_flickr.jpg"
-judgesTitle: "Jurado"
 
 # Hackathon Prizes Block
 prizesTitle: "Premios"
