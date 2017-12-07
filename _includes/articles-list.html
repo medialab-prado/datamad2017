@@ -49,8 +49,8 @@
                             </a>
                             {% endif %}
                         </figcaption>
-                        <p class="bio" style="height: auto;" >
-                          {{ article.details }}
+                        <p class="bio" style="height: auto; padding-top:10px;" >
+                          {{ article.details | truncatewords: 30 }}
                         </p>
                     </figure>
                 </div>
