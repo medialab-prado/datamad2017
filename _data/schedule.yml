@@ -83,7 +83,7 @@
     - {title: "Auditorio", color: "#90be4e"}
   timeslots:
     - {
-        startTime: "16:00",
-        endTime: "17:00",
+        startTime: "17:30",
+        endTime: "18:00",
         sessionIds: [009]
     }
