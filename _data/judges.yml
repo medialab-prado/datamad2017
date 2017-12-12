@@ -204,6 +204,14 @@
     - {name: "twitter", link: "https://twitter.com/"}
 -
   id: 20
+  name: "Mª Jesús"
+  surname: "Gallego Sanmiguel"
+  company: "Ayuntamiento de Madrid"
+  title: " Jefa del Departamento de Gestión de la Información"
+  bio: "Pertenece al Cuerpo Superior de Sistemas y Tecnologías de la Información del Estado y es miembro de la asociación ASTIC. Especialista en proyectos de administración electrónica y gestión de la información. Ha desempeñado su actividad profesional en el sector privado y en el público en el ámbito de las tecnologías de la información. Desde el año 2001 desarrolla su actividad profesional en el Ayuntamiento de Madrid desempeñando distintos puestos como consultora  y coordinadora de proyectos vinculados a los portales municipales intranet e internet. Actualmente forma parte del equipo que lleva a cabo la definición, coordinación, gestión y difusión de los portales de transparencia y datos abiertos del Ayuntamiento."
+  thumbnailUrl: MariaJesusGallego.jpg
+-
+  id: 21
   name: "María"
   surname: "Poveda"
   company: "Ontology Engineering Group de la UPM"
@@ -213,7 +221,7 @@
   social:
     - {name: "site", link: "http://mariapoveda.github.io/"}
 -
-  id: 21
+  id: 22
   name: "Marcelo"
   surname: "Soria-Rodríguez"
   company: "Databeers, Tramontana, Pirt.co, Pointo, Trecone Solutions"
@@ -224,7 +232,7 @@
     - {name: "site", link: "http://aelygon.net/"}
     - {name: "twitter", link: "https://twitter.com/msoriaro"}
 -
-  id: 22
+  id: 23
   name: "Olaya"
   surname: "Argüeso"
   company: "Unidad Editorial-URJC"
@@ -234,7 +242,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/"}
 -
-  id: 23
+  id: 24
   name: "Roberto"
   surname: "Magro"
   company: "Ayuntamiento de Alcobendas"
@@ -244,7 +252,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/robermape"}
 -
-  id: 24
+  id: 25
   name: "Rosa María"
   surname: "Sainz Peña"
   company: "Telefónica"
@@ -254,7 +262,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/"}
 -
-  id: 25
+  id: 26
   name: "Salvador"
   surname: "Soriano"
   company: "Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información"
@@ -264,7 +272,7 @@
   social:
     - {name: "linkedin", link: "https://es.linkedin.com/in/salvadorsoriano"}
 -
-  id: 26
+  id: 27
   name: "Santiago"
   surname: "González"
   company: "Synergic Partners"
@@ -275,7 +283,7 @@
     - {name: "twitter", link: "https://es.linkedin.com/in/santigt"}
     - {name: "linkedin", link: "https://twitter.com/santigt"}
 -
-  id: 27
+  id: 28
   name: "Santiago"
   surname: "Mota"
   company: "EOI, UNED y Universidad Complutense"
@@ -287,7 +295,7 @@
     - {name: "github", link: "https://github.com/santiagomota"}
     - {name: "twitter", link: "https://twitter.com/mota_santiago"}
 -
-  id: 28
+  id: 29
   name: "Sonia"
   surname: "Castro"
   company: "Aporta"
@@ -298,7 +306,7 @@
     - {name: "twitter", link: "https://twitter.com/soniastweet"}
     - {name: "linkedin", link: "https://es.linkedin.com/in/soniacastrogm"}
 -
-  id: 29
+  id: 30
   name: "Ulises"
   surname: "Gascón González"
   company: ""
@@ -311,7 +319,7 @@
     - {name: "github", link: "https://github.com/UlisesGascon"}
     - {site: "site", link: "https://medium.com/@ulisesGascon"}
 -
-  id: 30
+  id: 31
   name: "Virgina"
   surname: "Moreno Bonilla"
   company: "Ayuntamiento de Leganés"
