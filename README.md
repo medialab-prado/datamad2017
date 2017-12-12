@@ -6,6 +6,8 @@
 __DataMad 2017__ es un taller tecnológico del laboratorio de datos de Medialab-Prado para el desarrollo de proyectos con los datos abiertos del Ayuntamiento de Madrid como herramienta.
 
 ---
+[Enlace a la web](https://medialab-prado.github.io/datamad2017)
+---
 
 # Proyectos seleccionados
 ---
