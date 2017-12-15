@@ -8,7 +8,6 @@
     - {nombre: "David Alameda", twitter: "https://twitter.com/davidAlameda"}
   link: "https://elpais.com/ccaa/2017/04/28/madrid/1493377754_061223.html"
   medio: "El País"
-  formato:
   fecha: "30/04/2017"
 -
   id: 1
@@ -25,7 +24,7 @@
   id: 2
   title: "Donde se cruzan los caminos"
   thumbnailUrl: "audio.svg"
-  details: "Una historia sobre los turistas que visitan la capital"
+  details: "Un retrato del turismo de Madrid, aportando datos del Portal de Datos Abiertos del Ayuntamiento de Madrid. Los datos se acompañan testimonios de turistas extranjeros que visitan nuestra ciudad. Los datos económicos revelan el crecimiento y buena imágen que Madrid tiene en el mundo."
   formato: "audio"
   ribbon:
     - {abbr: "formato audio", title: "", url: ""}
@@ -40,6 +39,8 @@
   details: "Descubre en este plano interactivo de la capital dónde están las especies que te dan alergia"
   autores:
     - {nombre: "Paloma Ruiz del Pozo", twitter: "https://twitter.com/PalomaRuizdPozo"}
+  ribbon:
+    - {abbr: "Estudiante", title: "Estudiante", url: ""}
   link: "http://www.abc.es/espana/madrid/abci-mapa-alergias-madrid-201610020124_noticia.html"
   medio: "ABC"
   fecha: "02/10/2016"
@@ -72,6 +73,8 @@
   details: "La distribución no es proporcional al censo de perros, que en 2017 asciende a más de 281.000 ejemplares <br>Los que presentan una mejor situación son Barajas, Retiro y Vicálvaro <br>El mapa de las cacas de perro de Madrid: Tetuán, Usera y Centro, los mayores 'marrones' de la ciudad"
   autores:
     - {nombre: "Cecilio Galdón", twitter: "https://twitter.com/ceciliogaldon"}
+  ribbon:
+    - {abbr: "Estudiante", title: "Estudiante", url: ""}
   link: "http://www.elmundo.es/madrid/2017/08/09/5984bb4222601dbc5b8b457c.html"
   medio: "El Mundo"
   fecha: "09/08/2017"
@@ -164,6 +167,8 @@
   details: ""
   autores:
     - {nombre: "Cristina Palomo Garo"}
+  ribbon:
+    - {abbr: "Estudiante", title: "Estudiante", url: ""}
   link: "https://cpalomogaro.github.io/avisa"
   medio: ""
   fecha: "31/10/17"
