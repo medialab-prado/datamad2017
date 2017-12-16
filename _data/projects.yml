@@ -22,7 +22,8 @@
   proyecto: "https://play.google.com/store/apps/details?id=com.albaitdevs.puremadrid"
   docum: "https://github.com/medialab-prado/puremadrid/blob/master/README.md"
   repo: "https://github.com/medialab-prado/puremadrid"
-
+  ribbon:
+    - {abbr: "prize-1.png", title: "1er Premio", url: "", prize: "first", image: "prize-1.png"}
 -
   id: 2
   title: "Tripscore"
@@ -35,6 +36,8 @@
   proyecto: "http://tripscore.lab.oeg-upm.net/"
   docum: "https://github.com/medialab-prado/tripscore/blob/master/README.md"
   repo: "https://github.com/medialab-prado/tripscore"
+  ribbon:
+    - {abbr: "", title: "2º Premio", url: "", prize: "second", image: "prize-2.png"}
 -
   id: 3
   title: "Madrid On You"
@@ -80,3 +83,5 @@
   proyecto: "https://muranga.shinyapps.io/dataton17_m30int/"
   docum: "https://github.com/medialab-prado/m30trafico/blob/master/M30%20Gestion%20Inteligente%20del%20Trafico.pdf"
   repo: "https://github.com/medialab-prado/m30trafico"
+  ribbon:
+    - {abbr: "", title: "3er Premio", url: "", prize: "third", image: "prize-3.png"}

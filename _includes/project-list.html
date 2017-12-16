@@ -7,6 +7,18 @@
                <div class="zoe-effect" data-toggle="modal" data-target="#projectDetail-{{ project.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/hackathon/' | append: project.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
+                        {% if project.ribbon != null %}
+                        <ul class="ribbon-wrapper">
+                            {% for ribbon in project.ribbon %}
+                            <li class="{{ ribbon["abbr"] | downcase }}">
+                                <p class="ribbon {{ ribbon["prize"] }}">{{ ribbon["title"] }}</p>
+                            </li>
+                            <div class="prize-img-wrapper">
+                                <img class="img-responsive" width="50%" src="{{ site.baseurl }}/img/hackathon/{{ ribbon.image }}" alt="copa">
+                            </div>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
                                 <h2 class="name">{{ project.title }} <span>{{ project.surname }}</span></h2>
