@@ -48,23 +48,36 @@ $wt-ribbon-border-color: #72e1b3;
         background-color: #fff;
         box-shadow: 0 0 20px rgba(0, 0, 0, .2);
     }
+    .first {
+        color: black;
+        background-color: #FFD100;
+        box-shadow: 0 0 20px rgba(0, 0, 0, .2);
+    }
+    .second {
+        color: white;
+        background-color: #666666;
+    }
+    .third{
+      color: black;
+      background-color: #FF7500;
+    }
     .abbr {
         .ribbon-activator:hover & {
-            transform: translateX(100%); 
+            transform: translateX(100%);
             @media (max-width: 767px) {
-                transform: translateX(0);    
-            }   
-        }    
+                transform: translateX(0);
+            }
+        }
     }
     .full-title {
         clear: both;
         margin-top: -22px;
         transform: translateX(100%);
         .ribbon-activator:hover & {
-            transform: translateX(0);   
+            transform: translateX(0);
             @media (max-width: 767px) {
-                transform: translateX(100%);    
-            } 
-        } 
+                transform: translateX(100%);
+            }
+        }
     }
 }

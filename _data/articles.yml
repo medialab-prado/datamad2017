@@ -26,8 +26,6 @@
   thumbnailUrl: "audio.svg"
   details: "Un retrato del turismo de Madrid, aportando datos del Portal de Datos Abiertos del Ayuntamiento de Madrid. Los datos se acompañan testimonios de turistas extranjeros que visitan nuestra ciudad. Los datos económicos revelan el crecimiento y buena imágen que Madrid tiene en el mundo."
   formato: "audio"
-  ribbon:
-    - {abbr: "formato audio", title: "", url: ""}
   autores:
     - {nombre: "Gonzalo Estefanía"}
   medio: "Gestiona Radio"
@@ -40,7 +38,7 @@
   autores:
     - {nombre: "Paloma Ruiz del Pozo", twitter: "https://twitter.com/PalomaRuizdPozo"}
   ribbon:
-    - {abbr: "Estudiante", title: "Estudiante", url: ""}
+    - {abbr: "Estudiante", title: "2º Premio", url: "", prize: "second", image: "prize-2.png"}
   link: "http://www.abc.es/espana/madrid/abci-mapa-alergias-madrid-201610020124_noticia.html"
   medio: "ABC"
   fecha: "02/10/2016"
@@ -62,7 +60,7 @@
   autores:
     - {nombre: "José San Miguel Clavería"}
   ribbon:
-    - {abbr: "Estudiante", title: "Estudiante. Sin difusion en medios", url: ""}
+    - {abbr: "Estudiante", title: "", url: ""}
   link: "../assets/Peligro_sobre_las_dos_ruedas-1.pdf"
   medio: "Sin difusión en medios"
   fecha: "10/05/2017"
@@ -74,7 +72,7 @@
   autores:
     - {nombre: "Cecilio Galdón", twitter: "https://twitter.com/ceciliogaldon"}
   ribbon:
-    - {abbr: "Estudiante", title: "Estudiante", url: ""}
+    - {abbr: "Estudiante", title: "", url: ""}
   link: "http://www.elmundo.es/madrid/2017/08/09/5984bb4222601dbc5b8b457c.html"
   medio: "El Mundo"
   fecha: "09/08/2017"
@@ -127,6 +125,8 @@
   autores:
     - {nombre: "Marta Ley", twitter: "http://www.twitter.com/leymarta"}
     - {nombre: "Pablo Medina"}
+  ribbon:
+    - {abbr: "profesional", title: "2º premio", url: "", prize: "second", image: "prize-2.png"}
   link: "http://www.elmundo.es/grafico/madrid/2017/08/06/596cdf3ee2704e07148b45eb.html"
   medio: "El Mundo"
   fecha: "06/08/2017"
@@ -157,6 +157,8 @@
   details: "El precio del alquiler en Madrid y Barcelona ha crecido en el último año a un ritmo mucho mayor que los salarios, de forma que encontrar vivienda se ha convertido en un arduo desafío. <br>Gentrificación, pisos turísticos, especulación. ¿Qué hay detrás de la subida de los precios? "
   autores:
     - {nombre: "Flora Fosset", twitter: "https://twitter.com/florafosset"}
+  ribbon:
+    - {abbr: "profesional", title: "1er Premio", url: "", prize: "first", image: "prize-1.png"}
   link: "http://alquilarenelcentro.lol/"
   medio: "Taller de Periodismo de Datos 2017"
   fecha: ""
@@ -168,7 +170,7 @@
   autores:
     - {nombre: "Cristina Palomo Garo"}
   ribbon:
-    - {abbr: "Estudiante", title: "Estudiante", url: ""}
+    - {abbr: "estudiante", title: "1er Premio", url: "", prize: "first", image: "prize-1.png"}
   link: "https://cpalomogaro.github.io/avisa"
   medio: ""
   fecha: "31/10/17"
