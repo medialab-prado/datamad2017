@@ -1,14 +1,4 @@
 -
-  id: 0
-  name: "Alicia"
-  surname: "Gómez Nieto"
-  company: "Universidad Politécnica de Madrid"
-  title: "Profesora asociada"
-  bio: ""
-  thumbnailUrl: AliciaGomez.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/urbanoemergente"}
--
   id: 1
   name: "Ana"
   surname: "Revuelta Alonso"
@@ -59,26 +49,6 @@
   title: "Técnico Asedie"
   bio: "Técnico Asedie, Asociación Multisectorial de la Información. <br>Forma parte del grupo de trabajo que elabora el Informe del Sector Infomediario Asedie. <br>Forma parte del grupo de trabajo ‘’Datos Abiertos” de la Federación Española de Municipios y Provincias. <br>Realiza seguimiento de los portales de datos abiertos de la Administracion General de Estado y Comunidades Autónomas.<br>Participa en la monitorización de bases de datos solicitadas al Sector Público y en la busca de de nuevas fuentes de información."
   thumbnailUrl: CaseyAbernethy.jpg
--
-  id: 6
-  name: "Chus"
-  surname: "García"
-  company: "CTIC Centro Tecnológico"
-  title: "Experto en estándares W3C y gobierno abierto"
-  bio: "Chus García suma más de diez años de experiencia en análisis y desarrollo de proyectos informáticos. A su responsabilidad en la Unidad de Accesibilidad del Área de Tecnología de Fundación CTIC, añade la de coordinador de la Oficina Española de W3C. En 1997 se se incorporó a Fondo Formación, donde ejerció como responsable del Área de Desarrollo Web. En el año 2003, pasó a formar parte del equipo de la FICYT (Fundación para Investigación Científica Aplicada y la Tecnología), como responsable del Área de Tecnología Web. Como destacable, ha sido el desarrollador de la versión 1 del TAW (Test de Accesibilidad Web), siendo coordinador de dicho proyecto hasta el año 2007."
-  thumbnailUrl: ChusGarcia.jpg
--
-  id: 7
-  name: "Daniele"
-  surname: "Grasso"
-  company: "El Confidencial"
-  title: "Periodista de datos"
-  bio: "Daniele Grasso aterrizó en Madrid en 2009, después de una licenciatura en Filología Española en Milán. Dió sus primeros pasos como periodista en el mundo freelance, escribiendo para diferentes diarios mientras cursaba un Máster en Periodismo en la Universidad Complutense de Madrid. Después de una etapa en un pequeño periódico digital, trabajó como corresponsal para una agencia y un periódico transalpinos. En Septiembre de 2012 empezó a cursar el Máster en Periodismo de Investigación, Datos y Visualización de la Universidad Rey Juan Carlos y la Escuela de Periodismo de Unidad Editorial. Actualmente mezcla números y palabras en el periódico El Confidencial."
-  thumbnailUrl: DanieleGrasso.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/danielegrasso"}
-    - {name: "linkedin", link: "https://es.linkedin.com/in/daniele-grasso-9a76585"}
-    - {name: "site", link: "https://cortadoamaro.com/"}
 -
   id: 8
   name: "David"
@@ -173,25 +143,6 @@
   title: "Jefe de Innovación y Modernización y Director del Archivo de la Ciudad"
   bio: "Jefe de Innovación y Modernización y Director del Archivo de la Ciudad en el Ayuntamiento de Arganda del Rey (Madrid), Profesor asociado del área de Biblioteconomía y Documentación de la Universidad Carlos III de Madrid. Miembro de la Comisión Técnica de Sociedad de la Información y Nuevas Tecnologías de la FEMP. En el Ayuntamiento de Arganda del Rey coordina los sistemas de gestión documental y los procesos de modernización e implantación de la administración electrónica. Son numerosas sus publicaciones, especialmente las relacionadas con la función cultural de los archivos y los procesos de transformación digital en las organizaciones."
   thumbnailUrl: JulioCerda.jpg
--
-  id: 17
-  name: "Karma"
-  surname: "Peiró"
-  company: "NacióDigital"
-  title: "Directora"
-  bio: "Especialitzada en internet i les Tecnologies de la Informació i la Comunicació (TIC), és la directora de Nació Digital. És membre del grup espanyol de l'Open Knowledge Foundation"
-  thumbnailUrl: KarmaPeiro.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/kpeiro"}
-    - {name: "site", link: "https://karmapeiro.wordpress.com/"}
--
-  id: 18
-  name: "M Carmen"
-  surname: "García-Calvillo"
-  company: "Ayuntamiento de L’Hospitalet"
-  title: "Coordinadora del Gabinete de Alcaldía"
-  bio: "Licenciada en Ciencies Políticas y Diplomada en Gestión y Administración Pública por la Universidad de Barcelona. Coordinadora del Gabinete de Alcaldía del Ayuntamiento de L’Hospitalet desde el año 2014, departamento encargado de impulsar la puesta en marcha de los datos abiertos en el municipio. Miembro del grupo de trabajo de datos abiertos de la Red de entidades locales por la trasparencia y participación ciudadana de la FEMP desdel que hemos tenido la oportunidad de colaborar en la eleboración de la Guia de Datos Abiernos editada por la FEMP."
-  thumbnailUrl: MariCarmenGarciaCalvillo.jpg
 -
   id: 19
   name: "Mª Jesús"
